@@ -1,0 +1,96 @@
+---
+layout: page
+title: Видеокурсы для изучения JavaScript и JavaScript фреймворков на русском языке
+permalink: /courses/rus/
+---
+
+# Видеокурсы для изучения JavaScript и JavaScript фреймворков на русском языке
+
+Предлагаю, если вы хоть сколь-нибудь понимаете английскую речь, изучать материалы на <a href="/courses/eng/">английском языке</a>. На русском имеет смысл изучать, если уж совсем не удается что-то.
+
+
+<br/>
+
+### Решение задач на собеседование по Javascript. Требования. Вопрос-Ответ
+
+<div align="center">
+    
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/wTnG5COG0fw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
+
+<br/>
+
+### Решение задач на собеседование по React
+
+<div align="center">
+    
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/wqDJxtxzV5A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+    
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/K8fJhBayAk4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
+
+<br/>
+
+## Обучающие материалы
+
+<br/>
+
+### React
+
+<ul>
+    <li>[Udemy] React + Redux - Профессиональная Разработка [2019, RUS] - встречал множество позитивных отзывов (но я не смотрел)</li>
+    <li><a href="/dev/frontend/react/redux/">Объяснение Redux на понятном языке</a></li>
+    <li>[Webformyself] ReactJS с Нуля до Профи [2018, RUS]</li>
+    <li>CodeDojo по React и Redux (правда он немного устарел)</li>
+</ul>
+
+
+<br/>
+
+### Angular
+
+<ul>
+    <li>[Udemy] Angular 8 с нуля до профессионала. Полное руководство [2019, RUS]. Это же Владилен Минин. Как говорится, лайк не глядя. (но я не смотрел, может потом)</li>
+</ul>
+
+
+<br/>
+
+### Остальное
+
+<ul>
+    <li>[WebForMySelf] FullStack-Мастер [2018, RUS] - наверное лучший материал для старта (но я не смотрел)</li>
+    <li>Илья Кантор - материалы по Webpack <a href="https://www.youtube.com/playlist?list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn">YouTube</a></li>
+</ul>
+
+<br/>
+
+**Не понравилось:**
+
+<ul>
+    <li>[loftschool] React.js. Разработка веб-приложений [2018, RUS] - все время экран дергает, переключается. (Да неужели нельзя 2 монитора поставить да норм микрофон подключить?). Говорит АААААААА, МУУУУУУ и т.д. Читайте отзывы на рутрекере, не покупайте и не ходите на такие курсы.</li>
+    <li>[Javascript.Ninja] Базовый курс React [2018, RUS] - чего-то нудно как-то.</li>
+</ul>
+
+
+<br/>
+
+### Что из материалов есть в общем доступе:
+
+(Чтобы не потерялось. Ссылок на скачивание нет.)
+
+<ul>
+    <li><a href="/courses/lern-javascript-ru/">lern.javascript.ru</a></li>
+    <li><a href="/courses/specialist-ru/">specialist.ru</a></li>
+    <li><a href="/courses/itvdn/">ITVDN</a></li>
+    <li><a href="/courses/codedojo/">CodeDojo</a></li>
+</ul>
+
