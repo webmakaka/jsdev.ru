@@ -40,14 +40,14 @@ permalink: /
 
 Думаю, что его должны посмотреть все кто программирует на node.js, но так и не освоил TypeScript. Для node.js разработчика, появляются достаточно мощные дополнительные инструмены, позволяющие писать более надеждный код. Кто хочет, подключайтесь, догоняйте. Врочем, для тех кто незнаком с ООП, материал будет крайне сложным.
 
-Потом, наверное нужно будет посмотреть курсы: 
+Потом, наверное, нужно будет посмотреть курсы: 
 
-* [Udemy] Complete Guide to Elasticsearch
+* [Udemy, Bo Andersen] Complete Guide to Elasticsearch [11/2018, ENG]
 * [Udemy, Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2018, ENG]
 
 <br/>
 
-Новый курс от Brad Traversy. Можно купить по промо кодам. (Это не рефки. Я с этого ничего не буду иметь) 
+Вышел новый курс от Brad Traversy. Можно купить по промо кодам. (Это не рефки. Я с этого ничего не буду иметь). Brad в топе моих любимых авторов курсов по js. 
 
 * [Udemy, Brad Traversy] Node.js API Masterclass With Express & MongoDB [2019, ENG]
 
