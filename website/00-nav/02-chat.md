@@ -8,5 +8,5 @@ permalink: /chat/
 
 <br/>
 
-https://t.me/jsdev_org
+https://t.me/jsdev_ru
 
