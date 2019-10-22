@@ -51,8 +51,6 @@ permalink: /
 
 * [Udemy, Brad Traversy] Node.js API Masterclass With Express & MongoDB [2019, ENG]
 
-Special 3 day coupon: $9.99 (Ends on the 19th)  
-https://www.udemy.com/course/nodejs-api-masterclass/?couponCode=OCTOBER999
 
 30 day $13.99 coupon  
 https://www.udemy.com/course/nodejs-api-masterclass/?couponCode=OCTOBER1399

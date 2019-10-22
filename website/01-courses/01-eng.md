@@ -12,6 +12,7 @@ permalink: /courses/eng/
 
 * [Udemy, Andrew Mead] The Complete Node.js Developer Course (3rd Edition) [2019, ENG]
 * [Udemy, Stephen Grider] Typescript: The Complete Developer's Guide [2019, ENG] (Тоже нужно для серверного javascript)
+* [Udemy, Stephen Grider] Modern React with Redux [2019 Update] [2019, ENG]
 * [Udemy, Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [2019, ENG]
 * [Udemy, Stephen Grider] Docker and Kubernetes: The Complete Guide [2018, ENG]
 
