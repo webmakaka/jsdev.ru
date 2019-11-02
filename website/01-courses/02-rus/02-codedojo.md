@@ -7,12 +7,6 @@ permalink: /courses/codedojo/
 
 # Материалы с сайта CodeDojo
 
-
-<br/>
-
-### CodeDojo | JavaScript в деталях (2017) PCRec [H.264]
-
-
 <br/>
 
 ### Основы ES6

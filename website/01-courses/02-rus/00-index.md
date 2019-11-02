@@ -8,7 +8,6 @@ permalink: /courses/rus/
 
 Предлагаю, если вы хоть сколь-нибудь понимаете английскую речь, изучать материалы на <a href="/courses/eng/">английском языке</a>. На русском имеет смысл изучать, если уж совсем не удается что-то.
 
-
 <br/>
 
 ### Решение задач на собеседование по Javascript. Требования. Вопрос-Ответ
@@ -52,7 +51,6 @@ permalink: /courses/rus/
     <li>CodeDojo по React и Redux (правда он немного устарел)</li>
 </ul>
 
-
 <br/>
 
 ### Angular
@@ -60,7 +58,6 @@ permalink: /courses/rus/
 <ul>
     <li>[Udemy] Angular 8 с нуля до профессионала. Полное руководство [2019, RUS]. Это же Владилен Минин. Как говорится, лайк не глядя. (но я не смотрел, может потом)</li>
 </ul>
-
 
 <br/>
 
@@ -80,7 +77,6 @@ permalink: /courses/rus/
     <li>[Javascript.Ninja] Базовый курс React [2018, RUS] - чего-то нудно как-то.</li>
 </ul>
 
-
 <br/>
 
 ### Что из материалов есть в общем доступе:
@@ -89,8 +85,5 @@ permalink: /courses/rus/
 
 <ul>
     <li><a href="/courses/lern-javascript-ru/">lern.javascript.ru</a></li>
-    <li><a href="/courses/specialist-ru/">specialist.ru</a></li>
-    <li><a href="/courses/itvdn/">ITVDN</a></li>
     <li><a href="/courses/codedojo/">CodeDojo</a></li>
 </ul>
-
