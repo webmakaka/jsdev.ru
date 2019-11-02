@@ -60,6 +60,8 @@ UPD. Нужно пересмотреть курс, который ранее б�
 
 ![DigitalOcean промо на $50](/img/digitalocean-promo.png 'DigitalOcean промо на $50'){: .center-image }
 
+https://m.do.co/c/5424d440c63a
+
 Это не рефка. (По крайней мере не моя). Я ничего с этого не буду иметь. Взято из курса **[Udemy, Brad Traversy] Node.js API Masterclass With Express & MongoDB [2019, ENG]**
 
 <br/>
