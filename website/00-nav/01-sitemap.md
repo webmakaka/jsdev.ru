@@ -4,9 +4,7 @@ title: Карта Сайта
 permalink: /sitemap/
 ---
 
-
 # Карта Сайта
-
 
 <br/>
 
@@ -14,6 +12,4 @@ permalink: /sitemap/
 
 <ul>
     <li><a href="/courses/lern-javascript-ru/">lern.javascript.ru</a></li>
-    <li><a href="/courses/specialist-ru/">specialist.ru</a></li>
-    <li><a href="/courses/itvdn/">ITVDN</a></li>
 </ul>
