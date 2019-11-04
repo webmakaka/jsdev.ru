@@ -27,7 +27,10 @@ permalink: /
 Тем, кто хочет, но пока не знает, что это такое и с чего начать, рекомендую скачать/купить следующие материалы и <a href="/courses/eng/">ознакомиться с ними</a>
 
 Upd.  
-Само приложение успешно развернулось в kubernetes кластере. Но есть проблемы при обращении к api серверу. С вероятностью ~50% ответ от сервера завершается ошибкой.
+Само приложение успешно развернулось в kubernetes кластере. Но есть проблемы при обращении к api серверу. С вероятностью ~50% ответ от сервера завершается ошибкой. Пробовал разные версии kubernetes. Менял flannel на calico. Вроде как такая ошибка возникает при использовании vitualbox.
+
+Upd.
+Попробовал развернуть <a href="https://github.com/marley-nodejs/MERN-Stack-Front-To-Back-v2.0/blob/master/Minikube.md">следующее приложение</a> в minikube. Тоже проблемы. Буду устно благодарен за помощь в ее решении.
 
 <br/>
 
@@ -35,22 +38,52 @@ Upd.
 
 В настоящее время, админ сайта изучает видеокурс.
 
+<a href="https://github.com/marley-nodejs/Mastering-Node.js-11.x">[Packt, Dimitris Loukas] Mastering Node.js 11.x. [February 28, 2019, ENG]</a>
+
+Т.к материал нравится и он его на самом деле пересматривает. В планах посмотреть еще один курс этого автора.
+
+**[Packt, Dimitris Loukas] Real World Node js Projects [October 31, 2018, ENG]**
+
+<br/>
+
+**Немногим ранее изучал:**
+
 **[Udemy, Brad Traversy] Node.js API Masterclass With Express & MongoDB [2019, ENG]**
 
-Его можно купить по промо кодам. (Это не рефки. Я с этого ничего не буду иметь). Или найти на просторах интернета.
-
-30 day \$13.99 coupon  
-https://www.udemy.com/course/nodejs-api-masterclass/?couponCode=OCTOBER1399
+Его можно купить по промо кодам. Или найти на просторах интернета.
 
 Если хотите, можете делать параллельно. И задавать вопросы в чате, если такие появятся.
 
-UPD. Завершилось мое изучение этого материала. Здесь только rest api. Работа над фронтендом будет в следующем курсе. В заключительном видео Brad, сказал, что пока не определился, что он будет для этого использовать.
+Мое изучение этого материала завершено. Здесь только rest api. Работа над фронтендом будет в следующем курсе. В заключительном видео Brad, сказал, что пока не определился, что он будет для этого использовать.
 
 Для тех кому нужно все и сразу, курс [Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [2019, ENG] будет лучшим решением.
 
 <br/>
 
-UPD. Нужно пересмотреть курс, который ранее бегло посмотрел. <a href="https://github.com/marley-nodejs/Mastering-Node.js-11.x">[Packt] Mastering Node.js 11.x. </a>
+### Толковые (вроде) курсы по JS со скидкой
+
+Админ этого сайта ничего от этих купонов не будет иметь.
+
+Из преимуществ покупок:
+
+- поддрежка автора материалов
+- доступ к последней версии материала
+- возможность задавать вопросы в закрытой группе для обсуждения
+- оставлять комментарии
+
+<br/>
+
+**[Udemy, Maximilian Schwarzmuller] JavaScript - The Complete Guide 2020 (Beginner + Advanced) [2019, ENG]**
+
+10 евро  
+https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?couponCode=NEW_COURSE
+
+<br/>
+
+**[Udemy, Brad Traversy] Node.js API Masterclass With Express & MongoDB [2019, ENG]**
+
+30 day \$13.99 coupon  
+https://www.udemy.com/course/nodejs-api-masterclass/?couponCode=OCTOBER1399
 
 <br/>
 
