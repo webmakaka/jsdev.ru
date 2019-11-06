@@ -36,13 +36,11 @@ Upd.
 
 ### Совместное изучение js
 
-В настоящее время, админ сайта изучает видеокурс.
+В настоящее время, админ задумывается о просмотре курса.
 
-<a href="https://github.com/marley-nodejs/Mastering-Node.js-11.x">[Packt, Dimitris Loukas] Mastering Node.js 11.x. [February 28, 2019, ENG]</a>
+[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [2019, ENG]
 
-Т.к материал нравится и он его на самом деле пересматривает. В планах посмотреть еще один курс этого автора.
-
-**[Packt, Dimitris Loukas] Real World Node js Projects [October 31, 2018, ENG]**
+Там очень много материала. Если кто кочет, го в обсуждать в чат. Или хочется посмотреть что-то по современное по Server Side Rendering для react, но не next.js. И на английском без индусского, арабского и главное славянского акцента.
 
 <br/>
 
