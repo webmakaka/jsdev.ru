@@ -44,6 +44,16 @@ Upd.
 
 Три проекта. Достаточно симпатично представлены в презентации. Наверняка неплохо зайдут в портфолио.
 
+Первый проект пройден.
+
+Можно запустить у себя локально в docker контейрнере командой.
+
+```
+$ docker run -it \
+    -p 80:8080 \
+    techhead/react-practice-course-project1
+```
+
 <br/>
 
 **[Udemy] Complete React Developer In 2020 (W/ Redux, Hooks, GraphQL) [2019, ENG]**

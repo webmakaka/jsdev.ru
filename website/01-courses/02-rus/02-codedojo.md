@@ -4,21 +4,23 @@ title: Материалы с сайта CodeDojo
 permalink: /courses/codedojo/
 ---
 
-
 # Материалы с сайта CodeDojo
 
 <br/>
 
 ### Основы ES6
+
 https://www.youtube.com/watch?v=4YfsAz-sNAo&list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q
 
 (В последнем видео, автор говорит про следующее видео, но его достаточно давно нет.)
 
+<br/>
+
+### CodeDojo | JavaScript в деталях (2017) PCRec [H.264]
 
 <br/>
 
 ### CodeDojo | Основы Node.js (2017) PCRec [H.264/1080p-LQ]
-
 
 <br/>
 
@@ -46,4 +48,3 @@ copy / paste
 <br/>
 
 ### CodeDojo | Основы Redux (2017) PCRec [H.264/720p-LQ]
-
