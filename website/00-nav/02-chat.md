@@ -1,12 +1,23 @@
 ---
 layout: page
-title: Телеграм чат
+title: Чат
 permalink: /chat/
 ---
 
-# Телеграм чат
+# Чат
+
+<br/>
+
+### Телеграм чат
 
 <br/>
 
 https://t.me/jsdev_ru
 
+<br/>
+
+### Slack
+
+<br/>
+
+https://jsdev-org.slack.com/

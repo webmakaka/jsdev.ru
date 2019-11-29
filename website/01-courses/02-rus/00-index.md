@@ -42,13 +42,21 @@ permalink: /courses/rus/
 
 <br/>
 
+### JavaScript
+
+<ul>
+ <li>[WebForMySelf] JavaScript. Полное руководство для современной веб-разработки [2019, RUS, ММ]</li>
+ <li>CodeDojo | JavaScript в деталях (2017)</li>
+</ul>
+
+<br/>
+
 ### React
 
 <ul>
     <li>[Udemy] React + Redux - Профессиональная Разработка [2019, RUS] - встречал множество позитивных отзывов (но я не смотрел)</li>
     <li><a href="/dev/frontend/react/redux/">Объяснение Redux на понятном языке</a></li>
-    <li>[Webformyself] ReactJS с Нуля до Профи [2018, RUS]</li>
-    <li>CodeDojo по React и Redux (правда он немного устарел)</li>
+    <li>Владилен Минин | React JS с Нуля до Профи. Полное руководство (2019) </li>
 </ul>
 
 <br/>
