@@ -51,12 +51,10 @@ permalink: /courses/rus/
 
 <br/>
 
-### React
+### NodeJS
 
 <ul>
-    <li>[Udemy] React + Redux - Профессиональная Разработка [2019, RUS] - встречал множество позитивных отзывов (но я не смотрел)</li>
-    <li><a href="/dev/frontend/react/redux/">Объяснение Redux на понятном языке</a></li>
-    <li>Владилен Минин | React JS с Нуля до Профи. Полное руководство (2019) </li>
+    <li>[WebForMySelf, Владилен Минин] NodeJS. Полное руководство [2019, RUS, ММ] (я не смотрел, может потом)</li>
 </ul>
 
 <br/>
@@ -69,10 +67,20 @@ permalink: /courses/rus/
 
 <br/>
 
-### NodeJS
+### React
 
 <ul>
-    <li>[WebForMySelf, Владилен Минин] NodeJS. Полное руководство [2019, RUS, ММ] (я не смотрел, может потом)</li>
+    <li>[Udemy] React + Redux - Профессиональная Разработка [2019, RUS] - встречал множество позитивных отзывов (но я не смотрел)</li>
+    <li><a href="/dev/frontend/react/redux/">Объяснение Redux на понятном языке</a></li>
+    <li>Владилен Минин | React JS с Нуля до Профи. Полное руководство (2019) </li>
+</ul>
+
+<br/>
+
+### React Native
+
+<ul>
+    <li>[Udemy] React Native. Мобильная разработка на JavaScript и React JS [2019, RUS]</li>
 </ul>
 
 <br/>
