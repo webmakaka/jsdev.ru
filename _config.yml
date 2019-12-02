@@ -1,8 +1,8 @@
 # Site settings
 title: jsdev.ru
-description: Обучающие материалы по javascript, javascript фреймворкам и технологиям тесно с ними связанными - React, Angular.js, Vue.js, Node.js, jQuery, Mongodb, Linux, Docker, Kubernetes и др.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://jsdev.ru" # the base hostname & protocol for your site
+description: Изучаем обучающие материалы по современному javascript - React, Angular.js, Vue.js, Node.js, jQuery
+baseurl: '' # the subpath of your site, e.g. /blog/
+url: 'https://jsdev.ru' # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
