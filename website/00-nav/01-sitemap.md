@@ -8,8 +8,11 @@ permalink: /sitemap/
 
 <br/>
 
-(Просто ссылки, чтобы не потерялось)
+### [Видеокурсы](/courses/)
 
-<ul>
-    <li><a href="/courses/lern-javascript-ru/">lern.javascript.ru</a></li>
-</ul>
+### [Книги](/books/)
+
+### [Объяснение Redux на понятном языке](/dev/frontend/react/redux/)
+
+### [Deploy](/deploy/)
+

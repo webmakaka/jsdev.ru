@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oracle Cloud Free Tier
-permalink: /clouds/oracle-cloud-free-tier/
+permalink: /deploy/clouds/oracle-cloud-free-tier/
 ---
 
 # Oracle Cloud Free Tier
@@ -19,3 +19,24 @@ Oracle дает аж 4 бесплатных облака навсегда.
 Более подробно.
 
 https://servernews.ru/994202
+
+<br/>
+
+=========================
+
+<br/>
+
+### Бесплатные курсы от Pluralsight для изучения облаков Oracle
+
+
+![pluralsight oracle clouds free courses](/img/pluralsight-oracle-clouds-free-courses.jpg 'pluralsight oracle clouds free courses'){: .center-image }
+
+
+<a href="https://blogs.oracle.com/developers/take-advantage-of-new-training-to-get-started-building-on-oracle%e2%80%99s-cloud"></a>
+
+Найти в тексте: 
+You can sign up for this training offer here:go.pluralsight.com/blog
+
+Перейти и зарегаться.
+
+Там ничего особенного, но вдруг кому-то будет полезно.

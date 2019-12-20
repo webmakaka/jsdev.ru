@@ -14,8 +14,3 @@ permalink: /courses/eng/
 
 Перенесено <a href="//labs.jsdev.org/top-video-courses-for-study-js/">сюда</a>
 
-<br/>
-
-Впринципе, понравился курс, где создается микросервисное приложение с использованием docker, pm2. Он немного скучноват, но я определенно нашел для себя что-то новое.
-
-<a href="https://github.com/marley-nodejs/Mastering-Node.js-11.x">[Packt, Dimitris Loukas] Mastering Node.js 11.x. [February 28, 2019, ENG]</a>

@@ -4,7 +4,6 @@ title: Объяснение Redux на понятном языке
 permalink: /dev/frontend/react/redux/
 ---
 
-
 # Объяснение Redux на понятном языке
 
 <br/>
