@@ -26,6 +26,8 @@ permalink: /
 
 **[Udemy] Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) [2019, ENG]**
 
+https://github.com/marley-nodejs/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL
+
 Наверное, это самый интересный и полезный курс по React который смотрел когда-либо. 
 
 
@@ -57,7 +59,9 @@ https://github.com/marley-nodejs/The-React-Practice-Course-Learn-by-Building-Pro
 
 **[Udemy, Brad Traversy] Node.js API Masterclass With Express & MongoDB [2019, ENG]**
 
-Мое изучение этого материала завершено. Здесь только rest api. Работа над фронтендом будет в следующем курсе. В заключительном видео Brad, сказал, что пока не определился, что он будет для этого использовать.
+https://github.com/marley-nodejs/Node.js-API-Masterclass-With-Express-MongoDB
+
+До конца досмотрел видеокурс. Здесь только rest api. Работа над фронтендом будет в следующем курсе. В заключительном видео Brad, сказал, что пока не определился, что он будет для этого использовать.
 
 Для тех кому нужно все и сразу, курс [Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [2019, ENG] будет лучшим решением.
 
