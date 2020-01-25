@@ -26,4 +26,4 @@ https://join.slack.com/t/jsdev-org/shared_invite/enQtODUzNjk2MDIyNzQwLTgzMjJkMzV
 
 <br/>
 
-Для для общения в slack, можно также установить desktop приложение.
+Для общения в slack, можно также установить desktop приложение.

@@ -24,6 +24,12 @@ https://habr.com/ru/post/485294/
 
 <br/>
 
+Тот же автор:
+
+https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
+
+<br/>
+
 ### Совместное изучение js
 
 Сейчас наступила некоторая пауза. И изучаю python.
