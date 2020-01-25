@@ -45,8 +45,8 @@ permalink: /courses/rus/
 ### JavaScript
 
 <ul>
- <li>[WebForMySelf] JavaScript. Полное руководство для современной веб-разработки [2019, RUS, ММ]</li>
- <li>CodeDojo | JavaScript в деталях (2017)</li>
+ <li>[WebForMySelf] JavaScript. Полное руководство для современной веб-разработки [2019, RUS]</li>
+ <li>CodeDojo | JavaScript в деталях (2017) (Очень понравился, в свое время.)</li>
 </ul>
 
 <br/>
@@ -54,7 +54,7 @@ permalink: /courses/rus/
 ### NodeJS
 
 <ul>
-    <li>[WebForMySelf, Владилен Минин] NodeJS. Полное руководство [2019, RUS, ММ] (я не смотрел, может потом)</li>
+    <li>[WebForMySelf, Владилен Минин] NodeJS. Полное руководство [2019, RUS] (я не смотрел, может потом)</li>
 </ul>
 
 <br/>
