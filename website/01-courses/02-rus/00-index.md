@@ -59,6 +59,20 @@ permalink: /courses/rus/
 
 <br/>
 
+**Современный курс по Node.js в 2020**
+
+Должно быть интересно!
+
+https://habr.com/ru/post/485294/
+
+<br/>
+
+Тот же автор:
+
+https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
+
+<br/>
+
 ### Angular
 
 <ul>
