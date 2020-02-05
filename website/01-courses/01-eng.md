@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Видеокурсы для изучения JavaScript и JavaScript фреймворков на англияком языке
+description: Записываем наиболее интересные видеокурсы на английском языке, чтобы рекомендовать их к просмотру или повторному обращению к ним при необходимости
+keywords: Видеокурсы, javascript, английский язык
 permalink: /courses/eng/
 ---
 
@@ -13,4 +15,3 @@ permalink: /courses/eng/
 <br/>
 
 Перенесено <a href="//labs.jsdev.org/top-video-courses-for-study-js/">сюда</a>
-

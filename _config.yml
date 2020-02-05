@@ -1,6 +1,10 @@
 # Site settings
 title: jsdev.ru
+
 description: Изучаем обучающие материалы по современному javascript - React, Angular.js, Vue.js, Node.js, jQuery
+
+keywords: javascript, js, node.js, react, vue.js, angular, typescript, docker, linux, kubernetes
+
 baseurl: '' # the subpath of your site, e.g. /blog/
 url: 'https://jsdev.ru' # the base hostname & protocol for your site
 

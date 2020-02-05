@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Скидываемся на покупку премиум аккаунтов для скачивания курсов с coursehunters, sharewood, pluralsight, rapidgator, etc
+description: Скидываемся на покупку премиум аккаунтов для скачивания курсов с coursehunters, sharewood, pluralsight, rapidgator, etc
+keywords: coursehunters, sharewood, премиум, совместная покупка премиум аккаунта, скаладчина, udemy курсы, обмен материалами
 permalink: /coursehunters-skladchina/
 ---
 
@@ -21,5 +23,3 @@ permalink: /coursehunters-skladchina/
 Тоже самое относится и к sharewood.
 
 Возможно, что также имеет смысл объединяться для приобретения материалов pluralsight или премиум аккаунтов для скачивания с варезников.
-
-<strong>tags: coursehunters, sharewood, премиум, совместная покупка премиум аккаунта, скаладчина, udemy курсы, как скачать с coursehunters</strong>

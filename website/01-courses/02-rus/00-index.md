@@ -1,40 +1,14 @@
 ---
 layout: page
 title: Видеокурсы для изучения JavaScript и JavaScript фреймворков на русском языке
+description: Записываем наиболее интересные видеокурсы на русском языке, чтобы рекомендовать их к просмотру или повторному обращению к ним при необходимости
+keywords: Видеокурсы, javascript, русский язык
 permalink: /courses/rus/
 ---
 
 # Видеокурсы для изучения JavaScript и JavaScript фреймворков на русском языке
 
 Предлагаю, если вы хоть сколь-нибудь понимаете английскую речь, изучать материалы на <a href="/courses/eng/">английском языке</a>. На русском имеет смысл изучать, если уж совсем не удается что-то.
-
-<br/>
-
-### Решение задач на собеседование по Javascript. Требования. Вопрос-Ответ
-
-<div align="center">
-    
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/wTnG5COG0fw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-</div>
-
-<br/>
-
-### Решение задач на собеседование по React
-
-<div align="center">
-    
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/wqDJxtxzV5A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-    
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/K8fJhBayAk4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-</div>
 
 <br/>
 
@@ -129,3 +103,31 @@ https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
     <li><a href="/courses/lern-javascript-ru/">lern.javascript.ru</a></li>
     <li><a href="/courses/codedojo/">CodeDojo</a></li>
 </ul>
+
+<br/>
+
+# Решение задач на собеседование по Javascript. Требования. Вопрос-Ответ
+
+<div align="center">
+    
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/wTnG5COG0fw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
+
+<br/>
+
+### Решение задач на собеседование по React
+
+<div align="center">
+    
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/wqDJxtxzV5A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+    
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/K8fJhBayAk4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>

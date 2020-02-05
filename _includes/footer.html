@@ -1,10 +1,6 @@
 <footer class="site-footer">
-
   <div class="wrapper">
-
-
     <!-- disquss -->
-
 
     <!-- disquss -->
 
@@ -12,6 +8,13 @@
 
     <!-- Google Analitics -->
 
+    <div align="center">
+      {% if page.keywords %}
+      <p>
+        <strong>Tags:</strong> {{ page.keywords | strip_html | strip_newlines |
+        truncate: 160 }} {% endif %}
+      </p>
+    </div>
 
     <h2 class="footer-heading" align="center">{{ site.title }}</h2>
     <p align="center">
@@ -21,10 +24,11 @@
       <strong>Группа в телеграм: jsdev_ru</strong>
     </p>
     <p align="center">
-      <strong>Если кто-то захочет поучавствовать в добавлении материалов, исходные коды на <a
-          href="https://github.com/marley-nodejs/jsdev.ru">github</a></strong>
+      <strong
+        >Если кто-то захочет поучавствовать в добавлении материалов, исходные
+        коды на
+        <a href="https://github.com/marley-nodejs/jsdev.ru">github</a></strong
+      >
     </p>
-
   </div>
-
 </footer>
