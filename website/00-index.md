@@ -43,7 +43,9 @@ permalink: /
 
 <br/>
 
-Что касается меня, сейчас изучаю курс "MEAD - The Modern GraphQL Bootcamp (With Node.Js And Apollo)" с обновлениями от лета 2019 год.
+Что касается меня, сейчас изучаю курс
+
+<a href="https://github.com/marley-nodejs/The-Modern-GraphQL-Bootcamp-2019" rel="nofollow"> [Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2019, ENG]</a>(With Node.Js And Apollo)" с обновлениями от лета 2019 год.
 
 <br/>
 
@@ -57,9 +59,7 @@ https://github.com/marley-nodejs/Complete-React-Developer-In-2020-Redux-Hooks-Gr
 
 Наверное, это самый интересный и полезный курс по React который смотрел когда-либо.
 
-Но на самом деле он под конец начинает поднадоидать. Мы по сути на один проект то накатываем какие-то технологии, то их скручиваем. То redux-thunk, to saga, to hooks.
-
-После изучения темы про GraphQL, пришел к выводу, что материала в курсе по этой теме для меня недостаточно, поэтому сейчас смотрю "MEAD - The Modern GraphQL Bootcamp (With Node.Js And Apollo)" с обновлениями от лета 2019 год.
+Но на самом деле он под конец начинает поднадоедать. Мы по сути на один проект то накатываем какие-то технологии, то их скручиваем. То redux-thunk, to redux-saga, to hooks.
 
 <br/>
 
