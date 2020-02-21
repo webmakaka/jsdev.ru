@@ -12,14 +12,13 @@ permalink: /deploy/local/kubernetes/
 
 https://github.com/marley-nodejs/The-React-Practice-Course-Learn-by-Building-Projects
 
-
 <br/>
 
 ### Предлагал развернуть js приложение (react/nodejs) в локальном Kubernetes кластере
 
 Само приложение можно взять <a href="https://github.com/marley-nodejs/MERN-Stack-Front-To-Back-v2.0">здесь</a>
 
-А kubernetes кластер поднимается скриптами и для его запуска, достаточно всего выполнить следующие <a href="https://sysadm.ru//linux/servers/containers/kubernetes/kubeadm/prepared-cluster/">инструкции</a>. Правда все это подготовлено для linux.
+А kubernetes кластер поднимается скриптами и для его запуска, достаточно всего выполнить следующие <a href="https://sysadm.ru/devops/containers/kubernetes/kubeadm/prepared-cluster/">инструкции</a>. Правда все это подготовлено для linux.
 
 <br/>
 
