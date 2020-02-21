@@ -8,6 +8,14 @@ permalink: /
 
 <br/>
 
+### [Stephen Grider] The Modern Angular Bootcamp [2020]
+
+Если кому тоже не помешет, помогите скачать с файлопомоек.
+
+https://t.me/jsdev_ru/607
+
+<br/>
+
 ### Совместное изучение js
 
 Изучать материалы интереснее в коллективе, особенно когда что-то не работает и есть у кого спросить, посмотреть код, задать вопрос.
@@ -45,7 +53,11 @@ permalink: /
 
 Что касается меня, сейчас изучаю курс
 
-<a href="https://github.com/marley-nodejs/The-Modern-GraphQL-Bootcamp-2019" rel="nofollow"> [Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2019, ENG]</a>(With Node.Js And Apollo)" с обновлениями от лета 2019 год.
+<a href="https://github.com/marley-nodejs/The-Modern-GraphQL-Bootcamp-2019" rel="nofollow"> [Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2019, ENG]</a> (With Node.Js And Apollo)" с обновлениями от лета 2019 год.
+
+<br/>
+
+В планах найти в интернетах и посмотреть курс по React с сайта advancedreact com, когда тот выйдет и мы его найдем на каком-нибудь из ресурсов сети интернет.
 
 <br/>
 
