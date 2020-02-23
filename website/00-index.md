@@ -10,9 +10,7 @@ permalink: /
 
 ### [Stephen Grider] The Modern Angular Bootcamp [2020]
 
-Если кому тоже не помешет, помогите скачать с файлопомоек.
-
-https://t.me/jsdev_ru/607
+Появились планы посмотреть материалы от автора из топ 2 по моему вкусу. Первый, скорее всего, Andrew Mead. А в том 3 для меня еще входит Brad Traversy.
 
 <br/>
 
