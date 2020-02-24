@@ -24,7 +24,7 @@ https://searchengines.guru/showthread.php?t=1010199
 
 <br/>
 
-### <a href="https://github.com/marley-nodejs/MERN-Stack-Front-To-Back-v2.0" rel="nofollow" target="_blank">[Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [2019, ENG]</a>
+### <a href="https://github.com/webmakaka/MERN-Stack-Front-To-Back-v2.0" rel="nofollow" target="_blank">[Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [2019, ENG]</a>
 
 <br/>
 
@@ -32,7 +32,6 @@ https://searchengines.guru/showthread.php?t=1010199
 
 http://todomvc.com/
 
-
 <br/>
 
-### <a href="https://github.com/marley-nodejs/Learn-Nodejs-by-building-10-projects" rel="nofollow" target="_blank">[Brad Traversy] Learn Nodejs by building 10 projects [ENG, 2015]</a>
+### <a href="https://github.com/webmakaka/Learn-Nodejs-by-building-10-projects" rel="nofollow" target="_blank">[Brad Traversy] Learn Nodejs by building 10 projects [ENG, 2015]</a>

@@ -45,13 +45,13 @@ permalink: /
 
 Как пример:
 
-<a href="https://github.com/marley-nodejs/React-hooks-writing-real-project" rel="nofollow">[React] [Udemy, Oleksandr Kocherhin] React Hooks - Пишем Реальный Проект с Нуля [2019, RUS]</a>
+<a href="https://github.com/webmakaka/React-hooks-writing-real-project" rel="nofollow">[React] [Udemy, Oleksandr Kocherhin] React Hooks - Пишем Реальный Проект с Нуля [2019, RUS]</a>
 
 <br/>
 
 Что касается меня, сейчас изучаю курс
 
-<a href="https://github.com/marley-nodejs/The-Modern-GraphQL-Bootcamp-2019" rel="nofollow"> [Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2019, ENG]</a> (With Node.Js And Apollo)" с обновлениями от лета 2019 год.
+<a href="https://github.com/webmakaka/The-Modern-GraphQL-Bootcamp-2019" rel="nofollow"> [Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2019, ENG]</a> (With Node.Js And Apollo)" с обновлениями от лета 2019 год.
 
 <br/>
 
@@ -65,7 +65,7 @@ permalink: /
 
 **[Udemy] Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) [2019, ENG]**
 
-https://github.com/marley-nodejs/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL
+https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL
 
 Наверное, это самый интересный и полезный курс по React который смотрел когда-либо.
 
@@ -87,13 +87,13 @@ $ docker run -it \
 
 **Остальные:**
 
-https://github.com/marley-nodejs/The-React-Practice-Course-Learn-by-Building-Projects
+https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects
 
 <br/>
 
 **[Udemy, Brad Traversy] Node.js API Masterclass With Express & MongoDB [2019, ENG]**
 
-https://github.com/marley-nodejs/Node.js-API-Masterclass-With-Express-MongoDB
+https://github.com/webmakaka/Node.js-API-Masterclass-With-Express-MongoDB
 
 До конца досмотрел видеокурс. Здесь только rest api. Работа над фронтендом будет в следующем курсе. В заключительном видео Brad, сказал, что пока не определился, что он будет для этого использовать.
 
