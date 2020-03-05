@@ -6,11 +6,6 @@ permalink: /
 
 # Материалы для изучения JavaScript и JavaScript фреймворков на русском языке
 
-<br/>
-
-### [Stephen Grider] The Modern Angular Bootcamp [2020]
-
-Появились планы посмотреть материалы от автора из топ 2 по моему вкусу. Первый, скорее всего, Andrew Mead. А в том 3 для меня еще входит Brad Traversy.
 
 <br/>
 
@@ -43,23 +38,27 @@ permalink: /
 - Важные изменения в дизайне приложения фиксировать в скриншотах и добавлять их также в проект.
 - А здесь (или создадим поддомен для этого) мы размещаем ссылки на публичные репо участников.
 
-Как пример:
+<br/>
 
-<a href="https://github.com/webmakaka/React-hooks-writing-real-project" rel="nofollow">[React] [Udemy, Oleksandr Kocherhin] React Hooks - Пишем Реальный Проект с Нуля [2019, RUS]</a>
+Как пример, приступаю к изучению:
+
+<a href="https://github.com/webmakaka/MERN-Stack-The-Complete-Guide" rel="nofollow">[Reed Barger] MERN Stack - The Complete Guide [ENG, 2020]</a>
+
+Посмотрите, в превью видео (Final App Preview):
+
+https://www.udemy.com/course/mern-stack-the-complete-guide/
+
+
+Кто присоединится?
+
 
 <br/>
 
-Что касается меня, сейчас изучаю курс
-
-<a href="https://github.com/webmakaka/The-Modern-GraphQL-Bootcamp-2019" rel="nofollow"> [Andrew Mead] The Modern GraphQL Bootcamp (Advanced Node.js) [2019, ENG]</a> (With Node.Js And Apollo)" с обновлениями от лета 2019 год.
+Также в планах найти в интернетах и посмотреть курс по React с сайта advancedreact com, когда тот выйдет и мы его найдем на каком-нибудь из ресурсов сети интернет. А выход его затягивается, т.к. автор ждет релиза Apollo Client 3.0
 
 <br/>
 
-В планах найти в интернетах и посмотреть курс по React с сайта advancedreact com, когда тот выйдет и мы его найдем на каком-нибудь из ресурсов сети интернет.
-
-<br/>
-
-**Ранее смотрел:**
+**Ранее смотрел и могу рекомендовать**
 
 <br/>
 
@@ -89,15 +88,6 @@ $ docker run -it \
 
 https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects
 
-<br/>
-
-**[Udemy, Brad Traversy] Node.js API Masterclass With Express & MongoDB [2019, ENG]**
-
-https://github.com/webmakaka/Node.js-API-Masterclass-With-Express-MongoDB
-
-До конца досмотрел видеокурс. Здесь только rest api. Работа над фронтендом будет в следующем курсе. В заключительном видео Brad, сказал, что пока не определился, что он будет для этого использовать.
-
-Для тех кому нужно все и сразу, курс [Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [2019, ENG] будет лучшим решением.
 
 <br/>
 <br/>
