@@ -84,14 +84,6 @@ https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
     <li>Илья Кантор - материалы по Webpack <a href="https://www.youtube.com/playlist?list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn">YouTube</a></li>
 </ul>
 
-<br/>
-
-**Не понравилось:**
-
-<ul>
-    <li>[loftschool] React.js. Разработка веб-приложений [2018, RUS] - все время экран дергает, переключается. (Да неужели нельзя 2 монитора поставить да норм микрофон подключить?). Говорит АААААААА, МУУУУУУ и т.д. Читайте отзывы, не покупайте и не ходите на такие курсы.</li>
-    <li>[Javascript.Ninja] Базовый курс React [2018, RUS] - чего-то нудно как-то.</li>
-</ul>
 
 
 <br/>
