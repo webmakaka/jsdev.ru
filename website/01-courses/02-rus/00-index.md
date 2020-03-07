@@ -93,16 +93,6 @@ https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
     <li>[Javascript.Ninja] Базовый курс React [2018, RUS] - чего-то нудно как-то.</li>
 </ul>
 
-<br/>
-
-### Что из материалов есть в общем доступе:
-
-(Чтобы не потерялось. Ссылок на скачивание нет.)
-
-<ul>
-    <li><a href="/courses/lern-javascript-ru/">lern.javascript.ru</a></li>
-    <li><a href="/courses/codedojo/">CodeDojo</a></li>
-</ul>
 
 <br/>
 
