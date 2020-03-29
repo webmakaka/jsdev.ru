@@ -105,5 +105,3 @@ https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Project
 <br/>
 
 **Обсуждаем всякую ерунду, обменваемся материалами, обсуждаем вакансии <a href="/chat/">в телеграм чате</a>**
-
-**Скидываемся на покупку премиум аккаунтов для скачивания курсов с coursehunters, sharewood, pluralsight, rapidgator, etc <a href="/coursehunters-skladchina/">здесь</a>**
