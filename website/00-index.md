@@ -9,6 +9,25 @@ permalink: /
 
 <br/>
 
+### [Pluralsight] Free April Month
+
+![Pluralsight Free April Month](/img/pluralsight-free-april.jpg 'Pluralsight Free April Month]'){: .center-image }
+
+https://www.pluralsight.com/offer/2020/free-april-month
+
+<br/>
+
+### [OTUS] Подготовительный курс по JS для начинающих программистов за 1 рубль
+
+![Otus JS Видеокурс за 1 рубль](/img/otus-js-1-rub.jpg 'Otus JS Видеокурс за 1 рубль'){: .center-image }
+
+Может кому будет полезно. Цена оправдана.
+Также, там есть для начинающих по этой же цене курсы по Linux, DevOps, Java, PHP, C++, Python
+
+https://otus.ru/online/
+
+<br/>
+
 ### [OTUS] Подготовительный курс по JS для начинающих программистов за 1 рубль
 
 ![Otus JS Видеокурс за 1 рубль](/img/otus-js-1-rub.jpg 'Otus JS Видеокурс за 1 рубль'){: .center-image }
