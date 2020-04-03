@@ -17,6 +17,11 @@ https://www.pluralsight.com/offer/2020/free-april-month
 
 <br/>
 
+**Download courses from learning sites:**  
+https://gist.github.com/jesperorb/c14aef85735c54f479896cfa6f16a1e5
+
+<br/>
+
 ### [OTUS] Подготовительный курс по JS для начинающих программистов за 1 рубль
 
 ![Otus JS Видеокурс за 1 рубль](/img/otus-js-1-rub.jpg 'Otus JS Видеокурс за 1 рубль'){: .center-image }
