@@ -9,27 +9,30 @@ permalink: /
 
 <br/>
 
+### [Stephen Grider] Microservices with Node JS and React [ENG, 2020]
+
+ЭЭх, надо смотреть.
+Это же Грайдер.
+
+https://www.udemy.com/course/microservices-with-node-js-and-react/
+
+Кому интересны темы docker, kubernetes, react, node.js, присоединяйтесь.
+
+
+<br/>
+
 ### [Pluralsight] Free April Month
 
 ![Pluralsight Free April Month](/img/pluralsight-free-april.jpg 'Pluralsight Free April Month]'){: .center-image }
 
 https://www.pluralsight.com/offer/2020/free-april-month
 
-<br/>
-
-**Download courses from learning sites:**  
-https://gist.github.com/jesperorb/c14aef85735c54f479896cfa6f16a1e5
 
 <br/>
 
-### [OTUS] Подготовительный курс по JS для начинающих программистов за 1 рубль
+Пытался скачать с помощью udemy-dl со всякими интервалами и cookies и получил бан.
 
-![Otus JS Видеокурс за 1 рубль](/img/otus-js-1-rub.jpg 'Otus JS Видеокурс за 1 рубль'){: .center-image }
 
-Может кому будет полезно. Цена оправдана.
-Также, там есть для начинающих по этой же цене курсы по Linux, DevOps, Java, PHP, C++, Python
-
-https://otus.ru/online/
 
 <br/>
 
@@ -41,6 +44,8 @@ https://otus.ru/online/
 Также, там есть для начинающих по этой же цене курсы по Linux, DevOps, Java, PHP, C++, Python
 
 https://otus.ru/online/
+
+
 
 
 <br/>
