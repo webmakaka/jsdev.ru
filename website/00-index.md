@@ -16,7 +16,11 @@ permalink: /
 
 https://www.udemy.com/course/microservices-with-node-js-and-react/
 
+<br/>
+
 Кому интересны темы docker, kubernetes, react, node.js, присоединяйтесь.
+
+https://github.com/webmakaka/Microservices-with-Node-JS-and-React
 
 
 <br/>
