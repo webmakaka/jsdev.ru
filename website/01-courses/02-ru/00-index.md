@@ -19,8 +19,9 @@ permalink: /courses/ru/
 ### JavaScript
 
 <ul>
- <li>[WebForMySelf] JavaScript. Полное руководство для современной веб-разработки [2019, RUS]</li>
- <li>CodeDojo | JavaScript в деталях (2017) (Очень понравился, в свое время.)</li>
+    <li>[Владилен Минин] JavaScript. Стань Senior Frontend Разработчиком [2020, RUS]</li>
+    <li>[WebForMySelf] JavaScript. Полное руководство для современной веб-разработки [2019, RUS]</li>
+    <li>CodeDojo | JavaScript в деталях (2017) (Очень понравился, в свое время.)</li>
 </ul>
 
 <br/>
@@ -58,7 +59,7 @@ https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
 ### React
 
 Все материалы, где не используются hooks, могут рассматриваться как устаревшие.
-Более, того, те материалы которые не создавались изначально под hooks, также могут быть отправлены в мусорку, как устаревшие.
+Более того, те материалы которые не создавались изначально под hooks, также могут быть отправлены в мусорку, как устаревшие.
 
 <ul>
     <li>[MonsterLessons] React Hooks - Пишем Реальный Проект с Нуля [2019, RUS] (смотрю)</li>
@@ -83,8 +84,6 @@ https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
     <li>[WebForMySelf] FullStack-Мастер [2018, RUS] - наверное лучший материал для старта (но я не смотрел)</li>
     <li>Илья Кантор - материалы по Webpack <a href="https://www.youtube.com/playlist?list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn">YouTube</a></li>
 </ul>
-
-
 
 <br/>
 

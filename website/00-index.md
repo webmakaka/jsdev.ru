@@ -6,7 +6,6 @@ permalink: /
 
 # Материалы для изучения JavaScript и JavaScript фреймворков на русском языке
 
-
 <br/>
 
 ### [Stephen Grider] Microservices with Node JS and React [ENG, 2020]
@@ -22,22 +21,6 @@ https://www.udemy.com/course/microservices-with-node-js-and-react/
 
 https://github.com/webmakaka/Microservices-with-Node-JS-and-React
 
-
-<br/>
-
-### [Pluralsight] Free April Month
-
-![Pluralsight Free April Month](/img/pluralsight-free-april.jpg 'Pluralsight Free April Month]'){: .center-image }
-
-https://www.pluralsight.com/offer/2020/free-april-month
-
-
-<br/>
-
-Пытался скачать с помощью udemy-dl со всякими интервалами и cookies и получил бан.
-
-
-
 <br/>
 
 ### [OTUS] Подготовительный курс по JS для начинающих программистов за 1 рубль
@@ -48,9 +31,6 @@ https://www.pluralsight.com/offer/2020/free-april-month
 Также, там есть для начинающих по этой же цене курсы по Linux, DevOps, Java, PHP, C++, Python
 
 https://otus.ru/online/
-
-
-
 
 <br/>
 
@@ -93,9 +73,7 @@ https://otus.ru/online/
 
 https://www.udemy.com/course/mern-stack-the-complete-guide/
 
-
 Кто присоединится?
-
 
 <br/>
 
@@ -132,7 +110,6 @@ $ docker run -it \
 **Остальные:**
 
 https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects
-
 
 <br/>
 <br/>
