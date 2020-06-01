@@ -47,6 +47,17 @@ https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-an
 
 <br/>
 
+### [Stephen Grider] Typescript: The Complete Developer's Guide [2020, ENG]
+
+https://www.udemy.com/course/typescript-the-complete-developers-guide/
+
+<br/>
+
+Потрясающий материал, для всех кто изучает node.js.  
+Пересматриваю его. Первый раз смотрел бегло. Мало, что запомнил.
+
+<br/>
+
 ### [Stephen Grider] Microservices with Node JS and React [ENG, 2020]
 
 https://www.udemy.com/course/microservices-with-node-js-and-react/
