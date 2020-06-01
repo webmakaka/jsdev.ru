@@ -8,33 +8,7 @@ permalink: /
 
 <br/>
 
-### [Stephen Grider] Microservices with Node JS and React [ENG, 2020]
-
-ЭЭх, надо смотреть.
-Это же Грайдер.
-
-https://www.udemy.com/course/microservices-with-node-js-and-react/
-
-<br/>
-
-Кому интересны темы docker, kubernetes, react, node.js, присоединяйтесь.
-
-https://github.com/webmakaka/Microservices-with-Node-JS-and-React
-
-<br/>
-
-### [OTUS] Подготовительный курс по JS для начинающих программистов за 1 рубль
-
-![Otus JS Видеокурс за 1 рубль](/img/otus-js-1-rub.jpg 'Otus JS Видеокурс за 1 рубль'){: .center-image }
-
-Может кому будет полезно. Цена оправдана.
-Также, там есть для начинающих по этой же цене курсы по Linux, DevOps, Java, PHP, C++, Python
-
-https://otus.ru/online/
-
-<br/>
-
-### Совместное изучение js
+### Совместное изучение современного javascript
 
 Изучать материалы интереснее в коллективе, особенно когда что-то не работает и есть у кого спросить, посмотреть код, задать вопрос.
 
@@ -49,7 +23,7 @@ https://otus.ru/online/
 - скачивает материал к себе
 - создает каталог с названием "TODAY"
 - закидывает в него видео на оговоренный минимум.
-- и смотрит, изучает, прорабатывает. И пока не посмотрел, никаких ютубчиков, твичей, сериальчиков и даже порнолабчиков.
+- и смотрит, изучает, прорабатывает. И пока не посмотрел, никаких ютубчиков, твичей, сериальчиков и даже порнохабчиков.
 
 Кому интересно, присоединяйтесь.
 
@@ -58,58 +32,42 @@ https://otus.ru/online/
 В общем, если есть желание разбирать что-то коллективно:
 
 - пишите об этом в нашем телеграм чате.
-- создаете проект на github/gitlab/bitbucket и после каждого видео (если в нем что-то делалось практическое) создаваете коммит.
-- В файле Readme.md писать команды которые выполнял автор.
+- создаете проект на github и после каждого видео (если в нем что-то делалось практическое и значимое) создаете коммит.
+- В файле Readme.md писать команды которые выполнялись в курсе.
 - Важные изменения в дизайне приложения фиксировать в скриншотах и добавлять их также в проект.
-- А здесь (или создадим поддомен для этого) мы размещаем ссылки на публичные репо участников.
+- А здесь мы размещаем ссылки на публичные репо участников.
 
 <br/>
 
-Как пример, приступаю к изучению:
+### [Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [2020, ENG]
 
-<a href="https://github.com/webmakaka/MERN-Stack-The-Complete-Guide" rel="nofollow">[Reed Barger] MERN Stack - The Complete Guide [ENG, 2020]</a>
+Настраиваемся на 35-40 часовый курс. Что внутри, хз. Автор пока незнакомый.
 
-Посмотрите, в превью видео (Final App Preview):
-
-https://www.udemy.com/course/mern-stack-the-complete-guide/
-
-Кто присоединится?
+https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/
 
 <br/>
 
-Также в планах найти в интернетах и посмотреть курс по React с сайта advancedreact com, когда тот выйдет и мы его найдем на каком-нибудь из ресурсов сети интернет. А выход его затягивается, т.к. автор ждет релиза Apollo Client 3.0
+### [Stephen Grider] Microservices with Node JS and React [ENG, 2020]
+
+https://www.udemy.com/course/microservices-with-node-js-and-react/
 
 <br/>
 
-**Ранее смотрел и могу рекомендовать**
+Кому интересны темы docker, kubernetes, react, node.js, typescript, next.js, обязательно посмотрите.
+
+https://github.com/webmakaka/Microservices-with-Node-JS-and-React
+
+Да тяжело. 54 часа видеоматериалов от топового учителя по соверменным js технологиям.
 
 <br/>
 
-**[Udemy] Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) [2019, ENG]**
+### [Andrei Neagoie, Yihua Zhang] Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) [2019, ENG]
 
 https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL
 
 Наверное, это самый интересный и полезный курс по React который смотрел когда-либо.
 
 Но на самом деле он под конец начинает поднадоедать. Мы по сути на один проект то накатываем какие-то технологии, то их скручиваем. То redux-thunk, to redux-saga, to hooks.
-
-<br/>
-
-**[Udemy] The React practice course, learn by building projects. [2018, ENG]**
-
-Три проекта. Достаточно симпатично выглядят. Наверняка неплохо зайдут в портфолио.
-
-Можно запустить у себя локально в docker контейрнере командой.
-
-```
-$ docker run -it \
-    -p 80:8080 \
-    techhead/react-practice-course-project1
-```
-
-**Остальные:**
-
-https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects
 
 <br/>
 <br/>

@@ -51,7 +51,7 @@ https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
 ### Angular
 
 <ul>
-    <li>[Udemy, Владилен Минин] Angular 8 с нуля до профессионала. Полное руководство [2019, RUS]. Это же Владилен Минин. Как говорится, лайк не глядя. (но я не смотрел, может потом)</li>
+    <li>[Udemy] [Владилен Минин] Angular 9. Теория и Практика 2020. Все включено + Бонусы [2020, RUS]. Это же Владилен Минин. Как говорится, лайк не глядя. (но я не смотрел, может потом)</li>
 </ul>
 
 <br/>
@@ -62,7 +62,7 @@ https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
 Более того, те материалы которые не создавались изначально под hooks, также могут быть отправлены в мусорку, как устаревшие.
 
 <ul>
-    <li>[MonsterLessons] React Hooks - Пишем Реальный Проект с Нуля [2019, RUS] (смотрю)</li>
+    <li>[MonsterLessons] React Hooks - Пишем Реальный Проект с Нуля [2019, RUS]</li>
     <li>[Udemy] React + Redux - Профессиональная Разработка [2019, RUS] - встречал множество позитивных отзывов (но я не смотрел)</li>
     <li><a href="/dev/frontend/react/redux/">Объяснение Redux на понятном языке</a> (даже я понял) </li>
     <li>[Udemy, Владилен Минин] React JS с Нуля до Профи. Полное руководство [2019, RUS]</li>
