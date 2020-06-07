@@ -8,7 +8,7 @@ permalink: /
 
 <br/>
 
-### Совместное изучение современного javascript
+### Совместное изучение современного javascript и javascript фреймворков
 
 Изучать материалы интереснее в коллективе, особенно когда что-то не работает и есть у кого спросить, посмотреть код, задать вопрос.
 
@@ -39,22 +39,19 @@ permalink: /
 
 <br/>
 
+### [Reed Barger] Build an Instagram Clone with React [ENG, 2020]
+
+Ну чего, посоны? Каждому по своему инстраграму?
+
+<a href="https://github.com/webmakaka/Build-an-Instagram-Clone" rel="nofollow">[Reed Barger] Build an Instagram Clone with React [ENG, 2020]</a>
+
+<br/>
+
 ### [Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [2020, ENG]
 
 Настраиваемся на 35-40 часовый курс. Что внутри, хз. Автор пока незнакомый.
 
 https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/
-
-<br/>
-
-### [Stephen Grider] Typescript: The Complete Developer's Guide [2020, ENG]
-
-https://www.udemy.com/course/typescript-the-complete-developers-guide/
-
-<br/>
-
-Потрясающий материал, для всех кто изучает node.js.  
-Пересматриваю его. Первый раз смотрел бегло. Мало, что запомнил.
 
 <br/>
 
@@ -64,7 +61,7 @@ https://www.udemy.com/course/microservices-with-node-js-and-react/
 
 <br/>
 
-Кому интересны темы docker, kubernetes, react, node.js, typescript, next.js, обязательно посмотрите.
+Материал для тех, кому интересны темы docker, kubernetes, react, node.js, typescript, next.js
 
 https://github.com/webmakaka/Microservices-with-Node-JS-and-React
 
