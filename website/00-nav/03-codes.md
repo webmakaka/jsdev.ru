@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Примеры js приложений
+description: Примеры js приложений
+keywords: Примеры js приложений
 permalink: /codes/
 ---
 

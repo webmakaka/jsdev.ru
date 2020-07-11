@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Digital Ocean
+description: Digital Ocean
+keywords: Облака, Digital Ocean
 permalink: /deploy/clouds/digital-ocean/
 ---
 
@@ -8,7 +10,7 @@ permalink: /deploy/clouds/digital-ocean/
 
 <br/>
 
-### DigitalOcean промо на $50
+### DigitalOcean промо на \$50
 
 Виртуальные карты не принмает.
 

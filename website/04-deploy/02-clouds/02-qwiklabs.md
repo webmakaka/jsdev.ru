@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Облака для изучения Google Clouds и AWS
+description: Облака для изучения Google Clouds и AWS
+keywords: Облака для изучения Google Clouds и AWS
 permalink: /deploy/clouds/qwiklabs/
 ---
 
@@ -27,4 +29,3 @@ https://medium.com/@sathishvj/qwiklabs-free-codes-gcp-and-aws-e40f3855ffdb
 5. Получить коины.
 
 Раньше было не менее 10 коинов. Также беслатно давали аккаунты на месяц. Сейчас как-то все намного хуже.
-

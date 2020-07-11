@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Видеокурсы для изучения JavaScript и JavaScript фреймворков
+description: Видеокурсы для изучения JavaScript и JavaScript фреймворков
+keywords: Видеокурсы, javascript, js, фреймворки
 permalink: /courses/
 ---
 

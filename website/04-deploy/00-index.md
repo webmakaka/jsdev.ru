@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Deploy
+description: Deploy
+keywords: Deploy
 permalink: /deploy/
 ---
 
@@ -11,5 +13,3 @@ permalink: /deploy/
 [Локально (kubernetes)](/deploy/local/kubernetes/)
 
 [Облака](/deploy/clouds/)
-
-

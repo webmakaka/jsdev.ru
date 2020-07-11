@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Карта Сайта
+description: Карта Сайта
+keywords: Карта Сайта
 permalink: /sitemap/
 ---
 
@@ -15,4 +17,3 @@ permalink: /sitemap/
 ### [Объяснение Redux на понятном языке](/dev/frontend/react/redux/)
 
 ### [Deploy](/deploy/)
-

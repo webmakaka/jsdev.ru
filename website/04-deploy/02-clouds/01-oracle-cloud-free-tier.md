@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Oracle Cloud Free Tier
+description: Oracle Cloud Free Tier
+keywords: Oracle Cloud Free Tier
 permalink: /deploy/clouds/oracle-cloud-free-tier/
 ---
 
@@ -28,13 +30,11 @@ https://servernews.ru/994202
 
 ### Бесплатные курсы от Pluralsight для изучения облаков Oracle
 
-
 ![pluralsight oracle clouds free courses](/img/pluralsight-oracle-clouds-free-courses.jpg 'pluralsight oracle clouds free courses'){: .center-image }
-
 
 <a href="https://blogs.oracle.com/developers/take-advantage-of-new-training-to-get-started-building-on-oracle%e2%80%99s-cloud"></a>
 
-Найти в тексте: 
+Найти в тексте:
 You can sign up for this training offer here:go.pluralsight.com/blog
 
 Перейти и зарегаться.

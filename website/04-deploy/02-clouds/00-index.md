@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Deploy Clouds
+description: Deploy Clouds
+keywords: Deploy, Clouds
 permalink: /deploy/clouds/
 ---
 
@@ -15,8 +17,3 @@ permalink: /deploy/clouds/
 [Digital Ocean](/deploy/clouds/digital-ocean/)
 
 [Oracle](/deploy/clouds/oracle-cloud-free-tier/)
-
-
-
-
-

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Deploy Local Kubernetes
+description: Deploy Local Kubernetes
+keywords: Local Kubernetes, Deploy
 permalink: /deploy/local/kubernetes/
 ---
 

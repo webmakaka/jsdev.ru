@@ -1,6 +1,8 @@
 ---
 layout: page
 title: React
+description: React
+keywords: React
 permalink: /dev/frontend/react/
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Чат
+description: Чат
+keywords: Чат, телеграм, javascript, js
 permalink: /chat/
 ---
 
