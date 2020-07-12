@@ -24,15 +24,11 @@ https://servernews.ru/994202
 
 <br/>
 
-=========================
-
-<br/>
-
 ### Бесплатные курсы от Pluralsight для изучения облаков Oracle
 
 ![pluralsight oracle clouds free courses](/img/pluralsight-oracle-clouds-free-courses.jpg 'pluralsight oracle clouds free courses'){: .center-image }
 
-<a href="https://blogs.oracle.com/developers/take-advantage-of-new-training-to-get-started-building-on-oracle%e2%80%99s-cloud"></a>
+https://blogs.oracle.com/developers/take-advantage-of-new-training-to-get-started-building-on-oracle%e2%80%99s-cloud
 
 Найти в тексте:
 You can sign up for this training offer here:go.pluralsight.com/blog
