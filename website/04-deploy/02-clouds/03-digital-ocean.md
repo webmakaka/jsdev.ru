@@ -18,4 +18,4 @@ permalink: /deploy/clouds/digital-ocean/
 
 https://m.do.co/c/5424d440c63a
 
-Это не рефка. (По крайней мере не моя). Я ничего с этого не буду иметь. Взято из курса **[Udemy, Brad Traversy] Node.js API Masterclass With Express & MongoDB [2019, ENG]**
+Это не рефка. (По крайней мере не моя). Я ничего с этого не буду иметь. Взято из курса **[Brad Traversy] Node.js API Masterclass With Express & MongoDB [ENG, 2019]**

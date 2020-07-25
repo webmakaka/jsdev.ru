@@ -47,7 +47,7 @@ permalink: /
 
 <br/>
 
-### [Oleksandr Kocherhin] Практический курс по Lodash [2020, RUS]
+### [Oleksandr Kocherhin] Практический курс по Lodash [RUS, 2020]
 
 Достаточно интересный (для меня) курс вышел от русскоязычного автора на русском языке. Продается на Udemy.
 
@@ -79,7 +79,7 @@ permalink: /
 
 <br/>
 
-### [Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [2020, ENG]
+### [Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]
 
 Настраиваемся на 35-40 часовый курс. Что внутри, хз. Автор пока незнакомый.
 
@@ -103,7 +103,7 @@ https://github.com/webmakaka/Microservices-with-Node-JS-and-React
 
 <br/>
 
-### [Andrei Neagoie, Yihua Zhang] Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) [2019, ENG]
+### [Andrei Neagoie, Yihua Zhang] Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) [ENG, 2019]
 
 https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL
 
