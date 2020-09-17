@@ -8,6 +8,18 @@ permalink: /
 
 <br/>
 
+### [Андрей Мелихов] Архитектура современного корпоративного Node js приложения [RUS, 2020]
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/dQjXIuaq-yo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+https://habr.com/ru/company/yandex/blog/514550/
+
+<br/>
+
 ### Совместное изучение современного javascript и javascript фреймворков
 
 Изучать материалы интереснее в коллективе, особенно когда что-то не работает и есть у кого спросить, посмотреть код, задать вопрос.
