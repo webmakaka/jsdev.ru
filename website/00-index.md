@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Обсуждаем и делимся материалами для изучения JavaScript и JavaScript фреймворков на русском языке
+title: Изучаем, обсуждаем и делимся материалами для освоения современного JavaScript и JavaScript фреймворков на русском языке
 permalink: /
 ---
 
-# Материалы для изучения JavaScript и JavaScript фреймворков на русском языке
+# Изучаем, обсуждаем и делимся материалами для освоения современного JavaScript и JavaScript фреймворков на русском языке
 
 <br/>
 
 ### [Андрей Мелихов] Архитектура современного корпоративного Node js приложения [RUS, 2020]
+
+Нужно найти время и посмотреть
 
 <br/>
 
@@ -24,7 +26,7 @@ https://habr.com/ru/company/yandex/blog/514550/
 
 <br/>
 
-### Совместное изучение современного javascript и javascript фреймворков
+### Совместное изучение материалов по современному javascript и javascript фреймворков
 
 Изучать материалы интереснее в коллективе, особенно когда что-то не работает и есть у кого спросить, посмотреть код, задать вопрос.
 
@@ -53,7 +55,6 @@ https://habr.com/ru/company/yandex/blog/514550/
 - Важные изменения в дизайне приложения фиксировать в скриншотах и добавлять их также в проект.
 - А здесь мы будем размещать ссылки на публичные репо участников.
 
-
 <br/>
 
 <strong><a href="//labs.jsdev.org/">Планы по материалам, которые планируются изучить</a></strong>
@@ -70,6 +71,8 @@ https://habr.com/ru/company/yandex/blog/514550/
 
 ### [NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]
 
+**Для меня это лучший курс 2020**
+
 Достаточно интересный курс. Смотрю вторую часть проекта. Оригинальные исходные коды есть.
 
 Здесь и TypeScript, и GraphQL, и React, и MongoDB присутствуют.
@@ -82,13 +85,13 @@ https://habr.com/ru/company/yandex/blog/514550/
 
 <br/>
 
-### [Oleksandr Kocherhin] Практический курс по Lodash [RUS, 2020]
+### [Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]
 
-Достаточно интересный (для меня) курс вышел от русскоязычного автора на русском языке. Продается на Udemy.
+https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/
 
-С помощью библиотеки lodash, можно упростить работу и улучшить понимание и восприятия кода. О чем собственно и рассказывает автор на примерах на протяжении всего курса.
+Появились исходные коды. Придется изучать.
 
-Ранее автор выпустил лучший курс для старта изучения React Hooks на русском языке. (На зачем-то предлагал хранить код свой код в node_modules).
+35-40 часовый курс.
 
 <br/>
 
@@ -103,16 +106,6 @@ https://habr.com/ru/company/yandex/blog/514550/
 Автор зачем-то понадеялся на Instagram CDN для своих картинок, который был благополучно удален сервисом где-то в середине записанного курса. Если кто будет копать, рекомендую просто скопировать мой вариант файла с картинками, чтобы вместо неподгрузившихся картинок, выводились собаки породы корги.
 
 ![Build an Instagram Clone with React](/img/barger-build-an-instagram-clone-with-react.jpg 'Build an Instagram Clone with React'){: .center-image }
-
-<br/>
-
-### [Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]
-
-Настраиваемся на 35-40 часовый курс. Что внутри, хз. Автор пока незнакомый.
-
-Внутри нет исходных кодов. Такой вариант, мягко говоря, не очень устраивает. Если кто поделится, будем изучать.
-
-https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/
 
 <br/>
 
@@ -131,6 +124,8 @@ https://github.com/webmakaka/Microservices-with-Node-JS-and-React
 <br/>
 
 ### [Andrei Neagoie, Yihua Zhang] Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) [ENG, 2019]
+
+**Для меня это лучший курс 2019**
 
 https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL
 

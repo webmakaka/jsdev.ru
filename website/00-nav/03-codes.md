@@ -36,4 +36,4 @@ http://todomvc.com/
 
 <br/>
 
-### <a href="https://github.com/webmakaka/Learn-Nodejs-by-building-10-projects" rel="nofollow" target="_blank">[Brad Traversy] Learn Nodejs by building 10 projects [ENG, 2015]</a>
+### <a href="https://github.com/webmakaka/React-hooks-writing-real-project" rel="nofollow" target="_blank">[React] [Udemy, Oleksandr Kocherhin] React Hooks - Пишем Реальный Проект с Нуля [2019, RUS]</a>
