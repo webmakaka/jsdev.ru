@@ -8,6 +8,34 @@ permalink: /
 
 <br/>
 
+### [Бесплатно] [Онлайн] [RS School] Разработка на Node.js [RUS, 2020]
+
+https://app.rs.school/registry/student
+
+<br/>
+
+**Онлайн курс "Разработка на Node.js"**  
+https://community-z.com/events/nodejs-rs
+
+<br/>
+
+**Node.js in Cloud AWS Course**  
+https://community-z.com/events/nodejs-cloudaws-rs
+
+<br/>
+
+**YouTube**
+
+https://youtube.com/c/rollingscopesschool
+
+<br/>
+
+**Discord**
+
+https://discord.com/invite/8BFb8va
+
+<br/>
+
 ### [Андрей Мелихов] Архитектура современного корпоративного Node js приложения [RUS, 2020]
 
 Нужно найти время и посмотреть
