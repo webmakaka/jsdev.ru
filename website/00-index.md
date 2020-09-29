@@ -10,6 +10,7 @@ permalink: /
 
 ### [Бесплатно] [Онлайн] [RS School] Разработка на Node.js [RUS, 2020]
 
+**Регистрация здесь:**  
 https://app.rs.school/registry/student
 
 <br/>
@@ -23,7 +24,9 @@ https://community-z.com/events/nodejs-rs
 
 <br/>
 
-В курсе будут освещены следующие темы:
+**В курсе будут освещены следующие темы:**
+
+<br/>
 
 - Основы NodeJS, его архитектура, переменные окружения, особенности работы с асинхронным кодом, взаимодействие с файловой системой, работа с потоками
 - Построение REST API на базе фреймворка Express
@@ -40,14 +43,12 @@ https://community-z.com/events/nodejs-cloudaws-rs
 
 <br/>
 
-**YouTube**
-
+**YouTube**  
 https://youtube.com/c/rollingscopesschool
 
 <br/>
 
-**Discord**
-
+**Discord**  
 https://discord.com/invite/8BFb8va
 
 <br/>
