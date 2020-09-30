@@ -8,6 +8,8 @@ permalink: /deploy/clouds/oracle-cloud-free-tier/
 
 # Oracle Cloud Free Tier
 
+<br/>
+
 Oracle дает аж 4 бесплатных облака навсегда.
 
 Зарегать можно здесь https://www.oracle.com/cloud/free/

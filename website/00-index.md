@@ -53,6 +53,11 @@ https://discord.com/invite/8BFb8va
 
 <br/>
 
+**Расписание NodeJS 2020Q3**  
+https://docs.google.com/spreadsheets/d/1F0F19aQBqaxpAZa3ji63ssQQ4RknjC8cDp_Vco4wdZg/edit#gid=270533722
+
+<br/>
+
 ### [Андрей Мелихов] Архитектура современного корпоративного Node js приложения [RUS, 2020]
 
 Нужно найти время и посмотреть
