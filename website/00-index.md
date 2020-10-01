@@ -10,6 +10,12 @@ permalink: /
 
 ### [Бесплатно] [Онлайн] [RS School] Разработка на Node.js [RUS, 2020]
 
+<br/>
+
+**Кто выполнит все задания получит сертификат!**
+
+<br/>
+
 **Регистрация здесь:**  
 https://app.rs.school/registry/student
 
@@ -38,11 +44,6 @@ https://community-z.com/events/nodejs-rs
 
 <br/>
 
-**Node.js in Cloud AWS Course**  
-https://community-z.com/events/nodejs-cloudaws-rs
-
-<br/>
-
 **YouTube**  
 https://youtube.com/c/rollingscopesschool
 
@@ -55,6 +56,15 @@ https://discord.com/invite/8BFb8va
 
 **Расписание NodeJS 2020Q3**  
 https://docs.google.com/spreadsheets/d/1F0F19aQBqaxpAZa3ji63ssQQ4RknjC8cDp_Vco4wdZg/edit#gid=270533722
+
+<br/>
+
+### [Бесплатно] [Онлайн] [RS School] Node.js in Cloud AWS Course [RUS, 2020]
+
+**Node.js in Cloud AWS Course**  
+https://community-z.com/events/nodejs-cloudaws-rs
+
+Ссылки те же.
 
 <br/>
 
