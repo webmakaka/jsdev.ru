@@ -59,6 +59,26 @@ https://docs.google.com/spreadsheets/d/1F0F19aQBqaxpAZa3ji63ssQQ4RknjC8cDp_Vco4w
 
 <br/>
 
+**Задачи**  
+https://github.com/rolling-scopes-school/nodejs-course-template/blob/master/TASKS.md#task-1-caesar-cipher-cli-tool
+
+<br/>
+
+**nodejs-course-template**  
+https://github.com/rolling-scopes-school/nodejs-course-template
+
+<br/>
+
+**Требования к коммитам**  
+https://docs.rs.school/#/git-convention
+
+<br/>
+
+**Критерии оценки заданий**  
+https://github.com/rolling-scopes-school/nodejs-course-template/blob/master/CROSSCHECK.md#task-1-caesar-cipher-cli-tool
+
+<br/>
+
 ### [Бесплатно] [Онлайн] [RS School] Node.js in Cloud AWS Course [RUS, 2020]
 
 **Node.js in Cloud AWS Course**  
