@@ -44,6 +44,21 @@ https://community-z.com/events/nodejs-rs
 
 <br/>
 
+**Расписание NodeJS 2020Q3**  
+https://docs.google.com/spreadsheets/d/1F0F19aQBqaxpAZa3ji63ssQQ4RknjC8cDp_Vco4wdZg/edit
+
+<br/>
+
+**Задачи**  
+https://github.com/rolling-scopes-school/nodejs-course-template/blob/master/TASKS.md#task-1-caesar-cipher-cli-tool
+
+<br/>
+
+**Все стримы, презентации и код, которые были на прошлом наборе**  
+https://github.com/rolling-scopes-school/lectures/blob/master/nodejs-course.md
+
+<br/>
+
 **YouTube**  
 https://youtube.com/c/rollingscopesschool
 
@@ -54,17 +69,7 @@ https://discord.com/invite/8BFb8va
 
 <br/>
 
-**Расписание NodeJS 2020Q3**  
-https://docs.google.com/spreadsheets/d/1F0F19aQBqaxpAZa3ji63ssQQ4RknjC8cDp_Vco4wdZg/edit#gid=270533722
-
-<br/>
-
-**Задачи**  
-https://github.com/rolling-scopes-school/nodejs-course-template/blob/master/TASKS.md#task-1-caesar-cipher-cli-tool
-
-<br/>
-
-**nodejs-course-template**  
+**Шаблон для создания проекта:**  
 https://github.com/rolling-scopes-school/nodejs-course-template
 
 <br/>
