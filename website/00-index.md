@@ -18,12 +18,30 @@ permalink: /
 
 ### [YouTube] Про цикл событий в JavaScript или "как на самом деле работает асинхронность"? [Перевод RUS, 2017]
 
-Нужно посмотреть.
-
 <br/>
 
 <div align="center">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/8cV4ZvHXQL4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+### [YouTube, Владилен Минин] Уроки по JavaScript [RUS, 2020]
+
+<br/>
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLREQY2tFmFnrVNPcEHdy0j-AtPhNk7-rC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+### [YouTube, Владилен Минин] React Hooks - Полный Курс (Про Все Хуки!) [RUS, 2020]
+
+<br/>
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/9KJxaFHotqI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <!--
