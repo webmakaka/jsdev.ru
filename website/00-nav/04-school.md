@@ -8,7 +8,7 @@ permalink: /school/
 
 # Бесплатные online курсы по JS от RS School
 
-Предположительно курс читают сотрудники EPAM.
+Курс читают сотрудники EPAM.
 
 <br/>
 
@@ -24,6 +24,11 @@ https://app.rs.school/registry/student
 <br/>
 
 ### [Бесплатно] [Онлайн] [RS School] Разработка на Node.js [RUS, 2020]
+
+<br/>
+
+**Расписание NodeJS 2020Q3**  
+https://docs.google.com/spreadsheets/d/1F0F19aQBqaxpAZa3ji63ssQQ4RknjC8cDp_Vco4wdZg/edit
 
 <br/>
 
@@ -51,11 +56,6 @@ https://community-z.com/events/nodejs-rs
 - Конфигурирование, логирование и обработка ошибок
 - Аутентификация, JWT, CORS
 - Тестирование
-
-<br/>
-
-**Расписание NodeJS 2020Q3**  
-https://docs.google.com/spreadsheets/d/1F0F19aQBqaxpAZa3ji63ssQQ4RknjC8cDp_Vco4wdZg/edit
 
 <br/>
 
@@ -106,10 +106,20 @@ https://www.youtube.com/watch?v=zLubYW9J-ss
 
 ### [Бесплатно] [Онлайн] [RS School] Node.js in Cloud AWS Course [RUS, 2020]
 
+<br/>
+
 **Node.js in Cloud AWS Course**  
 https://community-z.com/events/nodejs-cloudaws-rs
 
-Содержание курса
+<br/>
+
+**Расписание:**  
+https://docs.google.com/spreadsheets/d/1sqRkuaDStMT5TnLiU1GIT4hyDSDn8dYLk892QOo9QRo/edit#gid=0
+
+<br/>
+
+**Содержание курса:**
+
 В курсе будут освещены следующие темы:
 
 ```
@@ -164,9 +174,10 @@ BFF Service to get data from Lambda and REST CRUD Products (ELB overview autosca
 
 ```
 
-<br/>
+**Лекции**
 
-**Расписание NodeJS 2020Q3**  
-https://docs.google.com/spreadsheets/d/1sqRkuaDStMT5TnLiU1GIT4hyDSDn8dYLk892QOo9QRo/edit#gid=0
+https://www.youtube.com/watch?v=TkQS7Ej6zVs
+
+https://www.youtube.com/watch?v=kY0P_QxVzKw
 
 На чатики ссылки те же.
