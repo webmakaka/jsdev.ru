@@ -18,16 +18,16 @@ https://community-z.com/communities/the-rolling-scopes/events
 
 <br/>
 
+**Регистрация / вход в админку:**  
+https://app.rs.school/registry/student
+
+<br/>
+
 ### [Бесплатно] [Онлайн] [RS School] Разработка на Node.js [RUS, 2020]
 
 <br/>
 
 **Кто выполнит все задания получит сертификат!**
-
-<br/>
-
-**Регистрация здесь:**  
-https://app.rs.school/registry/student
 
 <br/>
 
@@ -89,8 +89,18 @@ https://docs.rs.school/#/git-convention
 
 <br/>
 
-**Критерии оценки заданий**  
+**Критерии оценки заданий:**  
 https://github.com/rolling-scopes-school/nodejs-course-template/blob/master/CROSSCHECK.md#task-1-caesar-cipher-cli-tool
+
+<br/>
+
+**Требования кросс-чека:**
+https://focused-easley-23d934.netlify.app/
+
+<br/>
+
+**Интересные лекции:**  
+https://www.youtube.com/watch?v=zLubYW9J-ss
 
 <br/>
 
@@ -154,4 +164,9 @@ BFF Service to get data from Lambda and REST CRUD Products (ELB overview autosca
 
 ```
 
-Ссылки те же.
+<br/>
+
+**Расписание NodeJS 2020Q3**  
+https://docs.google.com/spreadsheets/d/1sqRkuaDStMT5TnLiU1GIT4hyDSDn8dYLk892QOo9QRo/edit#gid=0
+
+На чатики ссылки те же.
