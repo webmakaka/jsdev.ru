@@ -8,11 +8,32 @@ permalink: /
 
 <br/>
 
-### [Бесплатно] [Онлайн] [RS School] Разработка на Node.js и Node.js + AWS [RUS, 2020]
+### [Бесплатно] [Онлайн] [RS School] Курс "JavaScript/Front-end". [RUS, 28 февраля 2021]
 
-Записался в школу. Прохожу курс на русском бесплатно. Кто не успел, наверное можно будет запланировать свое обучение на следующий поток.
+<br/>
 
-<a href="/school/">здесь</a>
+![RS School JavaScript/Front-end](/img/rs-school.png 'RS School JavaScript/Front-end'){: .center-image }
+
+<br/>
+
+https://community-z.com/events/js-intro-rss-2021q1
+
+<br/>
+
+**Чекните также предстоящие события:**  
+https://community-z.com/communities/the-rolling-scopes/events
+
+<br/>
+
+Сам записался в школу. Прохожу курс на русском бесплатно по node.js и aws. Кто не успел, наверное можно будет запланировать свое обучение на следующий поток.
+
+<br/>
+
+Курс читают и проводят преимущественно сотрудники EPAM. Как минимум, наверное будет полезно посмотреть тем, кто еще не работает программистами или тем, кто работает, но не в софтверных компаниях.
+
+<br/>
+
+<a href="/school/">Здесь мои записи по текущим курсам</a>
 
 <br/>
 
@@ -23,6 +44,10 @@ permalink: /
 <div align="center">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/8cV4ZvHXQL4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<br/>
+
+<a href="/files/Event-Loop.pdf">+ Pdf'ka</a>
 
 <br/>
 
