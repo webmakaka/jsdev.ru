@@ -18,4 +18,14 @@ https://www.udemy.com/course/practical-lodash-course/
 
 <br/>
 
-### <a href="/courses/ru/practical-lodash-course/setup/">Установка Lodash</a>
+## Содержание курса:
+
+### <a href="/courses/ru/practical-lodash-course/setup/">1. Установка Lodash</a>
+
+### 2. Трансформация массивов и обьектов
+
+### 3. Трансформации строк
+
+### 4. Продвинутые функции
+
+### 5. Сделай сам

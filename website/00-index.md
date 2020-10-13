@@ -14,20 +14,12 @@ permalink: /
 
 ![RS School JavaScript/Front-end](/img/rs-school.png 'RS School JavaScript/Front-end'){: .center-image }
 
-<br/>
-
 https://community-z.com/events/js-intro-rss-2021q1
-
-<br/>
 
 **Чекните также предстоящие события:**  
 https://community-z.com/communities/the-rolling-scopes/events
 
-<br/>
-
 Сам записался в школу. Прохожу курс на русском бесплатно по node.js и aws. Кто не успел, наверное можно будет запланировать свое обучение на следующий поток.
-
-<br/>
 
 Курс читают и проводят преимущественно сотрудники EPAM. Как минимум, наверное будет полезно посмотреть тем, кто еще не работает программистами или тем, кто работает, но не в софтверных компаниях.
 
