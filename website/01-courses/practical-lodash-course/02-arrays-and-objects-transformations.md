@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Практический курс по Lodash - Трансформация массивов и объектов
-description: Практический курс по Lodash [RUS, 2020] - Трансформация массивов и объектов
+description: Практический курс по Lodash - Трансформация массивов и объектов
 keywords: Видеокурсы, javascript, lodash, Трансформация массивов и объектов, русский язык
 permalink: /courses/ru/practical-lodash-course/arrays-and-objects-transformations/
 ---

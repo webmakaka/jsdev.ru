@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Практический курс по Lodash - Установка Lodash
-description: Практический курс по Lodash [RUS, 2020] - Установка Lodash
+description: Практический курс по Lodash - Установка Lodash
 keywords: Видеокурсы, javascript, lodash, Установка Lodash, русский язык
 permalink: /courses/ru/practical-lodash-course/setup/
 ---
