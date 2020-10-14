@@ -10,6 +10,10 @@ permalink: /courses/ru/practical-lodash-course/
 
 https://www.udemy.com/course/practical-lodash-course/
 
+<!--ENG
+https://www.udemy.com/course/lodash-the-complete-guide/
+-->
+
 Достаточно интересный (для меня) курс вышел от русскоязычного автора на русском языке. Продается на Udemy.
 
 С помощью библиотеки lodash, можно упростить работу и улучшить понимание и восприятия кода. О чем собственно и рассказывает автор на примерах на протяжении всего курса.
@@ -22,7 +26,7 @@ https://www.udemy.com/course/practical-lodash-course/
 
 ### <a href="/courses/ru/practical-lodash-course/setup/">1. Установка Lodash</a>
 
-### 2. Трансформация массивов и обьектов
+### <a href="/courses/ru/practical-lodash-course/arrays-and-objects-transformations/">2. Трансформация массивов и обьектов</a>
 
 ### 3. Трансформации строк
 

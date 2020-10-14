@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Видеокурсы для изучения JavaScript и JavaScript фреймворков на русском языке
-description: Список наиболее интересных видеокурсов по js на русском языке
-keywords: Видеокурсы, javascript, русский язык
+title: Практический курс по Lodash - Установка Lodash
+description: Практический курс по Lodash [RUS, 2020] - Установка Lodash
+keywords: Видеокурсы, javascript, lodash, Установка Lodash, русский язык
 permalink: /courses/ru/practical-lodash-course/setup/
 ---
 
@@ -43,6 +43,7 @@ permalink: /courses/ru/practical-lodash-course/setup/
 ```
 import _ from 'lodash';
 console.log('Hello, lodash!', _.isEmpty([]));
+console.log('Lodash Version!', _.VERSION);
 ```
 
 <br/>
