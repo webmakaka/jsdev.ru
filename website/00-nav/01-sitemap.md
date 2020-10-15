@@ -14,6 +14,6 @@ permalink: /sitemap/
 
 ### [Книги](/books/)
 
-### [Объяснение Redux на понятном языке](/dev/frontend/react/redux/)
+### [Объяснение Redux на понятном языке](/dev/client/react/redux/)
 
 ### [Deploy](/deploy/)

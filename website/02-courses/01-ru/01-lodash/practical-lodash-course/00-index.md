@@ -28,7 +28,7 @@ https://www.udemy.com/course/lodash-the-complete-guide/
 
 ### <a href="/courses/ru/lodash/practical-lodash-course/arrays-and-objects-transformations/">2. Трансформация массивов и обьектов</a>
 
-### 3. Трансформации строк
+### <a href="/courses/ru/lodash/practical-lodash-course/string-transformations/">3. Трансформации строк</a>
 
 ### 4. Продвинутые функции
 

@@ -2,18 +2,18 @@
 layout: page
 title: Практический курс по Lodash - Установка Lodash
 description: Практический курс по Lodash - Установка Lodash
-keywords: Видеокурсы, javascript, lodash, Установка Lodash, русский язык
+keywords: [Oleksandr Kocherhin] Практический курс по Lodash [RUS, 2020], Видеокурс, JavaScript, Установка Lodash, русский язык
 permalink: /courses/ru/lodash/practical-lodash-course/setup/
 ---
 
-# [Oleksandr Kocherhin] Практический курс по Lodash [RUS, 2020]: Установка Lodash
+# Установка Lodash
 
     $ npm init -y
     $ npm install --save-dev webpack webpack-cli
 
 <br/>
 
-### C WebPack
+### С использованием WebPack
 
     $ npm install lodash
 
@@ -88,7 +88,7 @@ module.exports = {
 
 <br/>
 
-### Без WebPack
+### Без использования WebPack
 
 <br/>
 

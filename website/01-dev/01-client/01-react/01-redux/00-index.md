@@ -3,7 +3,7 @@ layout: page
 title: Объяснение Redux на понятном языке
 description: Объяснение Redux на понятном языке
 keywords: Объяснение Redux на понятном языке
-permalink: /dev/frontend/react/redux/
+permalink: /dev/client/react/redux/
 ---
 
 # Объяснение Redux на понятном языке
@@ -22,26 +22,24 @@ permalink: /dev/frontend/react/redux/
 
 <br/>
 
-{% highlight javascript linenos %}
-
+```js
 import { createStore } from 'redux';
 
 const initialState = {
-name: 'Pert',
-lastName: 'Petrov'
+  name: 'Pert',
+  lastName: 'Petrov',
 };
 
 function reducer(state = initialState, action) {
-switch (action.type) {
-case 'CHANGE_NAME':
-return { ...state, name: action.payload };
+  switch (action.type) {
+    case 'CHANGE_NAME':
+      return { ...state, name: action.payload };
 
     case 'CHANGE_LAST_NAME':
       return { ...state, lastName: action.payload };
+  }
 
-}
-
-return state;
+  return state;
 }
 
 const store = createStore(reducer);
@@ -49,13 +47,13 @@ const store = createStore(reducer);
 console.log(store.getState());
 
 const changeName = {
-type: 'CHANGE_NAME',
-payload: 'Ivan'
+  type: 'CHANGE_NAME',
+  payload: 'Ivan',
 };
 
 const changeLastName = {
-type: 'CHANGE_LAST_NAME',
-payload: 'Ivanov'
+  type: 'CHANGE_LAST_NAME',
+  payload: 'Ivanov',
 };
 
 store.dispatch(changeName);
@@ -65,8 +63,7 @@ console.log(store.getState());
 store.dispatch(changeLastName);
 
 console.log(store.getState());
-
-{% endhighlight %}
+```
 
 <br/>
 
@@ -86,11 +83,11 @@ console.log(store.getState());
 
 <br/>
 
-{% highlight javascript linenos %}
+```js
 {
 "presets": ["react", "es2015", "stage-2"]
 }
-{% endhighlight %}
+```
 
 <br/>
 
@@ -98,25 +95,25 @@ console.log(store.getState());
 
 <br/>
 
-{% highlight javascript linenos %}
+```js
 
 ---
 
 module: {
 rules: [
-{
-test: /\.js$/,
-exclude: /node_modules/,
-use: {
-loader: 'babel-loader'
-}
-}
-]
+    {
+      test: /\.js$/,
+      exclude: /node_modules/,
+      use: {
+      loader: 'babel-loader'
+      }
+    }
+  ]
 },
 
 ---
 
-{% endhighlight %}
+```
 
 <br/>
 
@@ -126,55 +123,54 @@ loader: 'babel-loader'
 
 <br/>
 
-{% highlight javascript linenos %}
+```js
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { createStore } from 'redux';
 import { connect, Provider } from 'react-redux';
 
 const initialState = {
-firstName: 'Ivan',
-lastName: 'Ivanov'
+  firstName: 'Ivan',
+  lastName: 'Ivanov',
 };
 
 const ACTION_CHANGE_FIRST_NAME = 'ACTION_CHANGE_FIRST_NAME';
 const ACTION_CHANGE_LAST_NAME = 'ACTION_CHANGE_LAST_NAME';
 
-const changeFirstName = newFirstName => {
-console.log(newFirstName);
+const changeFirstName = (newFirstName) => {
+  console.log(newFirstName);
 
-return {
-type: ACTION_CHANGE_FIRST_NAME,
-payload: newFirstName
-};
+  return {
+    type: ACTION_CHANGE_FIRST_NAME,
+    payload: newFirstName,
+  };
 };
 
-const changeLastName = newLastName => {
-return {
-type: ACTION_CHANGE_LAST_NAME,
-payload: newLastName
-};
+const changeLastName = (newLastName) => {
+  return {
+    type: ACTION_CHANGE_LAST_NAME,
+    payload: newLastName,
+  };
 };
 
 const rootReducer = (state = initialState, action) => {
-switch (action.type) {
-case ACTION_CHANGE_FIRST_NAME:
-return { ...state, firstName: action.payload };
+  switch (action.type) {
+    case ACTION_CHANGE_FIRST_NAME:
+      return { ...state, firstName: action.payload };
 
     case ACTION_CHANGE_LAST_NAME:
       return { ...state, lastName: action.payload };
+  }
 
-}
-
-return state;
+  return state;
 };
 
 const store = createStore(rootReducer);
 
 class MainComponent extends React.Component {
-render() {
-console.log('MainComponent props');
-console.log(this.props);
+  render() {
+    console.log('MainComponent props');
+    console.log(this.props);
 
     const dispatch = this.props.dispatch;
     const { firstName, lastName } = this.props;
@@ -186,7 +182,7 @@ console.log(this.props);
             type="text"
             value={firstName}
             placeholder="First Name"
-            onChange={event => {
+            onChange={(event) => {
               dispatch(changeFirstName(event.target.value));
             }}
           />{' '}
@@ -196,7 +192,7 @@ console.log(this.props);
             type="text"
             value={lastName}
             placeholder="Last Name"
-            onChange={event => {
+            onChange={(event) => {
               dispatch(changeLastName(event.target.value));
             }}
           />{' '}
@@ -205,26 +201,24 @@ console.log(this.props);
         <div>{`${firstName} ${lastName}`}</div>
       </div>
     );
-
+  }
 }
-}
-const mapStateToProps = state => {
-return {
-firstName: state.firstName,
-lastName: state.lastName
-};
+const mapStateToProps = (state) => {
+  return {
+    firstName: state.firstName,
+    lastName: state.lastName,
+  };
 };
 
 const WrappedMainComponent = connect(mapStateToProps)(MainComponent);
 
 ReactDOM.render(
-<Provider store={store}>
-<WrappedMainComponent />
-</Provider>,
-document.getElementById('app')
+  <Provider store={store}>
+    <WrappedMainComponent />
+  </Provider>,
+  document.getElementById('app')
 );
-
-{% endhighlight %}
+```
 
 <br/>
 
@@ -236,56 +230,54 @@ document.getElementById('app')
 
 <br/>
 
-{% highlight javascript linenos %}
-
+```js
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { createStore, bindActionCreators } from 'redux';
 import { connect, Provider } from 'react-redux';
 
 const initialState = {
-firstName: 'Ivan',
-lastName: 'Ivanov'
+  firstName: 'Ivan',
+  lastName: 'Ivanov',
 };
 
 const ACTION_CHANGE_FIRST_NAME = 'ACTION_CHANGE_FIRST_NAME';
 const ACTION_CHANGE_LAST_NAME = 'ACTION_CHANGE_LAST_NAME';
 
-const changeFirstName = newFirstName => {
-console.log(newFirstName);
+const changeFirstName = (newFirstName) => {
+  console.log(newFirstName);
 
-return {
-type: ACTION_CHANGE_FIRST_NAME,
-payload: newFirstName
-};
+  return {
+    type: ACTION_CHANGE_FIRST_NAME,
+    payload: newFirstName,
+  };
 };
 
-const changeLastName = newLastName => {
-return {
-type: ACTION_CHANGE_LAST_NAME,
-payload: newLastName
-};
+const changeLastName = (newLastName) => {
+  return {
+    type: ACTION_CHANGE_LAST_NAME,
+    payload: newLastName,
+  };
 };
 
 const rootReducer = (state = initialState, action) => {
-switch (action.type) {
-case ACTION_CHANGE_FIRST_NAME:
-return { ...state, firstName: action.payload };
+  switch (action.type) {
+    case ACTION_CHANGE_FIRST_NAME:
+      return { ...state, firstName: action.payload };
 
     case ACTION_CHANGE_LAST_NAME:
       return { ...state, lastName: action.payload };
+  }
 
-}
-
-return state;
+  return state;
 };
 
 const store = createStore(rootReducer);
 
 class MainComponent extends React.Component {
-render() {
-console.log('MainComponent props');
-console.log(this.props);
+  render() {
+    console.log('MainComponent props');
+    console.log(this.props);
 
     const dispatch = this.props.dispatch;
     const { firstName, lastName, changeFirstName, changeLastName } = this.props;
@@ -297,7 +289,7 @@ console.log(this.props);
             type="text"
             value={firstName}
             placeholder="First Name"
-            onChange={event => {
+            onChange={(event) => {
               changeFirstName(event.target.value);
             }}
           />{' '}
@@ -307,7 +299,7 @@ console.log(this.props);
             type="text"
             value={lastName}
             placeholder="Last Name"
-            onChange={event => {
+            onChange={(event) => {
               changeLastName(event.target.value);
             }}
           />{' '}
@@ -316,34 +308,32 @@ console.log(this.props);
         <div>{`${firstName} ${lastName}`}</div>
       </div>
     );
-
+  }
 }
-}
-const mapStateToProps = state => {
-return {
-firstName: state.firstName,
-lastName: state.lastName
-};
+const mapStateToProps = (state) => {
+  return {
+    firstName: state.firstName,
+    lastName: state.lastName,
+  };
 };
 
 // putActionsToProps
-const mapDispatchToProps = dispatch => {
-return {
-changeFirstName: bindActionCreators(changeFirstName, dispatch),
-changeLastName: bindActionCreators(changeLastName, dispatch)
-};
+const mapDispatchToProps = (dispatch) => {
+  return {
+    changeFirstName: bindActionCreators(changeFirstName, dispatch),
+    changeLastName: bindActionCreators(changeLastName, dispatch),
+  };
 };
 
 const WrappedMainComponent = connect(
-mapStateToProps,
-mapDispatchToProps
+  mapStateToProps,
+  mapDispatchToProps
 )(MainComponent);
 
 ReactDOM.render(
-<Provider store={store}>
-<WrappedMainComponent />
-</Provider>,
-document.getElementById('app')
+  <Provider store={store}>
+    <WrappedMainComponent />
+  </Provider>,
+  document.getElementById('app')
 );
-
-{% endhighlight %}
+```

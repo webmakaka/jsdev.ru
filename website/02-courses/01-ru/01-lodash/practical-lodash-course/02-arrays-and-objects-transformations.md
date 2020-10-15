@@ -2,11 +2,11 @@
 layout: page
 title: Практический курс по Lodash - Трансформация массивов и объектов
 description: Практический курс по Lodash - Трансформация массивов и объектов
-keywords: Видеокурсы, javascript, lodash, Трансформация массивов и объектов, русский язык
+keywords: [Oleksandr Kocherhin] Практический курс по Lodash [RUS, 2020], Видеокурс, JavaScript, Lodash, Трансформация массивов и объектов, русский язык
 permalink: /courses/ru/lodash/practical-lodash-course/arrays-and-objects-transformations/
 ---
 
-# [Oleksandr Kocherhin] Практический курс по Lodash [RUS, 2020]: Трансформация массивов и объектов
+# Трансформация массивов и объектов
 
 <br/>
 
@@ -507,4 +507,200 @@ const getPopularUsers = (users) => {
 const result = getPopularUsers(users);
 
 console.log('result', result);
+```
+
+<br/>
+
+### 9. Every и some
+
+some - если хоть один элемен в массиве получаем true, иначе false
+
+every - если каждый true, иначе false
+
+```js
+const _ = require('lodash');
+
+const users = [
+  {
+    id: 1,
+    name: 'John',
+    isActive: true,
+    likes: 110,
+  },
+  {
+    id: 2,
+    name: 'Mike',
+    isActive: false,
+    likes: 30,
+  },
+  {
+    id: 3,
+    name: 'Bill',
+    isActive: true,
+    likes: 40,
+  },
+];
+
+// const isSomeActive = _.some(users, (user) => {
+//   return user.isActive === true
+// })
+
+const isSomeActive = _.some(users, { isActive: true, likes: 40 });
+
+const isAllActive = _.every(users, (user) => {
+  return user.isActive === true;
+});
+
+console.log('isSomeActive', isSomeActive);
+console.log('isAllActive', isAllActive);
+```
+
+<br/>
+
+### 10. Сортировка
+
+```js
+const _ = require('lodash');
+
+const users = [
+  {
+    id: 1,
+    name: 'John',
+    isActive: true,
+    likes: 30,
+  },
+  {
+    id: 2,
+    name: 'Mike',
+    isActive: false,
+    likes: 50,
+  },
+  {
+    id: 3,
+    name: 'Bill',
+    isActive: true,
+    likes: 50,
+  },
+];
+
+// const result = _.orderBy(users, ["likes"], ["desc"])
+const result = _.orderBy(users, ['likes', 'name'], ['desc', 'asc']);
+
+console.log('result', result);
+```
+
+<br/>
+
+### 11. Группировка
+
+```js
+const _ = require('lodash');
+
+const users = [
+  {
+    id: 1,
+    name: 'John',
+    isActive: true,
+    likes: 30,
+  },
+  {
+    id: 2,
+    name: 'Mike',
+    isActive: false,
+    likes: 50,
+  },
+  {
+    id: 3,
+    name: 'Bill',
+    isActive: true,
+    likes: 50,
+  },
+];
+
+// const result = _.groupBy(users, () => {
+//   return users.isActive;
+// })
+
+const result = _.groupBy(users, 'isActive');
+
+console.log('result', result);
+```
+
+<br/>
+
+### 12. Строим цепочки
+
+```js
+const _ = require('lodash');
+
+const users = [
+  {
+    id: 1,
+    name: 'John',
+    isActive: true,
+    age: 32,
+  },
+  {
+    id: 2,
+    name: 'Mike',
+    isActive: true,
+    age: 27,
+  },
+  {
+    id: 3,
+    name: 'Bill',
+    isActive: true,
+    age: 28,
+  },
+];
+
+const getYoungestUserMessage = (users) => {
+  return _.chain(users)
+    .filter('isActive')
+    .orderBy(['age'])
+    .map((user) => {
+      return user.name + ' is ' + user.age;
+    })
+    .head()
+    .value();
+};
+
+const result = getYoungestUserMessage(users);
+
+console.log('result', result);
+```
+
+<br/>
+
+### 13. Получение частей массива
+
+```js
+const _ = require('lodash');
+const numbers = [1, 2, 3];
+
+const result = _.chain(numbers).head().value();
+
+console.log('result', result);
+console.log('result', _.tail(numbers));
+```
+
+<br/>
+
+```js
+const _ = require('lodash');
+const numbers = 'foo';
+
+const result = _.chain(numbers).tail().join('').value();
+
+console.log('result', result);
+```
+
+<br/>
+
+```js
+const _ = require('lodash');
+const numbers = [1, 2, 3];
+
+console.log('last', _.last(numbers));
+console.log('initial', _.initial(numbers));
 ```
