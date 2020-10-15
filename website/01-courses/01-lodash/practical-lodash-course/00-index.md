@@ -3,7 +3,7 @@ layout: page
 title: Практический курс по Lodash
 description: Разбираем примеры и курса Практический курс по Lodash
 keywords: Видеокурсы, JavaScript, Lodash, русский язык
-permalink: /courses/ru/practical-lodash-course/
+permalink: /courses/ru/lodash/practical-lodash-course/
 ---
 
 # [Oleksandr Kocherhin] Практический курс по Lodash [RUS, 2020]
@@ -24,9 +24,9 @@ https://www.udemy.com/course/lodash-the-complete-guide/
 
 ## Содержание курса:
 
-### <a href="/courses/ru/practical-lodash-course/setup/">1. Установка Lodash</a>
+### <a href="/courses/ru/lodash/practical-lodash-course/setup/">1. Установка Lodash</a>
 
-### <a href="/courses/ru/practical-lodash-course/arrays-and-objects-transformations/">2. Трансформация массивов и обьектов</a>
+### <a href="/courses/ru/lodash/practical-lodash-course/arrays-and-objects-transformations/">2. Трансформация массивов и обьектов</a>
 
 ### 3. Трансформации строк
 
