@@ -2,7 +2,7 @@
 layout: page
 title: Практический курс по Lodash - Трансформации строк
 description: Практический курс по Lodash - Трансформации строк
-keywords: [Oleksandr Kocherhin] Практический курс по Lodash [RUS, 2020], Видеокурс, JavaScript, Lodash, Трансформации строк, русский язык
+keywords: Практический курс по Lodash, Видеокурс, JavaScript, Lodash, Трансформации строк, русский язык
 permalink: /courses/ru/lodash/practical-lodash-course/string-transformations/
 ---
 

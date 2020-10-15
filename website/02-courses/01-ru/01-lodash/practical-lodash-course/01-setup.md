@@ -2,7 +2,7 @@
 layout: page
 title: Практический курс по Lodash - Установка Lodash
 description: Практический курс по Lodash - Установка Lodash
-keywords: [Oleksandr Kocherhin] Практический курс по Lodash [RUS, 2020], Видеокурс, JavaScript, Установка Lodash, русский язык
+keywords: Практический курс по Lodash, Видеокурс, JavaScript, Установка Lodash, русский язык
 permalink: /courses/ru/lodash/practical-lodash-course/setup/
 ---
 

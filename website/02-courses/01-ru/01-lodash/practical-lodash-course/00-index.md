@@ -2,7 +2,7 @@
 layout: page
 title: Практический курс по Lodash
 description: Разбираем примеры и курса Практический курс по Lodash
-keywords: Видеокурсы, JavaScript, Lodash, русский язык
+keywords: Практический курс по Lodash, Видеокурс, JavaScript, Lodash, русский язык
 permalink: /courses/ru/lodash/practical-lodash-course/
 ---
 
