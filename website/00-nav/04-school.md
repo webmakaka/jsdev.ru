@@ -18,7 +18,12 @@ https://community-z.com/communities/the-rolling-scopes/events
 
 <br/>
 
-**Регистрация / вход в админку:**  
+**Вход в админку:**  
+https://app.rs.school
+
+<br/>
+
+**Регистрация:**  
 https://app.rs.school/registry/student
 
 <br/>

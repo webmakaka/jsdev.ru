@@ -30,6 +30,11 @@ https://www.udemy.com/course/lodash-the-complete-guide/
 
 ### <a href="/courses/ru/lodash/practical-lodash-course/string-transformations/">3. Трансформации строк</a>
 
-### 4. Продвинутые функции
+### <a href="/courses/ru/lodash/practical-lodash-course/advanced-functions/">4. Продвинутые функции</a>
+
+<!--
+do-it-yourself
+
+-->
 
 ### 5. Сделай сам

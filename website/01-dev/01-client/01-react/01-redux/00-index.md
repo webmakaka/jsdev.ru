@@ -3,7 +3,7 @@ layout: page
 title: Объяснение Redux на понятном языке
 description: Объяснение Redux на понятном языке
 keywords: Объяснение Redux на понятном языке
-permalink: /dev/client/react/redux/
+permalink: /client/react/redux/
 ---
 
 # Объяснение Redux на понятном языке

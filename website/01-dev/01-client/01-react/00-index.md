@@ -3,7 +3,7 @@ layout: page
 title: React
 description: React
 keywords: React
-permalink: /dev/client/react/
+permalink: /client/react/
 ---
 
 # React
