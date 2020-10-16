@@ -32,9 +32,4 @@ https://www.udemy.com/course/lodash-the-complete-guide/
 
 ### <a href="/courses/ru/lodash/practical-lodash-course/advanced-functions/">4. Продвинутые функции</a>
 
-<!--
-do-it-yourself
-
--->
-
-### 5. Сделай сам
+### <a href="/courses/ru/lodash/practical-lodash-course/do-it-yourself/">5. Сделай сам</a>
