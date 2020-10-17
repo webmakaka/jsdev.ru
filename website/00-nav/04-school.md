@@ -95,11 +95,11 @@ https://docs.rs.school/#/git-convention
 <br/>
 
 **Критерии оценки заданий:**  
-https://github.com/rolling-scopes-school/nodejs-course-template/blob/master/CROSSCHECK.md#task-1-caesar-cipher-cli-tool
+https://github.com/rolling-scopes-school/nodejs-course-template/blob/master/CROSSCHECK.md
 
 <br/>
 
-**Требования кросс-чека:**
+**Требования кросс-чека:**  
 https://focused-easley-23d934.netlify.app/
 
 <br/>
