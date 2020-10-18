@@ -185,4 +185,6 @@ https://www.youtube.com/watch?v=TkQS7Ej6zVs
 
 https://www.youtube.com/watch?v=kY0P_QxVzKw
 
+https://www.youtube.com/watch?v=8M_JoLh7tA4
+
 На чатики ссылки те же.
