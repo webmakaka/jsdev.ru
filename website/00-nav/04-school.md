@@ -179,12 +179,20 @@ BFF Service to get data from Lambda and REST CRUD Products (ELB overview autosca
 
 ```
 
-**Лекции**
+<br/>
+
+**Лекции:**
 
 https://www.youtube.com/watch?v=TkQS7Ej6zVs
 
 https://www.youtube.com/watch?v=kY0P_QxVzKw
 
 https://www.youtube.com/watch?v=8M_JoLh7tA4
+
+<br/>
+
+**Презентации:**
+
+https://epam-my.sharepoint.com/:p:/p/oleksandr_bondarenko2/Eb3r0QtSnYhAnnmV5qetGnQB7ss7Hu2swvapHBAi1gHsNg?rtime=lP3F8Tt02Eg
 
 На чатики ссылки те же.
