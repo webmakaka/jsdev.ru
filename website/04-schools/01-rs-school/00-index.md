@@ -30,6 +30,4 @@ https://app.rs.school/registry/student
 
 ### [[Бесплатно] [Онлайн] [RS School] Разработка на Node.js [RUS, 2020]](/schools/rs-school/nodejs/)
 
-<br/>
-
 ### [[Бесплатно] [Онлайн] [RS School] Node.js in Cloud AWS Course [RUS, 2020]](/schools/rs-school/aws/)

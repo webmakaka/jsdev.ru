@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Бесплатные online курсы по JS от RS School
-description: Бесплатные online курсы по JS от RS School
-keywords: Бесплатные online курсы по JS от RS School
+title: RS School - Разработка на Node.js
+description: RS School - Разработка на Node.js
+keywords: RS School, Node.js
 permalink: /schools/rs-school/nodejs/
 ---
 

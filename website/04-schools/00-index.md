@@ -10,4 +10,4 @@ permalink: /schools/
 
 <br/>
 
-### [Бесплатные online курсы по JS, Node.js, AWS + Node.js от RS School (Курс читают преимущественно сотрудники EPAM Беларусь)](/schools/)
+### [Бесплатные online курсы по JS, Node.js, AWS + Node.js от RS School (Курс читают преимущественно сотрудники EPAM Беларусь)](/schools/rs-school/)
