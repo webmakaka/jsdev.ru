@@ -64,7 +64,7 @@ https://community-z.com/communities/the-rolling-scopes/events
 
 <br/>
 
-<a href="/school/">Здесь мои записи по текущим курсам</a>
+<a href="/schools/rs-school/">Здесь мои записи по текущим курсам</a>
 
 <br/>
 

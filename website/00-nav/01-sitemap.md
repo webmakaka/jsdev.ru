@@ -10,10 +10,12 @@ permalink: /sitemap/
 
 <br/>
 
+### [Объяснение Redux на понятном языке](/client/react/redux/)
+
 ### [Видеокурсы](/courses/)
 
 ### [Книги](/books/)
 
-### [Объяснение Redux на понятном языке](/client/react/redux/)
+### [Школы](/schools/)
 
 ### [Deploy](/deploy/)
