@@ -99,3 +99,5 @@ https://epam-my.sharepoint.com/:p:/p/oleksandr_bondarenko2/Eb3r0QtSnYhAnnmV5qetG
 <br/>
 
 https://github.com/boale/serverlessTestApp
+
+https://github.com/maksumov/serverless-single-page-app-plugin

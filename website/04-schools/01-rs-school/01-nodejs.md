@@ -84,6 +84,18 @@ https://focused-easley-23d934.netlify.app/
 
 **Интересные лекции:**
 
+<br/>
+
+TAKS 2
+
 https://www.youtube.com/watch?v=zLubYW9J-ss
 
+<br/>
+
+TAKS 3
+
 https://www.youtube.com/watch?v=sp1SN4UVnk0
+
+https://www.youtube.com/watch?v=s5BIYunSfhs&t=4715s
+
+https://github.com/Student-Java/nodejs-2020Q3/tree/task4
