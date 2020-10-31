@@ -20,6 +20,12 @@ https://docs.google.com/spreadsheets/d/1sqRkuaDStMT5TnLiU1GIT4hyDSDn8dYLk892QOo9
 
 <br/>
 
+**Задачи:**
+
+https://github.com/rolling-scopes-school/nodejs-aws-tasks/
+
+<br/>
+
 **Содержание курса:**
 
 В курсе будут освещены следующие темы:
@@ -80,17 +86,29 @@ BFF Service to get data from Lambda and REST CRUD Products (ELB overview autosca
 
 **Лекции:**
 
+(Лекция)
 https://www.youtube.com/watch?v=TkQS7Ej6zVs
 
+(Лекция)
 https://www.youtube.com/watch?v=kY0P_QxVzKw
 
+(Практика)
 https://www.youtube.com/watch?v=8M_JoLh7tA4
 
+(Лекция)
+https://www.youtube.com/watch?v=BJwx3XQ9ZqI
+
+(Практика)
+https://www.youtube.com/watch?v=5ymuKq_RpZQ
+
+<!--
 <br/>
 
 **Презентации:**
 
 https://epam-my.sharepoint.com/:p:/p/oleksandr_bondarenko2/Eb3r0QtSnYhAnnmV5qetGnQB7ss7Hu2swvapHBAi1gHsNg?rtime=lP3F8Tt02Eg
+
+-->
 
 <br/>
 
