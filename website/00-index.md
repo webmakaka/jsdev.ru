@@ -43,15 +43,15 @@ permalink: /
 
 <br/>
 
-### [Бесплатно] [Онлайн] [RS School] Курс "JavaScript/Front-end". [RUS, 28 февраля 2021]
+### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев [RUS, 28 февраля 2021]
 
 <br/>
 
-![RS School JavaScript/Front-end](/img/rs-school.png 'RS School JavaScript/Front-end'){: .center-image }
+![RS School React](/img/rs-school-react.png 'RS School React'){: .center-image }
 
-https://community-z.com/events/js-intro-rss-2021q1
+<br/>
 
-**Чекните также предстоящие события:**  
+**Чекните также предстоящие события, если интересует JS:**  
 https://community-z.com/communities/the-rolling-scopes/events
 
 <br/>
@@ -102,6 +102,16 @@ https://community-z.com/communities/the-rolling-scopes/events
 
 <br/>
 
+### [YouTube, Владилен Минин] Webpack. Full Course 2020 [RUS, 2020]
+
+<br/>
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/eSaF8NXeNsA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br/>
+
 ### [Андрей Мелихов] Архитектура современного корпоративного Node js приложения [RUS, 2020]
 
 Нужно найти время и посмотреть
@@ -117,6 +127,18 @@ https://community-z.com/communities/the-rolling-scopes/events
 <br/>
 
 https://habr.com/ru/company/yandex/blog/514550/
+
+<br/>
+
+### Git MERGE vs REBASE (ENG)
+
+https://www.youtube.com/watch?v=CRlGDDprdOQ
+
+<br/>
+
+### [Книги] Вы не знаете JS [RUS]
+
+https://vk.com/wall-51126445_40929
 
 <br/>
 

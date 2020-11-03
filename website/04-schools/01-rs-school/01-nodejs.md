@@ -86,13 +86,13 @@ https://focused-easley-23d934.netlify.app/
 
 <br/>
 
-TAKS 2
+**TAKS 2** (Запись данных в локальные файлы)
 
 https://www.youtube.com/watch?v=zLubYW9J-ss
 
 <br/>
 
-TAKS 3
+**TAKS 3-4** (Логирование, MongoDB)
 
 <!--
 
@@ -103,3 +103,9 @@ https://www.youtube.com/watch?v=sp1SN4UVnk0
 https://www.youtube.com/watch?v=s5BIYunSfhs
 
 https://github.com/Student-Java/nodejs-2020Q3/tree/task4
+
+<br/>
+
+**TAKS 5 (Авторизация, JWT, Bearer etc.)**
+
+https://www.youtube.com/watch?v=7oktG1mXrLE
