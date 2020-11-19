@@ -43,7 +43,7 @@ https://community-z.com/events/nodejs-rs
 <br/>
 
 **Задачи**  
-https://github.com/rolling-scopes-school/nodejs-course-template/blob/master/TASKS.md#task-1-caesar-cipher-cli-tool
+https://github.com/rolling-scopes-school/nodejs-course-template/blob/master/TASKS.md
 
 <br/>
 

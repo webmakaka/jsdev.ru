@@ -42,7 +42,7 @@ Cloud vs On-Premise: pros/cons (auto scaling, cross regional, availability zones
 
 Модуль 2
 
-Host (already created) Static React SPA in AWS S3, CloudFront (Serverless Framework serverless-finch)
+* Host (already created) Static React SPA in AWS S3, CloudFront (Serverless Framework serverless-finch)
 
 Модуль 3
 
@@ -57,23 +57,23 @@ Host (already created) Static React SPA in AWS S3, CloudFront (Serverless Framew
 
 Модуль 5
 
-Lambda to upload file to S3 using lambda, download file
+* Lambda to upload file to S3 using lambda, download file
 
 Модуль 6
 
-SNS subscription to file upload + SQS chunk post to Lambda
+* SNS subscription to file upload + SQS chunk post to Lambda
 
 Модуль 7
 
-Lambda Authorizer + Cognito Authorization
+* Lambda Authorizer + Cognito Authorization
 
 Модуль 8
 
-Host already prepared CART REST (NestJS) service using Docker
+* Host already prepared CART REST (NestJS) service using Docker
 
 Модуль 9
 
-BFF Service to get data from Lambda and REST CRUD Products (ELB overview autoscaling, logs, PaS benefits)
+* BFF Service to get data from Lambda and REST CRUD Products (ELB overview autoscaling, logs, PaS benefits)
 
 Модуль 10
 
@@ -92,17 +92,29 @@ https://www.youtube.com/watch?v=TkQS7Ej6zVs
 (Лекция2)
 https://www.youtube.com/watch?v=kY0P_QxVzKw
 
-(Практика)
+(Вопросы2)
 https://www.youtube.com/watch?v=8M_JoLh7tA4
 
 (Лекция3)
 https://www.youtube.com/watch?v=BJwx3XQ9ZqI
 
-(Практика)
+(Вопросы3)
 https://www.youtube.com/watch?v=5ymuKq_RpZQ
 
 (Лекция4)
 https://www.youtube.com/watch?v=dfD9jvAlaz4
+
+(Вопросы4)
+https://www.youtube.com/watch?v=7zd3K6zqmmE
+
+(Лекция5)
+https://www.youtube.com/watch?v=5buEN_Ps8SQ
+
+(Вопросы5)
+https://www.youtube.com/watch?v=_cq0P7cgMTo
+
+(Лекция6)
+https://www.youtube.com/watch?v=Fu9txvDvsDY
 
 <!--
 <br/>
