@@ -8,16 +8,26 @@ permalink: /deploy/clouds/
 
 # Deploy Clouds
 
+## Можно пользоваться бесплатно
+
+Отсортировано от более простых и интересных, к более сложным.
+
+### [IBM Cloud](/deploy/clouds/ibm/)
+
+### Heroku (Да все интернеты завалены материалами по Heroku)
+
+### [Oracle](/deploy/clouds/oracle/free-tier/)
+
 <br/>
 
-[Облака для изучения Google Clouds и AWS](/deploy/clouds/qwiklabs/)
+## С промо на какой-то период
 
-[AWS](/deploy/clouds/aws/)
+### [Digital Ocean](/deploy/clouds/digital-ocean/)
 
-[Digital Ocean](/deploy/clouds/digital-ocean/)
+### [Облака для изучения Google Clouds и AWS](/deploy/clouds/qwiklabs/)
 
-[Oracle](/deploy/clouds/oracle/free-tier/)
+### [Amazon AWS](/deploy/clouds/aws/)
 
-[IBM](/deploy/clouds/ibm/)
+### [Google Clouds]
 
-Heroku
+### [Microsoft Azure]
