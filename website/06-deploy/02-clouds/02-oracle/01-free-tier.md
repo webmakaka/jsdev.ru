@@ -3,7 +3,7 @@ layout: page
 title: Oracle Cloud Free Tier
 description: Oracle Cloud Free Tier
 keywords: Oracle Cloud Free Tier
-permalink: /deploy/clouds/oracle-cloud-free-tier/
+permalink: /deploy/clouds/oracle/free-tier/
 ---
 
 # Oracle Cloud Free Tier

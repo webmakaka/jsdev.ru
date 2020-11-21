@@ -17,3 +17,5 @@ permalink: /deploy/clouds/aws/
 -->
 
 <a href="https://aws.amazon.com/ru/getting-started/serverless-web-app/" rel="nofollow">Создание бессерверного интернет-приложения</a>
+
+<a href="/schools/rs-school/aws/" rel="nofollow">Лекции по AWS в RS School</a>

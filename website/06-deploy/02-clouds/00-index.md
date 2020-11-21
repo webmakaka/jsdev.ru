@@ -16,4 +16,8 @@ permalink: /deploy/clouds/
 
 [Digital Ocean](/deploy/clouds/digital-ocean/)
 
-[Oracle](/deploy/clouds/oracle-cloud-free-tier/)
+[Oracle](/deploy/clouds/oracle/free-tier/)
+
+[IBM](/deploy/clouds/ibm/)
+
+Heroku

@@ -10,7 +10,7 @@ permalink: /sitemap/
 
 <br/>
 
-### [Объяснение Redux на понятном языке](/client/react/redux/)
+### [Материалы](/materials/)
 
 ### [Видеокурсы](/courses/)
 
@@ -19,3 +19,5 @@ permalink: /sitemap/
 ### [Школы](/schools/)
 
 ### [Deploy](/deploy/)
+
+### [Объяснение Redux на понятном языке](/client/react/redux/)
