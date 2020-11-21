@@ -10,6 +10,12 @@ permalink: /codes/
 
 <br/>
 
+### Одно и то же приложение на разных фрймворках от Oleksandr Kocherhin.
+
+Ract + Hooks: https://github.com/webmakaka/React-hooks-writing-real-project
+Angular: https://github.com/webmakaka/Angular-and-NgRx-Building-Real-Project-From-Scratch
+Vue: https://github.com/webmakaka/Vue-and-Vuex-Building-Real-Project-From-Scratch
+
 ### Cezerin (ecommerce)
 
 https://github.com/cezerin2  
@@ -33,7 +39,3 @@ https://searchengines.guru/showthread.php?t=1010199
 ### Todomvc
 
 http://todomvc.com/
-
-<br/>
-
-### <a href="https://github.com/webmakaka/React-hooks-writing-real-project" rel="nofollow" target="_blank">[React] [Udemy, Oleksandr Kocherhin] React Hooks - Пишем Реальный Проект с Нуля [2019, RUS]</a>
