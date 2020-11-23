@@ -93,3 +93,11 @@ https://www.youtube.com/watch?v=xq13wiqvcTc
 <br/>
 
 https://habr.com/ru/company/yandex/blog/514550/
+
+<br/>
+
+### [YouTube, Dev Talk] Vim [RUS, 2016]
+
+https://www.youtube.com/watch?v=zNnsNtBF80g&list=PLcjongJGYetkY4RFSVftH43F91vgzqB7U
+
+<a href="//jsdev.org/env/neovim/">Копал, чтобы настроить здесь</a>
