@@ -86,37 +86,41 @@ Cloud vs On-Premise: pros/cons (auto scaling, cross regional, availability zones
 
 **Лекции:**
 
-(Лекция1)
+(Лекция 1)
 https://www.youtube.com/watch?v=TkQS7Ej6zVs
 
-(Лекция2)
+(Лекция 2)
 https://www.youtube.com/watch?v=kY0P_QxVzKw
 
-(Вопросы2)
+(Вопросы 2)
 https://www.youtube.com/watch?v=8M_JoLh7tA4
 
-(Лекция3)
+(Лекция 3)
 https://www.youtube.com/watch?v=BJwx3XQ9ZqI
 
-(Вопросы3)
+(Вопросы 3)
 https://www.youtube.com/watch?v=5ymuKq_RpZQ
 
-(Лекция4)
+(Лекция 4)
 https://www.youtube.com/watch?v=dfD9jvAlaz4
 
-(Вопросы4)
+(Вопросы 4)
 https://www.youtube.com/watch?v=7zd3K6zqmmE
 
-(Лекция5)
+(Лекция 5)
 https://www.youtube.com/watch?v=5buEN_Ps8SQ
 
-(Вопросы5)
+(Вопросы 5)
 https://www.youtube.com/watch?v=_cq0P7cgMTo
 
-(Лекция6)
+(Лекция 6)
 https://www.youtube.com/watch?v=Fu9txvDvsDY
 
+(Вопросы 6)
+https://www.youtube.com/watch?v=lS6_33tCgrI
+
 <!--
+
 <br/>
 
 **Презентации:**
