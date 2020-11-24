@@ -19,5 +19,3 @@ permalink: /sitemap/
 ### [Школы](/schools/)
 
 ### [Deploy](/deploy/)
-
-### [Объяснение Redux на понятном языке](/client/react/redux/)

@@ -9,3 +9,5 @@ permalink: /client/react/
 # React
 
 ### [План становления React-разработчиком](https://github.com/adam-golab/react-developer-roadmap/blob/master/README-RU.md)
+
+### [Объяснение Redux на понятном языке](/client/react/redux/)

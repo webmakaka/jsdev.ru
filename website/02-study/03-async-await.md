@@ -3,10 +3,13 @@ layout: page
 title: Async/Await
 description: Async/Await
 keywords: Async/Await
-permalink: /dev/async-await/
+permalink: /study/async-await/
 ---
 
 # Async/Await
+
+<br/>
+
 
 - Надо почитать и позапускать.
 
