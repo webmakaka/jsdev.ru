@@ -3,13 +3,12 @@ layout: page
 title: Async/Await
 description: Async/Await
 keywords: Async/Await
-permalink: /study/async-await/
+permalink: /basics/async-await/
 ---
 
 # Async/Await
 
 <br/>
-
 
 - Надо почитать и позапускать.
 

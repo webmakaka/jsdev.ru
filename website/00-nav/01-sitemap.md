@@ -10,6 +10,8 @@ permalink: /sitemap/
 
 <br/>
 
+### [Изучаем основы](/basics/)
+
 ### [Материалы](/materials/)
 
 ### [Видеокурсы](/courses/)
@@ -17,5 +19,3 @@ permalink: /sitemap/
 ### [Книги](/books/)
 
 ### [Школы](/schools/)
-
-### [Deploy](/deploy/)

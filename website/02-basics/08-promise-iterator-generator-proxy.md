@@ -3,7 +3,7 @@ layout: page
 title: Promise, Iterator, Generator, Proxy
 description: Promise, Iterator, Generator, Proxy
 keywords: javascript, promise, iterator, generator, proxy
-permalink: /study/promise-iterator-generator-proxy/
+permalink: /basics/promise-iterator-generator-proxy/
 ---
 
 # Promise, Iterator, Generator, Proxy

@@ -3,7 +3,7 @@ layout: page
 title: Event Loop
 description: Event Loop
 keywords: javascript, Event Loop
-permalink: /study/event-loop/
+permalink: /basics/event-loop/
 ---
 
 # Event Loop
