@@ -86,38 +86,53 @@ Cloud vs On-Premise: pros/cons (auto scaling, cross regional, availability zones
 
 **Лекции:**
 
-(Лекция 1)
+(Лекция 1)  
 https://www.youtube.com/watch?v=TkQS7Ej6zVs
 
-(Лекция 2)
+(Лекция 2)  
 https://www.youtube.com/watch?v=kY0P_QxVzKw
 
-(Вопросы 2)
+(Вопросы 2)  
 https://www.youtube.com/watch?v=8M_JoLh7tA4
 
-(Лекция 3)
+(Лекция 3)  
 https://www.youtube.com/watch?v=BJwx3XQ9ZqI
 
-(Вопросы 3)
+(Вопросы 3)  
 https://www.youtube.com/watch?v=5ymuKq_RpZQ
 
-(Лекция 4)
+(Лекция 4)  
 https://www.youtube.com/watch?v=dfD9jvAlaz4
 
-(Вопросы 4)
+(Вопросы 4)  
 https://www.youtube.com/watch?v=7zd3K6zqmmE
 
-(Лекция 5)
+(Лекция 5)  
 https://www.youtube.com/watch?v=5buEN_Ps8SQ
 
-(Вопросы 5)
+(Вопросы 5)  
 https://www.youtube.com/watch?v=_cq0P7cgMTo
 
-(Лекция 6)
+(Лекция 6)  
 https://www.youtube.com/watch?v=Fu9txvDvsDY
 
-(Вопросы 6)
+(Вопросы 6)  
 https://www.youtube.com/watch?v=lS6_33tCgrI
+
+(Лекция 7)  
+https://www.youtube.com/watch?v=cWsNF3kmDuE
+
+(Вопросы 7)
+https://www.youtube.com/watch?v=GFPKFMFAV6o
+
+(Лекция 8)  
+https://www.youtube.com/watch?v=S6WfFEETW_s
+
+(Презентации 8)  
+https://jsdev.ru/files/rs-school/aws/Lecture-8-Docker-Elastic-Beanstalk.pdf
+
+(Вопросы 8)  
+https://www.youtube.com/watch?v=LJX4FJrXW9U
 
 <!--
 

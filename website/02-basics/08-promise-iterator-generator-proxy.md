@@ -8,7 +8,7 @@ permalink: /basics/promise-iterator-generator-proxy/
 
 # Promise, Iterator, Generator, Proxy
 
-https://www.youtube.com/watch?v=GHrXvQhb7K0&t=2008s
+https://www.youtube.com/watch?v=GHrXvQhb7K0
 
 <br/>
 

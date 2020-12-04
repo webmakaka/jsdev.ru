@@ -36,8 +36,6 @@ https://www.youtube.com/watch?v=CRlGDDprdOQ
     <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLREQY2tFmFnrVNPcEHdy0j-AtPhNk7-rC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
-
 <br/>
 
 ### [YouTube, Владилен Минин] React Hooks - Полный Курс (Про Все Хуки!) [RUS, 2020]
@@ -89,3 +87,9 @@ https://habr.com/ru/company/yandex/blog/514550/
 https://www.youtube.com/watch?v=zNnsNtBF80g&list=PLcjongJGYetkY4RFSVftH43F91vgzqB7U
 
 <a href="//jsdev.org/env/neovim/">Копал, чтобы настроить здесь</a>
+
+<br/>
+
+### [Сайт] SOLID BOOK [RUS]
+
+https://ota-solid.now.sh/
