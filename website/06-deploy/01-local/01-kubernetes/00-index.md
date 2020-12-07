@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Deploy in Local Kubernetes
-description: Deploy in Local Kubernetes
+title: Deploy в Local Kubernetes
+description: Deploy в Local Kubernetes
 keywords: Local Kubernetes, Deploy, JavaScript
 permalink: /deploy/local/kubernetes/
 ---
 
-# Deploy in Local Kubernetes
+# Deploy в Local Kubernetes
 
 <br/>
 
-### [Udemy] The React practice course, learn by building projects [2018, ENG]
+### [Udemy] The React practice course, learn by building projects [ENG, 2018]
 
 3 React проекта со скриптами для запуска и инструкциями по запуску в minikube
 
@@ -18,7 +18,7 @@ permalink: /deploy/local/kubernetes/
 
 <br/>
 
-### [Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [2019, ENG]
+### [Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [ENG, 2019]
 
 <a href="https://github.com/webmakaka/MERN-Stack-Front-To-Back-v2.0">Приложение</a>
 

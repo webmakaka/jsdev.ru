@@ -1,0 +1,326 @@
+I"Lz<h1 id="объяснение-redux-на-понятном-языке">Объяснение Redux на понятном языке</h1>
+
+<p><br /></p>
+
+<h3 id="что-это-за-redux-и-зачем-он-нужен">Что это за Redux и зачем он нужен</h3>
+
+<p><br /></p>
+
+<div align="center">
+    
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/jvkhKRHS2TY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+</div>
+
+<p><br /></p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">import</span> <span class="p">{</span> <span class="nx">createStore</span> <span class="p">}</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">redux</span><span class="dl">'</span><span class="p">;</span>
+
+<span class="kd">const</span> <span class="nx">initialState</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">name</span><span class="p">:</span> <span class="dl">'</span><span class="s1">Pert</span><span class="dl">'</span><span class="p">,</span>
+  <span class="na">lastName</span><span class="p">:</span> <span class="dl">'</span><span class="s1">Petrov</span><span class="dl">'</span><span class="p">,</span>
+<span class="p">};</span>
+
+<span class="kd">function</span> <span class="nx">reducer</span><span class="p">(</span><span class="nx">state</span> <span class="o">=</span> <span class="nx">initialState</span><span class="p">,</span> <span class="nx">action</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">switch</span> <span class="p">(</span><span class="nx">action</span><span class="p">.</span><span class="nx">type</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">case</span> <span class="dl">'</span><span class="s1">CHANGE_NAME</span><span class="dl">'</span><span class="p">:</span>
+      <span class="k">return</span> <span class="p">{</span> <span class="p">...</span><span class="nx">state</span><span class="p">,</span> <span class="na">name</span><span class="p">:</span> <span class="nx">action</span><span class="p">.</span><span class="nx">payload</span> <span class="p">};</span>
+    <span class="k">case</span> <span class="dl">'</span><span class="s1">CHANGE_LAST_NAME</span><span class="dl">'</span><span class="p">:</span>
+      <span class="k">return</span> <span class="p">{</span> <span class="p">...</span><span class="nx">state</span><span class="p">,</span> <span class="na">lastName</span><span class="p">:</span> <span class="nx">action</span><span class="p">.</span><span class="nx">payload</span> <span class="p">};</span>
+  <span class="p">}</span>
+
+  <span class="k">return</span> <span class="nx">state</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="kd">const</span> <span class="nx">store</span> <span class="o">=</span> <span class="nx">createStore</span><span class="p">(</span><span class="nx">reducer</span><span class="p">);</span>
+
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">store</span><span class="p">.</span><span class="nx">getState</span><span class="p">());</span>
+
+<span class="kd">const</span> <span class="nx">changeName</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">type</span><span class="p">:</span> <span class="dl">'</span><span class="s1">CHANGE_NAME</span><span class="dl">'</span><span class="p">,</span>
+  <span class="na">payload</span><span class="p">:</span> <span class="dl">'</span><span class="s1">Ivan</span><span class="dl">'</span><span class="p">,</span>
+<span class="p">};</span>
+
+<span class="kd">const</span> <span class="nx">changeLastName</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">type</span><span class="p">:</span> <span class="dl">'</span><span class="s1">CHANGE_LAST_NAME</span><span class="dl">'</span><span class="p">,</span>
+  <span class="na">payload</span><span class="p">:</span> <span class="dl">'</span><span class="s1">Ivanov</span><span class="dl">'</span><span class="p">,</span>
+<span class="p">};</span>
+
+<span class="nx">store</span><span class="p">.</span><span class="nx">dispatch</span><span class="p">(</span><span class="nx">changeName</span><span class="p">);</span>
+
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">store</span><span class="p">.</span><span class="nx">getState</span><span class="p">());</span>
+
+<span class="nx">store</span><span class="p">.</span><span class="nx">dispatch</span><span class="p">(</span><span class="nx">changeLastName</span><span class="p">);</span>
+
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">store</span><span class="p">.</span><span class="nx">getState</span><span class="p">());</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h3 id="react-и-redux-подключаемся-к-redux">React и Redux. Подключаемся к Redux</h3>
+
+<p><br /></p>
+
+<div align="center">
+    
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/wzWZDh0dUYE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+</div>
+
+<p><br /></p>
+
+<p><strong>.babelrc</strong></p>
+
+<p><br /></p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span>
+<span class="dl">"</span><span class="s2">presets</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span><span class="dl">"</span><span class="s2">react</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">es2015</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">stage-2</span><span class="dl">"</span><span class="p">]</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<p><strong>webpack.config.js</strong></p>
+
+<p><br /></p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="o">---</span>
+
+<span class="nx">module</span><span class="p">:</span> <span class="p">{</span>
+<span class="nl">rules</span><span class="p">:</span> <span class="p">[</span>
+    <span class="p">{</span>
+      <span class="na">test</span><span class="p">:</span> <span class="sr">/</span><span class="se">\.</span><span class="sr">js$/</span><span class="p">,</span>
+      <span class="na">exclude</span><span class="p">:</span> <span class="sr">/node_modules/</span><span class="p">,</span>
+      <span class="na">use</span><span class="p">:</span> <span class="p">{</span>
+      <span class="na">loader</span><span class="p">:</span> <span class="dl">'</span><span class="s1">babel-loader</span><span class="dl">'</span>
+      <span class="p">}</span>
+    <span class="p">}</span>
+  <span class="p">]</span>
+<span class="p">},</span>
+
+<span class="o">---</span>
+
+</code></pre></div></div>
+
+<p><br /></p>
+
+<p><br /></p>
+
+<p><strong>index.js</strong></p>
+
+<p><br /></p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">import</span> <span class="nx">React</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">react</span><span class="dl">'</span><span class="p">;</span>
+<span class="k">import</span> <span class="nx">ReactDOM</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">react-dom</span><span class="dl">'</span><span class="p">;</span>
+<span class="k">import</span> <span class="p">{</span> <span class="nx">createStore</span> <span class="p">}</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">redux</span><span class="dl">'</span><span class="p">;</span>
+<span class="k">import</span> <span class="p">{</span> <span class="nx">connect</span><span class="p">,</span> <span class="nx">Provider</span> <span class="p">}</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">react-redux</span><span class="dl">'</span><span class="p">;</span>
+
+<span class="kd">const</span> <span class="nx">initialState</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">firstName</span><span class="p">:</span> <span class="dl">'</span><span class="s1">Ivan</span><span class="dl">'</span><span class="p">,</span>
+  <span class="na">lastName</span><span class="p">:</span> <span class="dl">'</span><span class="s1">Ivanov</span><span class="dl">'</span><span class="p">,</span>
+<span class="p">};</span>
+
+<span class="kd">const</span> <span class="nx">ACTION_CHANGE_FIRST_NAME</span> <span class="o">=</span> <span class="dl">'</span><span class="s1">ACTION_CHANGE_FIRST_NAME</span><span class="dl">'</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">ACTION_CHANGE_LAST_NAME</span> <span class="o">=</span> <span class="dl">'</span><span class="s1">ACTION_CHANGE_LAST_NAME</span><span class="dl">'</span><span class="p">;</span>
+
+<span class="kd">const</span> <span class="nx">changeFirstName</span> <span class="o">=</span> <span class="p">(</span><span class="nx">newFirstName</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">newFirstName</span><span class="p">);</span>
+
+  <span class="k">return</span> <span class="p">{</span>
+    <span class="na">type</span><span class="p">:</span> <span class="nx">ACTION_CHANGE_FIRST_NAME</span><span class="p">,</span>
+    <span class="na">payload</span><span class="p">:</span> <span class="nx">newFirstName</span><span class="p">,</span>
+  <span class="p">};</span>
+<span class="p">};</span>
+
+<span class="kd">const</span> <span class="nx">changeLastName</span> <span class="o">=</span> <span class="p">(</span><span class="nx">newLastName</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">{</span>
+    <span class="na">type</span><span class="p">:</span> <span class="nx">ACTION_CHANGE_LAST_NAME</span><span class="p">,</span>
+    <span class="na">payload</span><span class="p">:</span> <span class="nx">newLastName</span><span class="p">,</span>
+  <span class="p">};</span>
+<span class="p">};</span>
+
+<span class="kd">const</span> <span class="nx">rootReducer</span> <span class="o">=</span> <span class="p">(</span><span class="nx">state</span> <span class="o">=</span> <span class="nx">initialState</span><span class="p">,</span> <span class="nx">action</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="k">switch</span> <span class="p">(</span><span class="nx">action</span><span class="p">.</span><span class="nx">type</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">case</span> <span class="na">ACTION_CHANGE_FIRST_NAME</span><span class="p">:</span>
+      <span class="k">return</span> <span class="p">{</span> <span class="p">...</span><span class="nx">state</span><span class="p">,</span> <span class="na">firstName</span><span class="p">:</span> <span class="nx">action</span><span class="p">.</span><span class="nx">payload</span> <span class="p">};</span>
+
+    <span class="k">case</span> <span class="na">ACTION_CHANGE_LAST_NAME</span><span class="p">:</span>
+      <span class="k">return</span> <span class="p">{</span> <span class="p">...</span><span class="nx">state</span><span class="p">,</span> <span class="na">lastName</span><span class="p">:</span> <span class="nx">action</span><span class="p">.</span><span class="nx">payload</span> <span class="p">};</span>
+  <span class="p">}</span>
+
+  <span class="k">return</span> <span class="nx">state</span><span class="p">;</span>
+<span class="p">};</span>
+
+<span class="kd">const</span> <span class="nx">store</span> <span class="o">=</span> <span class="nx">createStore</span><span class="p">(</span><span class="nx">rootReducer</span><span class="p">);</span>
+
+<span class="kd">class</span> <span class="nx">MainComponent</span> <span class="kd">extends</span> <span class="nx">React</span><span class="p">.</span><span class="nx">Component</span> <span class="p">{</span>
+  <span class="nx">render</span><span class="p">()</span> <span class="p">{</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">MainComponent props</span><span class="dl">'</span><span class="p">);</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">props</span><span class="p">);</span>
+
+    <span class="kd">const</span> <span class="nx">dispatch</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">props</span><span class="p">.</span><span class="nx">dispatch</span><span class="p">;</span>
+    <span class="kd">const</span> <span class="p">{</span> <span class="nx">firstName</span><span class="p">,</span> <span class="nx">lastName</span> <span class="p">}</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">props</span><span class="p">;</span>
+
+    <span class="k">return</span> <span class="p">(</span>
+      <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+        <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+          <span class="o">&lt;</span><span class="nx">input</span>
+            <span class="nx">type</span><span class="o">=</span><span class="dl">"</span><span class="s2">text</span><span class="dl">"</span>
+            <span class="nx">value</span><span class="o">=</span><span class="p">{</span><span class="nx">firstName</span><span class="p">}</span>
+            <span class="nx">placeholder</span><span class="o">=</span><span class="dl">"</span><span class="s2">First Name</span><span class="dl">"</span>
+            <span class="nx">onChange</span><span class="o">=</span><span class="p">{(</span><span class="nx">event</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+              <span class="nx">dispatch</span><span class="p">(</span><span class="nx">changeFirstName</span><span class="p">(</span><span class="nx">event</span><span class="p">.</span><span class="nx">target</span><span class="p">.</span><span class="nx">value</span><span class="p">));</span>
+            <span class="p">}}</span>
+          <span class="sr">/&gt;{' '</span><span class="err">}
+</span>        <span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>        <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+          <span class="o">&lt;</span><span class="nx">input</span>
+            <span class="nx">type</span><span class="o">=</span><span class="dl">"</span><span class="s2">text</span><span class="dl">"</span>
+            <span class="nx">value</span><span class="o">=</span><span class="p">{</span><span class="nx">lastName</span><span class="p">}</span>
+            <span class="nx">placeholder</span><span class="o">=</span><span class="dl">"</span><span class="s2">Last Name</span><span class="dl">"</span>
+            <span class="nx">onChange</span><span class="o">=</span><span class="p">{(</span><span class="nx">event</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+              <span class="nx">dispatch</span><span class="p">(</span><span class="nx">changeLastName</span><span class="p">(</span><span class="nx">event</span><span class="p">.</span><span class="nx">target</span><span class="p">.</span><span class="nx">value</span><span class="p">));</span>
+            <span class="p">}}</span>
+          <span class="sr">/&gt;{' '</span><span class="err">}
+</span>        <span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>
+        <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span><span class="p">{</span><span class="s2">`</span><span class="p">${</span><span class="nx">firstName</span><span class="p">}</span><span class="s2"> </span><span class="p">${</span><span class="nx">lastName</span><span class="p">}</span><span class="s2">`</span><span class="p">}</span><span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>      <span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>    <span class="p">);</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+<span class="kd">const</span> <span class="nx">mapStateToProps</span> <span class="o">=</span> <span class="p">(</span><span class="nx">state</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">{</span>
+    <span class="na">firstName</span><span class="p">:</span> <span class="nx">state</span><span class="p">.</span><span class="nx">firstName</span><span class="p">,</span>
+    <span class="na">lastName</span><span class="p">:</span> <span class="nx">state</span><span class="p">.</span><span class="nx">lastName</span><span class="p">,</span>
+  <span class="p">};</span>
+<span class="p">};</span>
+
+<span class="kd">const</span> <span class="nx">WrappedMainComponent</span> <span class="o">=</span> <span class="nx">connect</span><span class="p">(</span><span class="nx">mapStateToProps</span><span class="p">)(</span><span class="nx">MainComponent</span><span class="p">);</span>
+
+<span class="nx">ReactDOM</span><span class="p">.</span><span class="nx">render</span><span class="p">(</span>
+  <span class="o">&lt;</span><span class="nx">Provider</span> <span class="nx">store</span><span class="o">=</span><span class="p">{</span><span class="nx">store</span><span class="p">}</span><span class="o">&gt;</span>
+    <span class="o">&lt;</span><span class="nx">WrappedMainComponent</span> <span class="o">/&gt;</span>
+  <span class="o">&lt;</span><span class="sr">/Provider&gt;</span><span class="err">,
+</span>  <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="dl">'</span><span class="s1">app</span><span class="dl">'</span><span class="p">)</span>
+<span class="p">);</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<p>Улучшаем</p>
+
+<p><br /></p>
+
+<p><strong>index.js</strong></p>
+
+<p><br /></p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">import</span> <span class="nx">React</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">react</span><span class="dl">'</span><span class="p">;</span>
+<span class="k">import</span> <span class="nx">ReactDOM</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">react-dom</span><span class="dl">'</span><span class="p">;</span>
+<span class="k">import</span> <span class="p">{</span> <span class="nx">createStore</span><span class="p">,</span> <span class="nx">bindActionCreators</span> <span class="p">}</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">redux</span><span class="dl">'</span><span class="p">;</span>
+<span class="k">import</span> <span class="p">{</span> <span class="nx">connect</span><span class="p">,</span> <span class="nx">Provider</span> <span class="p">}</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">react-redux</span><span class="dl">'</span><span class="p">;</span>
+
+<span class="kd">const</span> <span class="nx">initialState</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">firstName</span><span class="p">:</span> <span class="dl">'</span><span class="s1">Ivan</span><span class="dl">'</span><span class="p">,</span>
+  <span class="na">lastName</span><span class="p">:</span> <span class="dl">'</span><span class="s1">Ivanov</span><span class="dl">'</span><span class="p">,</span>
+<span class="p">};</span>
+
+<span class="kd">const</span> <span class="nx">ACTION_CHANGE_FIRST_NAME</span> <span class="o">=</span> <span class="dl">'</span><span class="s1">ACTION_CHANGE_FIRST_NAME</span><span class="dl">'</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">ACTION_CHANGE_LAST_NAME</span> <span class="o">=</span> <span class="dl">'</span><span class="s1">ACTION_CHANGE_LAST_NAME</span><span class="dl">'</span><span class="p">;</span>
+
+<span class="kd">const</span> <span class="nx">changeFirstName</span> <span class="o">=</span> <span class="p">(</span><span class="nx">newFirstName</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">newFirstName</span><span class="p">);</span>
+
+  <span class="k">return</span> <span class="p">{</span>
+    <span class="na">type</span><span class="p">:</span> <span class="nx">ACTION_CHANGE_FIRST_NAME</span><span class="p">,</span>
+    <span class="na">payload</span><span class="p">:</span> <span class="nx">newFirstName</span><span class="p">,</span>
+  <span class="p">};</span>
+<span class="p">};</span>
+
+<span class="kd">const</span> <span class="nx">changeLastName</span> <span class="o">=</span> <span class="p">(</span><span class="nx">newLastName</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">{</span>
+    <span class="na">type</span><span class="p">:</span> <span class="nx">ACTION_CHANGE_LAST_NAME</span><span class="p">,</span>
+    <span class="na">payload</span><span class="p">:</span> <span class="nx">newLastName</span><span class="p">,</span>
+  <span class="p">};</span>
+<span class="p">};</span>
+
+<span class="kd">const</span> <span class="nx">rootReducer</span> <span class="o">=</span> <span class="p">(</span><span class="nx">state</span> <span class="o">=</span> <span class="nx">initialState</span><span class="p">,</span> <span class="nx">action</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="k">switch</span> <span class="p">(</span><span class="nx">action</span><span class="p">.</span><span class="nx">type</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">case</span> <span class="na">ACTION_CHANGE_FIRST_NAME</span><span class="p">:</span>
+      <span class="k">return</span> <span class="p">{</span> <span class="p">...</span><span class="nx">state</span><span class="p">,</span> <span class="na">firstName</span><span class="p">:</span> <span class="nx">action</span><span class="p">.</span><span class="nx">payload</span> <span class="p">};</span>
+
+    <span class="k">case</span> <span class="na">ACTION_CHANGE_LAST_NAME</span><span class="p">:</span>
+      <span class="k">return</span> <span class="p">{</span> <span class="p">...</span><span class="nx">state</span><span class="p">,</span> <span class="na">lastName</span><span class="p">:</span> <span class="nx">action</span><span class="p">.</span><span class="nx">payload</span> <span class="p">};</span>
+  <span class="p">}</span>
+
+  <span class="k">return</span> <span class="nx">state</span><span class="p">;</span>
+<span class="p">};</span>
+
+<span class="kd">const</span> <span class="nx">store</span> <span class="o">=</span> <span class="nx">createStore</span><span class="p">(</span><span class="nx">rootReducer</span><span class="p">);</span>
+
+<span class="kd">class</span> <span class="nx">MainComponent</span> <span class="kd">extends</span> <span class="nx">React</span><span class="p">.</span><span class="nx">Component</span> <span class="p">{</span>
+  <span class="nx">render</span><span class="p">()</span> <span class="p">{</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">MainComponent props</span><span class="dl">'</span><span class="p">);</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">props</span><span class="p">);</span>
+
+    <span class="kd">const</span> <span class="nx">dispatch</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">props</span><span class="p">.</span><span class="nx">dispatch</span><span class="p">;</span>
+    <span class="kd">const</span> <span class="p">{</span> <span class="nx">firstName</span><span class="p">,</span> <span class="nx">lastName</span><span class="p">,</span> <span class="nx">changeFirstName</span><span class="p">,</span> <span class="nx">changeLastName</span> <span class="p">}</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">props</span><span class="p">;</span>
+
+    <span class="k">return</span> <span class="p">(</span>
+      <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+        <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+          <span class="o">&lt;</span><span class="nx">input</span>
+            <span class="nx">type</span><span class="o">=</span><span class="dl">"</span><span class="s2">text</span><span class="dl">"</span>
+            <span class="nx">value</span><span class="o">=</span><span class="p">{</span><span class="nx">firstName</span><span class="p">}</span>
+            <span class="nx">placeholder</span><span class="o">=</span><span class="dl">"</span><span class="s2">First Name</span><span class="dl">"</span>
+            <span class="nx">onChange</span><span class="o">=</span><span class="p">{(</span><span class="nx">event</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+              <span class="nx">changeFirstName</span><span class="p">(</span><span class="nx">event</span><span class="p">.</span><span class="nx">target</span><span class="p">.</span><span class="nx">value</span><span class="p">);</span>
+            <span class="p">}}</span>
+          <span class="sr">/&gt;{' '</span><span class="err">}
+</span>        <span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>        <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+          <span class="o">&lt;</span><span class="nx">input</span>
+            <span class="nx">type</span><span class="o">=</span><span class="dl">"</span><span class="s2">text</span><span class="dl">"</span>
+            <span class="nx">value</span><span class="o">=</span><span class="p">{</span><span class="nx">lastName</span><span class="p">}</span>
+            <span class="nx">placeholder</span><span class="o">=</span><span class="dl">"</span><span class="s2">Last Name</span><span class="dl">"</span>
+            <span class="nx">onChange</span><span class="o">=</span><span class="p">{(</span><span class="nx">event</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+              <span class="nx">changeLastName</span><span class="p">(</span><span class="nx">event</span><span class="p">.</span><span class="nx">target</span><span class="p">.</span><span class="nx">value</span><span class="p">);</span>
+            <span class="p">}}</span>
+          <span class="sr">/&gt;{' '</span><span class="err">}
+</span>        <span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>
+        <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span><span class="p">{</span><span class="s2">`</span><span class="p">${</span><span class="nx">firstName</span><span class="p">}</span><span class="s2"> </span><span class="p">${</span><span class="nx">lastName</span><span class="p">}</span><span class="s2">`</span><span class="p">}</span><span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>      <span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>    <span class="p">);</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+<span class="kd">const</span> <span class="nx">mapStateToProps</span> <span class="o">=</span> <span class="p">(</span><span class="nx">state</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">{</span>
+    <span class="na">firstName</span><span class="p">:</span> <span class="nx">state</span><span class="p">.</span><span class="nx">firstName</span><span class="p">,</span>
+    <span class="na">lastName</span><span class="p">:</span> <span class="nx">state</span><span class="p">.</span><span class="nx">lastName</span><span class="p">,</span>
+  <span class="p">};</span>
+<span class="p">};</span>
+
+<span class="c1">// putActionsToProps</span>
+<span class="kd">const</span> <span class="nx">mapDispatchToProps</span> <span class="o">=</span> <span class="p">(</span><span class="nx">dispatch</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">{</span>
+    <span class="na">changeFirstName</span><span class="p">:</span> <span class="nx">bindActionCreators</span><span class="p">(</span><span class="nx">changeFirstName</span><span class="p">,</span> <span class="nx">dispatch</span><span class="p">),</span>
+    <span class="na">changeLastName</span><span class="p">:</span> <span class="nx">bindActionCreators</span><span class="p">(</span><span class="nx">changeLastName</span><span class="p">,</span> <span class="nx">dispatch</span><span class="p">),</span>
+  <span class="p">};</span>
+<span class="p">};</span>
+
+<span class="kd">const</span> <span class="nx">WrappedMainComponent</span> <span class="o">=</span> <span class="nx">connect</span><span class="p">(</span>
+  <span class="nx">mapStateToProps</span><span class="p">,</span>
+  <span class="nx">mapDispatchToProps</span>
+<span class="p">)(</span><span class="nx">MainComponent</span><span class="p">);</span>
+
+<span class="nx">ReactDOM</span><span class="p">.</span><span class="nx">render</span><span class="p">(</span>
+  <span class="o">&lt;</span><span class="nx">Provider</span> <span class="nx">store</span><span class="o">=</span><span class="p">{</span><span class="nx">store</span><span class="p">}</span><span class="o">&gt;</span>
+    <span class="o">&lt;</span><span class="nx">WrappedMainComponent</span> <span class="o">/&gt;</span>
+  <span class="o">&lt;</span><span class="sr">/Provider&gt;</span><span class="err">,
+</span>  <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="dl">'</span><span class="s1">app</span><span class="dl">'</span><span class="p">)</span>
+<span class="p">);</span>
+</code></pre></div></div>
+:ET

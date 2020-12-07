@@ -34,7 +34,6 @@ function reducer(state = initialState, action) {
   switch (action.type) {
     case 'CHANGE_NAME':
       return { ...state, name: action.payload };
-
     case 'CHANGE_LAST_NAME':
       return { ...state, lastName: action.payload };
   }

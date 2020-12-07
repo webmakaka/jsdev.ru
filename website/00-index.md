@@ -51,7 +51,11 @@ permalink: /
 
 <br/>
 
-![RS School React](/img/rs-school-mobile.png 'RS School Android and IOS'){: .center-image }
+![RS School Node.js](/img/rs-school-nodejs.png 'RS School Node.js'){: .center-image }
+
+<br/>
+
+![RS School Android and IOS](/img/rs-school-mobile.png 'RS School Android and IOS'){: .center-image }
 
 <br/>
 

@@ -1,0 +1,145 @@
+I"�<h1 id="книги-для-изучения-javascript-и-javascript-фреймворков-на-русском-языке">Книги для изучения JavaScript и JavaScript фреймворков на русском языке</h1>
+
+<p><br /></p>
+
+<p>Я думаю, вы сами купите / найдете следующие книги, если они вам понадобятся. Я сам не читал. Если знаете более подходящие и современные книги, дайте знать.</p>
+
+<p><br /></p>
+
+<h3 id="react--redux">React / Redux</h3>
+
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Азат Мардан</td>
+          <td>React быстро. Веб-приложения на React, JSX, Redux и GraphQL</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Максим Пацианский</td>
+          <td>Основы Redux</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="vue">Vue</h3>
+
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Эрик Хэнчетт, Бенджамин Листуон</td>
+          <td>Vue.js в действии (2019) [PDF]</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="angular">Angular</h3>
+
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Саймон Холмс</td>
+          <td>Стек MEAN. Mongo, Express, Angular, Node (2018) [PDF]</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="nodejs">Node.js</h3>
+
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Майк Кантелон и др.</td>
+          <td>Node.js в действии 2-е издание 2018 [PDF]</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="typescript">TypeScript</h3>
+
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Натан Розенталс</td>
+          <td>Изучаем TypeScript 3 2019 [PDF]</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="elastic-stak">Elastic Stak</h3>
+
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Пранав Шукла, Шарат Кумар</td>
+          <td>Elasticsearch, Kibana, Logstash и поисковые системы нового поколения</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="docker--kubernetes">Docker / Kubernetes</h3>
+
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Марко Лукша</td>
+          <td>Kubernetes в действии +code 2019 [PDF]</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Джиджи Сайфан</td>
+          <td>Осваиваем Kubernetes. Оркестрация контейнерных архитектур 2019</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+:ET

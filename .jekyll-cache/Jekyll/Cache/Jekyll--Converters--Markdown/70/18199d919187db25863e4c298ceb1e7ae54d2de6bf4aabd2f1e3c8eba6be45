@@ -1,0 +1,179 @@
+I"%I<h1 id="4-продвинутые-функции">4. Продвинутые функции</h1>
+
+<p><br /></p>
+
+<h3 id="1-randomize">1. Randomize</h3>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">_</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">lodash</span><span class="dl">'</span><span class="p">);</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">random</span><span class="dl">'</span><span class="p">,</span> <span class="nx">_</span><span class="p">.</span><span class="nx">random</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">10</span><span class="p">));</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h3 id="2-делаем-данные-уникальными">2. Делаем данные уникальными</h3>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">_</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">lodash</span><span class="dl">'</span><span class="p">);</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">uniqueId</span><span class="dl">'</span><span class="p">,</span> <span class="nx">_</span><span class="p">.</span><span class="nx">uniqueId</span><span class="p">(</span><span class="dl">'</span><span class="s1">user_</span><span class="dl">'</span><span class="p">));</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">uniqueId</span><span class="dl">'</span><span class="p">,</span> <span class="nx">_</span><span class="p">.</span><span class="nx">uniqueId</span><span class="p">(</span><span class="dl">'</span><span class="s1">user_</span><span class="dl">'</span><span class="p">));</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">uniqueId</span><span class="dl">'</span><span class="p">,</span> <span class="nx">_</span><span class="p">.</span><span class="nx">uniqueId</span><span class="p">(</span><span class="dl">'</span><span class="s1">user_</span><span class="dl">'</span><span class="p">));</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h3 id="3-делаем-массивы-одномерными">3. Делаем массивы одномерными</h3>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">_</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">lodash</span><span class="dl">'</span><span class="p">);</span>
+
+<span class="kd">const</span> <span class="nx">foo</span> <span class="o">=</span> <span class="p">[[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">],</span> <span class="p">[</span><span class="mi">3</span><span class="p">]];</span>
+
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">_</span><span class="p">.</span><span class="nx">flatten</span><span class="p">(</span><span class="nx">foo</span><span class="p">));</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h3 id="4-удаляем-пустые-элементы">4. Удаляем пустые элементы</h3>
+
+<p>Удаляет все false, null, 0, “”, undefined, Nan из массива.</p>
+
+<p>В том числе удаляет пустую строку.</p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">_</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">lodash</span><span class="dl">'</span><span class="p">);</span>
+
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">_</span><span class="p">.</span><span class="nx">compact</span><span class="p">([</span><span class="kc">false</span><span class="p">,</span> <span class="kc">null</span><span class="p">,</span> <span class="kc">undefined</span><span class="p">,</span> <span class="dl">'</span><span class="s1">Привет!!!</span><span class="dl">'</span><span class="p">,</span> <span class="dl">'</span><span class="s1"> </span><span class="dl">'</span><span class="p">]));</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h3 id="5-иммутабельное-обновление-данных">5. Иммутабельное обновление данных</h3>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">_</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">lodash</span><span class="dl">'</span><span class="p">);</span>
+
+<span class="kd">const</span> <span class="nx">state</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">isLoading</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+  <span class="na">data</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+  <span class="na">error</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+<span class="p">};</span>
+
+<span class="kd">const</span> <span class="nx">newState</span> <span class="o">=</span> <span class="nx">_</span><span class="p">.</span><span class="nx">assign</span><span class="p">({},</span> <span class="nx">state</span><span class="p">,</span> <span class="p">{</span> <span class="na">isLoading</span><span class="p">:</span> <span class="kc">true</span> <span class="p">});</span>
+
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">result</span><span class="dl">'</span><span class="p">,</span> <span class="nx">state</span><span class="p">,</span> <span class="nx">newState</span><span class="p">);</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h3 id="6-клонируем-данные">6. Клонируем данные</h3>
+
+<p>clone не копирует вложенные поля.</p>
+
+<p>Нужно использовать cloneDeep если используются вложенные поля.</p>
+
+<p>cloneDeep - работает медленнее.</p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">_</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">lodash</span><span class="dl">'</span><span class="p">);</span>
+
+<span class="kd">const</span> <span class="nx">baseConfig</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">apiUrl</span><span class="p">:</span> <span class="dl">'</span><span class="s1">http://someapi.com</span><span class="dl">'</span><span class="p">,</span>
+  <span class="na">port</span><span class="p">:</span> <span class="mi">4000</span><span class="p">,</span>
+<span class="p">};</span>
+
+<span class="kd">const</span> <span class="nx">createExtendedConfig</span> <span class="o">=</span> <span class="p">(</span><span class="nx">config</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="c1">// const cloneConfig = _.clone(config)</span>
+  <span class="kd">const</span> <span class="nx">cloneConfig</span> <span class="o">=</span> <span class="nx">_</span><span class="p">.</span><span class="nx">cloneDeep</span><span class="p">(</span><span class="nx">config</span><span class="p">);</span>
+  <span class="nx">cloneConfig</span><span class="p">.</span><span class="nx">host</span> <span class="o">=</span> <span class="dl">'</span><span class="s1">https://google.com</span><span class="dl">'</span><span class="p">;</span>
+  <span class="k">return</span> <span class="nx">cloneConfig</span><span class="p">;</span>
+<span class="p">};</span>
+
+<span class="kd">const</span> <span class="nx">result</span> <span class="o">=</span> <span class="nx">createExtendedConfig</span><span class="p">(</span><span class="nx">baseConfig</span><span class="p">);</span>
+
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">baseConfig</span><span class="dl">'</span><span class="p">,</span> <span class="nx">baseConfig</span><span class="p">);</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">result</span><span class="dl">'</span><span class="p">,</span> <span class="nx">result</span><span class="p">);</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h3 id="7-проверяем-типы-данных">7. Проверяем типы данных</h3>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">_</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">lodash</span><span class="dl">'</span><span class="p">);</span>
+
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">_</span><span class="p">.</span><span class="nx">isEqual</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">],</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">]));</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">_</span><span class="p">.</span><span class="nx">isEmpty</span><span class="p">([]));</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">_</span><span class="p">.</span><span class="nx">isEmpty</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">]));</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">if</span> <span class="p">(</span><span class="nx">_</span><span class="p">.</span><span class="nx">isNil</span><span class="p">(</span><span class="nx">user</span><span class="p">))</span> <span class="p">{</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h3 id="8-что-такое-debounce">8. Что такое Debounce</h3>
+
+<p>debounce - отложенный вызов</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;body&gt;</span>
+  <span class="nt">&lt;h1&gt;</span>Hi lodash<span class="nt">&lt;/h1&gt;</span>
+  <span class="nt">&lt;input</span> <span class="na">type=</span><span class="s">"text"</span> <span class="na">id=</span><span class="s">"name"</span> <span class="nt">/&gt;</span>
+  <span class="nt">&lt;input</span> <span class="na">type=</span><span class="s">"text"</span> <span class="na">id=</span><span class="s">"email"</span> <span class="nt">/&gt;</span>
+  <span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"main.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+<span class="nt">&lt;/body&gt;</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">handler</span> <span class="o">=</span> <span class="nx">funcion</span><span class="p">(</span><span class="nx">event</span><span class="p">){</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">send reqquest to server</span><span class="dl">'</span><span class="p">,</span> <span class="nx">event</span><span class="p">.</span><span class="nx">target</span><span class="p">.</span><span class="nx">value</span><span class="p">)};</span>
+<span class="p">}</span>
+
+<span class="nb">document</span>
+<span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="dl">'</span><span class="s1">name</span><span class="dl">'</span><span class="p">)</span>
+<span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="dl">'</span><span class="s1">keydown</span><span class="dl">'</span><span class="p">,</span> <span class="nx">_</span><span class="p">.</span><span class="nx">debounce</span><span class="p">(</span><span class="nx">handler</span><span class="p">,</span> <span class="mi">2000</span><span class="p">));</span>
+<span class="p">});</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h3 id="9-что-такое-throttle">9. Что такое Throttle</h3>
+
+<p>throttle - блокирует вызов, например несколько секунд ничего не происходит на указанный интервал.</p>
+
+<p>Например, чтобы не кликали много раз на кнопку.</p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">handler</span> <span class="o">=</span> <span class="nx">funcion</span><span class="p">(</span><span class="nx">event</span><span class="p">){</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">send reqquest to server</span><span class="dl">'</span><span class="p">,</span> <span class="nx">event</span><span class="p">.</span><span class="nx">target</span><span class="p">.</span><span class="nx">value</span><span class="p">)};</span>
+<span class="p">}</span>
+
+<span class="nb">document</span>
+<span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="dl">'</span><span class="s1">name</span><span class="dl">'</span><span class="p">)</span>
+<span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="dl">'</span><span class="s1">keydown</span><span class="dl">'</span><span class="p">,</span> <span class="nx">_</span><span class="p">.</span><span class="nx">debounce</span><span class="p">(</span><span class="nx">handler</span><span class="p">,</span> <span class="mi">2000</span><span class="p">));</span>
+<span class="p">});</span>
+
+<span class="nb">document</span>
+<span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="dl">'</span><span class="s1">email</span><span class="dl">'</span><span class="p">)</span>
+<span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="dl">'</span><span class="s1">keydown</span><span class="dl">'</span><span class="p">,</span> <span class="nx">_</span><span class="p">.</span><span class="nx">throttle</span><span class="p">(</span><span class="nx">handler</span><span class="p">,</span> <span class="mi">2000</span><span class="p">));</span>
+<span class="p">});</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h3 id="10-миксины">10. Миксины</h3>
+
+<p>Свои собственные lodash функции внутри chain.</p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">_</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">lodash</span><span class="dl">'</span><span class="p">);</span>
+
+<span class="kd">const</span> <span class="nx">capitalizeLast</span> <span class="o">=</span> <span class="p">(</span><span class="nx">str</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="kd">const</span> <span class="nx">lastSymbol</span> <span class="o">=</span> <span class="nx">_</span><span class="p">.</span><span class="nx">last</span><span class="p">(</span><span class="nx">str</span><span class="p">);</span>
+  <span class="kd">const</span> <span class="nx">initialSymbols</span> <span class="o">=</span> <span class="nx">_</span><span class="p">.</span><span class="nx">chain</span><span class="p">(</span><span class="nx">str</span><span class="p">).</span><span class="nx">initial</span><span class="p">().</span><span class="nx">join</span><span class="p">(</span><span class="dl">''</span><span class="p">).</span><span class="nx">value</span><span class="p">();</span>
+
+  <span class="k">return</span> <span class="nx">initialSymbols</span> <span class="o">+</span> <span class="nx">_</span><span class="p">.</span><span class="nx">capitalize</span><span class="p">(</span><span class="nx">lastSymbol</span><span class="p">);</span>
+<span class="p">};</span>
+
+<span class="nx">_</span><span class="p">.</span><span class="nx">mixin</span><span class="p">({</span> <span class="nx">capitalizeLast</span> <span class="p">});</span>
+
+<span class="kd">const</span> <span class="nx">result</span> <span class="o">=</span> <span class="nx">_</span><span class="p">.</span><span class="nx">chain</span><span class="p">(</span><span class="dl">'</span><span class="s1">foo</span><span class="dl">'</span><span class="p">).</span><span class="nx">capitalizeLast</span><span class="p">().</span><span class="nx">value</span><span class="p">();</span>
+
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">result</span><span class="dl">'</span><span class="p">,</span> <span class="nx">result</span><span class="p">);</span>
+</code></pre></div></div>
+:ET

@@ -1,0 +1,157 @@
+I"-<h1 id="изучаем-обсуждаем-и-делимся-материалами-для-освоения-современного-javascript-и-javascript-фреймворков-на-русском-языке">Изучаем, обсуждаем и делимся материалами для освоения современного JavaScript и JavaScript фреймворков на русском языке</h1>
+
+<p><br /></p>
+
+<h3 id="совместное-изучение-материалов-по-современному-javascript-и-javascript-фреймворков">Совместное изучение материалов по современному javascript и javascript фреймворков</h3>
+
+<p>Изучать материалы интереснее в коллективе, особенно когда что-то не работает и есть у кого спросить, посмотреть код, задать вопрос.</p>
+
+<p>Если ставить какие-то цели и проводить challeng’ы, то это в некоторых случах дисциплинирует участников.</p>
+
+<p>Пример, challenge по какому-то курсу.</p>
+
+<p>Договариваемся, что изучаем материала минимум по пол часа видео в день.</p>
+
+<p>Каждый из участников:</p>
+
+<ul>
+  <li>скачивает материал к себе</li>
+  <li>создает каталог с названием “TODAY”</li>
+  <li>закидывает в него видео на оговоренный минимум.</li>
+  <li>и смотрит, изучает, прорабатывает. И пока не посмотрел, никаких ютубчиков, твичей, сериальчиков и даже порнхабчиков.</li>
+</ul>
+
+<p>Кому интересно, присоединяйтесь.</p>
+
+<p><br /></p>
+
+<p>В общем, если есть желание разбирать что-то коллективно:</p>
+
+<ul>
+  <li>пишите об этом в нашем телеграм чате.</li>
+  <li>создаете проект на github и после каждого видео (если в нем что-то делалось практическое и значимое) создаете коммит.</li>
+  <li>В файле Readme.md писать команды которые выполнялись в курсе.</li>
+  <li>Важные изменения в дизайне приложения фиксировать в скриншотах и добавлять их также в проект.</li>
+  <li>А здесь мы будем размещать ссылки на публичные репо участников.</li>
+</ul>
+
+<p><br /></p>
+
+<p><strong><a href="//labs.jsdev.org/">Планы по материалам, которые планируются изучить</a></strong></p>
+
+<p><br /></p>
+
+<h3 id="бесплатно-онлайн-rs-school-online-курсы-по-js-от-epamоцев-rus-предстоящее-событие-2021">[Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam’оцев [RUS, Предстоящее событие, 2021]</h3>
+
+<p><br /></p>
+
+<p><img src="/img/rs-school-js.png" alt="RS School React" title="RS School JS" class="center-image" /></p>
+
+<p><br /></p>
+
+<p><img src="/img/rs-school-nodejs.png" alt="RS School Node.js" title="RS School Node.js" class="center-image" /></p>
+
+<p><br /></p>
+
+<p><img src="/img/rs-school-mobile.png" alt="RS School Android and IOS" title="RS School Android and IOS" class="center-image" /></p>
+
+<p><br /></p>
+
+<p><strong>Записываться здесь:</strong><br />
+https://rs.school/</p>
+
+<p><br /></p>
+
+<p>Сам записался в школу.</p>
+
+<p>Прошел курс по node.js. Прохожу по Node.js + aws. Кому интересно, можно будет запланировать свое обучение на следующий поток. Например, курс Node.js + AWS планируют читать 2 раза в год.</p>
+
+<p>Программа есть. Записи видео, есть. Задания и критерии оценки, есть. Единственное чего нет, это наставников и обучающихся. Можете не терять времени и не ждать старта нового потока, а заранее изучить материалы и написать программы в расслабленном темпе. И когда отроется новый поток, вам не придется начинать с 0. Программисты с опытом разработки на JS, разумеется с заданиями справятся. А вот остальным может быть достаточно сложно.</p>
+
+<p>Курс читают и проводят преимущественно сотрудники EPAM. Как минимум, наверное, будет полезно посмотреть тем, кто еще не работает программистами или тем, кто работает, но не в софтверных компаниях.</p>
+
+<p>Студентам предлагают вакансии, преимуществено в белорусском EPAM’е для жителей Минска и его окраин.</p>
+
+<p><br /></p>
+
+<p><a href="/schools/rs-school/">Здесь мои записи по текущим курсам</a></p>
+
+<p><br /></p>
+
+<h3 id="пожелание-по-добавлению-инструкций-для-запуска-изученных-проектов">Пожелание по добавлению инструкций для запуска изученных проектов</h3>
+
+<p>Пройденные материалы должны оставаться в копилке разработчиков, чтобы к ним можно было вернуться и посмотреть реализацию. Поэтому предлагается подготавливать проект, чтобы его можно было легко запустить человеку, которому нужны примеры решений и он не хочет смотреть курс и тратить на него драгоценное время.</p>
+
+<p>Если изучаете всевозможные курсы или читаете книги, где создают толковые проекты сложнее “hello world”, делитесь результатами, чтобы их можно было легко запустить. Например, средствами docker, kubernetes. Сопровождайте проекты инструкциями для запуска.</p>
+
+<p><br /></p>
+
+<h3 id="newline-tinyhouse-a-fullstack-react-masterclass-with-typescript-and-graphql-eng-2020">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</h3>
+
+<p><strong>Для меня это лучший курс 2020</strong></p>
+
+<p>Достаточно интересный курс. Смотрю вторую часть проекта. Оригинальные исходные коды есть.</p>
+
+<p>Здесь и TypeScript, и GraphQL, и React, и MongoDB присутствуют.</p>
+
+<p>Сам проект я завернул в kubernetes и разработка ведется сразу в нем с автоматическим обновлением проекта при сохранении.</p>
+
+<p>Взяты последние пакеты, в том числе и ApolloClient 3.X.X. Кому интересно, делайте параллельно.</p>
+
+<p>Мои исходные коды <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL">здесь</a>.</p>
+
+<p><br /></p>
+
+<h3 id="zachary-reece-implement-high-fidelity-designs-with-material-ui-and-reactjs-eng-2020">[Zachary Reece] Implement High Fidelity Designs with Material-UI and ReactJS [ENG, 2020]</h3>
+
+<p>https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/</p>
+
+<p>Появились исходные коды. Придется изучать.</p>
+
+<p>35-40 часовой курс.</p>
+
+<p><br /></p>
+
+<h3 id="reed-barger-build-an-instagram-clone-with-react-eng-2020">[Reed Barger] Build an Instagram Clone with React [ENG, 2020]</h3>
+
+<p>Ну чего, посоны? Каждому по своему инстраграму?</p>
+
+<p><a href="https://github.com/webmakaka/Build-an-Instagram-Clone" rel="nofollow">[Reed Barger] Build an Instagram Clone with React [ENG, 2020]</a></p>
+
+<p>Мне понравился этот курс. Хоть Instagram и получился недоделанным, т.к. большая часть функционала не была реализована, но выглядит норм.</p>
+
+<p>Автор зачем-то понадеялся на Instagram CDN для своих картинок, который был благополучно удален сервисом где-то в середине записанного курса. Если кто будет копать, рекомендую просто скопировать мой вариант файла с картинками, чтобы вместо неподгрузившихся картинок, выводились собаки породы корги.</p>
+
+<p><img src="/img/barger-build-an-instagram-clone-with-react.jpg" alt="Build an Instagram Clone with React" title="Build an Instagram Clone with React" class="center-image" /></p>
+
+<p><br /></p>
+
+<h3 id="stephen-grider-microservices-with-node-js-and-react-eng-2020">[Stephen Grider] Microservices with Node JS and React [ENG, 2020]</h3>
+
+<p>https://www.udemy.com/course/microservices-with-node-js-and-react/</p>
+
+<p><br /></p>
+
+<p>Материал для тех, кому интересны темы docker, kubernetes, react, node.js, typescript, next.js</p>
+
+<p>https://github.com/webmakaka/Microservices-with-Node-JS-and-React</p>
+
+<p>Да тяжело. 54 часа видеоматериалов от топового учителя по соверменным js технологиям.</p>
+
+<p><br /></p>
+
+<h3 id="andrei-neagoie-yihua-zhang-complete-react-developer-in-2020-w-redux-hooks-graphql-eng-2019">[Andrei Neagoie, Yihua Zhang] Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) [ENG, 2019]</h3>
+
+<p><strong>Для меня это лучший курс 2019</strong></p>
+
+<p>https://github.com/webmakaka/Complete-React-Developer-In-2020-Redux-Hooks-GraphQL</p>
+
+<p>Наверное, это самый интересный и полезный курс по React который смотрел когда-либо.</p>
+
+<p>Но на самом деле он под конец начинает поднадоедать. Мы по сути на один проект то накатываем какие-то технологии, то их скручиваем. То redux-thunk, to redux-saga, to hooks.</p>
+
+<p><br />
+<br /></p>
+
+<p><strong>Обсуждаем всякую ерунду, обменваемся материалами, обсуждаем вакансии <a href="/chat/">в телеграм чате</a></strong></p>
+:ET

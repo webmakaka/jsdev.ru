@@ -2,7 +2,18 @@
 
 <br/>
 
-### Run jsdev.ru on localhost
+### Запустить jsdev.ru на своем хосте с использованием docker-compose (для работы над проектом):
+
+    $ docker-compose up
+
+<br/>
+
+Остается подключиться к localhost  
+Порт подключения 80
+
+<br/>
+
+### Запустить jsdev.ru на своем linux хосте как сервис
 
     # vi /etc/systemd/system/jsdev.ru.service
 

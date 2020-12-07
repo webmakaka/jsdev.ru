@@ -10,6 +10,34 @@ permalink: /materials/
 
 <br/>
 
+### [YouTube, webDev] TypeScript. Полный курс [RUS, 2020]
+
+<br/>
+
+https://www.youtube.com/watch?v=5QnZ9AyDW6c
+
+<br/>
+
+### [YouTube, webDev] TypeScript & React. Полный курс [RUS, 2020]
+
+https://www.youtube.com/watch?v=xL-a5Tox7Qw
+
+<br/>
+
+### [YouTube, webDev] React Testing Library [RUS, 2020]
+
+https://www.youtube.com/watch?v=v4pycbXkP1Y
+
+<br/>
+
+### [YouTube, webDev] TypeScript. Полный курс [RUS, 2020]
+
+<br/>
+
+https://www.youtube.com/watch?v=5QnZ9AyDW6c
+
+<br/>
+
 ### [Книги] Вы не знаете JS [RUS]
 
 https://vk.com/wall-51126445_40929

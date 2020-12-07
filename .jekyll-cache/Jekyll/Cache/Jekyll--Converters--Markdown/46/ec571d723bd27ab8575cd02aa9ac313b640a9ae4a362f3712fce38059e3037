@@ -1,0 +1,147 @@
+I"�<h1 id="бесплатно-онлайн-rs-school-nodejs-in-cloud-aws-course-rus-2020">[Бесплатно] [Онлайн] [RS School] Node.js in Cloud AWS Course [RUS, 2020]</h1>
+
+<p><br /></p>
+
+<p><strong>Node.js in Cloud AWS Course</strong><br />
+https://community-z.com/events/nodejs-cloudaws-rs</p>
+
+<p><br /></p>
+
+<p><strong>Расписание:</strong><br />
+https://docs.google.com/spreadsheets/d/1sqRkuaDStMT5TnLiU1GIT4hyDSDn8dYLk892QOo9QRo/edit#gid=0</p>
+
+<p><br /></p>
+
+<p><strong>Задачи:</strong></p>
+
+<p>https://github.com/rolling-scopes-school/nodejs-aws-tasks/</p>
+
+<p><br /></p>
+
+<p><strong>Содержание курса:</strong></p>
+
+<p>В курсе будут освещены следующие темы:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Модуль 1
+
+* AWS Intro, Registration, Cloud Watch, IAM
+* Fundamental theory about
+Cloud vs On-Premise: pros/cons (auto scaling, cross regional, availability zones, reliability, security, pay-as-you-go)
+* Cloud Computing
+* Monolith vs Microservices vs Serverless
+* Repository structure
+
+Модуль 2
+
+* Host (already created) Static React SPA in AWS S3, CloudFront (Serverless Framework serverless-finch)
+
+Модуль 3
+
+* AWS Serverless Framework API Gateway + Lambda
+* Collect logs CloudWatch (Part about RDS)
+
+Модуль 4
+
+* Cloud Databases Overview
+* Overview of DB solutions (SQL, No-SQL (Dynamodb, Mongo, Redis, Elastic Search), NewSQL)
+* Connect Lambda with RDS (PostgreSQL)
+
+Модуль 5
+
+* Lambda to upload file to S3 using lambda, download file
+
+Модуль 6
+
+* SNS subscription to file upload + SQS chunk post to Lambda
+
+Модуль 7
+
+* Lambda Authorizer + Cognito Authorization
+
+Модуль 8
+
+* Host already prepared CART REST (NestJS) service using Docker
+
+Модуль 9
+
+* BFF Service to get data from Lambda and REST CRUD Products (ELB overview autoscaling, logs, PaS benefits)
+
+Модуль 10
+
+* Microservice NPM package to share code between services: Logging, Error Handling, Auth, Utils to send Http requests, …
+* CI/CD deployment using Github
+
+</code></pre></div></div>
+
+<p><br /></p>
+
+<p><strong>Лекции:</strong></p>
+
+<p>(Лекция 1)<br />
+https://www.youtube.com/watch?v=TkQS7Ej6zVs</p>
+
+<p>(Лекция 2)<br />
+https://www.youtube.com/watch?v=kY0P_QxVzKw</p>
+
+<p>(Вопросы 2)<br />
+https://www.youtube.com/watch?v=8M_JoLh7tA4</p>
+
+<p>(Лекция 3)<br />
+https://www.youtube.com/watch?v=BJwx3XQ9ZqI</p>
+
+<p>(Вопросы 3)<br />
+https://www.youtube.com/watch?v=5ymuKq_RpZQ</p>
+
+<p>(Лекция 4)<br />
+https://www.youtube.com/watch?v=dfD9jvAlaz4</p>
+
+<p>(Вопросы 4)<br />
+https://www.youtube.com/watch?v=7zd3K6zqmmE</p>
+
+<p>(Лекция 5)<br />
+https://www.youtube.com/watch?v=5buEN_Ps8SQ</p>
+
+<p>(Вопросы 5)<br />
+https://www.youtube.com/watch?v=_cq0P7cgMTo</p>
+
+<p>(Лекция 6)<br />
+https://www.youtube.com/watch?v=Fu9txvDvsDY</p>
+
+<p>(Вопросы 6)<br />
+https://www.youtube.com/watch?v=lS6_33tCgrI</p>
+
+<p>(Лекция 7)<br />
+https://www.youtube.com/watch?v=cWsNF3kmDuE</p>
+
+<p>(Вопросы 7)
+https://www.youtube.com/watch?v=GFPKFMFAV6o</p>
+
+<p>(Лекция 8)<br />
+https://www.youtube.com/watch?v=S6WfFEETW_s</p>
+
+<p>(Презентации 8)<br />
+https://jsdev.ru/files/rs-school/aws/Lecture-8-Docker-Elastic-Beanstalk.pdf</p>
+
+<p>(Вопросы 8)<br />
+https://www.youtube.com/watch?v=LJX4FJrXW9U</p>
+
+<!--
+
+<br/>
+
+**Презентации:**
+
+https://epam-my.sharepoint.com/:p:/p/oleksandr_bondarenko2/Eb3r0QtSnYhAnnmV5qetGnQB7ss7Hu2swvapHBAi1gHsNg?rtime=lP3F8Tt02Eg
+
+-->
+
+<p><br /></p>
+
+<p><strong>Коды:</strong></p>
+
+<p><br /></p>
+
+<p>https://github.com/boale/serverlessTestApp</p>
+
+<p>https://github.com/maksumov/serverless-single-page-app-plugin</p>
+:ET
