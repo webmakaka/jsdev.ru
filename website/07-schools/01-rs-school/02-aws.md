@@ -134,6 +134,13 @@ https://jsdev.ru/files/rs-school/aws/Lecture-8-Docker-Elastic-Beanstalk.pdf
 (Вопросы 8)  
 https://www.youtube.com/watch?v=LJX4FJrXW9U
 
+(Лекция 9)  
+https://www.youtube.com/watch?v=_B5n11Tq2Pc
+
+(Вопросы 9)  
+https://www.youtube.com/watch?v=NE6UPhRbnE8
+
+
 <!--
 
 <br/>
