@@ -2,11 +2,39 @@
 layout: page
 title: RS School - Node.js in Cloud AWS Course
 description: RS School - Node.js in Cloud AWS Course
-keywords: RS School, Node.js in AWS
+keywords: RS School, Node.js, AWS, Lambdas, RDS, CloudFront, Serverless, CloudFormation, Elastic Beanstalk, Docker, Registry, React, TypeScript, NestJS
 permalink: /schools/rs-school/aws/
 ---
 
 # [Бесплатно] [Онлайн] [RS School] Node.js in Cloud AWS Course [RUS, 2020]
+
+<br/>
+
+Послесловие!
+
+Я регистировал аккаунт на виртуальную карту QIWI. Не у всех прошло.
+
+Потом оказалось, что я не могу создать CloudFront без дополнительной проврки, которая после обращения в техподдержку длилась не менее 10 дней. Из-за этого, я по первой практической задаче получил 2 балла из 5. Т.е. рекомендуется сразу проверить работает или нет CloudFront.
+
+Была проблема (по моему мнению на стороне AWS). Я стал получать письма на электронную почту в больших количествах при выполнении лабораторной с отправкой почтовых сообщений.
+
+Я удалил все сервисы и вообще почти все, что только можно, но еще 2 часа получал электронные письма. Превысил лимит и мне выставили за них небольшой, но счет.
+
+Чувак, в чате написал, что он использовал свой аккаунт не Free Tier. Ему все это стоило $31.67, больше всего съел RDS.
+
+![Node.js in Cloud AWS Course Money Result](/img/rs-school-nodejs-aws-money.png 'Node.js in Cloud AWS Course Money Result'){: .center-image }
+
+На модуль 10 сил у организаторов не хватило. Новый год и т.д.
+
+Узнал много для себя нового и бесплатно получил новые знания. Могу рекомендовать. Думаю, формат может понравиться не всем. Особенно может не понравиться тем, кому нужно, чтобы за него все разжевывали.
+
+<br/>
+
+**На что нужно обязательно обратить внимание!:**
+
+- Обязательно установить лимиты на то, сколько можно потратить денег!
+- При создании RDS, не прозевать и поставить галочку, чтобы использовалась только Free Tier.
+- По завершении, обязательно удалите все ресурсы, чтобы не попасть на деньги.
 
 <br/>
 
@@ -20,9 +48,13 @@ https://docs.google.com/spreadsheets/d/1sqRkuaDStMT5TnLiU1GIT4hyDSDn8dYLk892QOo9
 
 <br/>
 
-**Задачи:**
-
+**Задачи:**  
 https://github.com/rolling-scopes-school/nodejs-aws-tasks/
+
+<br/>
+
+**Discord:**  
+https://discord.gg/5B3K8EB5
 
 <br/>
 
@@ -140,16 +172,8 @@ https://www.youtube.com/watch?v=_B5n11Tq2Pc
 (Вопросы 9)  
 https://www.youtube.com/watch?v=NE6UPhRbnE8
 
-
-<!--
-
-<br/>
-
-**Презентации:**
-
-https://epam-my.sharepoint.com/:p:/p/oleksandr_bondarenko2/Eb3r0QtSnYhAnnmV5qetGnQB7ss7Hu2swvapHBAi1gHsNg?rtime=lP3F8Tt02Eg
-
--->
+(Вопросы 10)  
+https://www.youtube.com/watch?v=q0qlmSxOWCU
 
 <br/>
 

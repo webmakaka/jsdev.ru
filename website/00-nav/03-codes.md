@@ -12,11 +12,10 @@ permalink: /codes/
 
 ### Одно и то же приложение на разных фрймворках от Oleksandr Kocherhin.
 
-Ract + Hooks: https://github.com/webmakaka/React-hooks-writing-real-project
-Angular: https://github.com/webmakaka/Angular-and-NgRx-Building-Real-Project-From-Scratch
-Vue: https://github.com/webmakaka/Vue-and-Vuex-Building-Real-Project-From-Scratch
+<a href="https://github.com/webmakaka/React-hooks-writing-real-project">Ract + Hooks</a> :: <a href="https://github.com/webmakaka/Angular-and-NgRx-Building-Real-Project-From-Scratch">Angular 11</a> :: <a href="https://github.com/webmakaka/Vue-and-Vuex-Building-Real-Project-From-Scratch">Vue + Vuex</a>
 
 <br/>
+
 **Backend от Oleksandr:**  
 https://github.com/EJIqpEP/koa-knex-realworld-example
 
