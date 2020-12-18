@@ -114,7 +114,7 @@ https://habr.com/ru/company/yandex/blog/514550/
 
 https://www.youtube.com/watch?v=zNnsNtBF80g&list=PLcjongJGYetkY4RFSVftH43F91vgzqB7U
 
-<a href="//jsdev.org/env/neovim/">Копал, чтобы настроить здесь</a>
+<a href="//jsdev.org/env/ide/neovim/">Копал, чтобы настроить здесь</a>
 
 <br/>
 
