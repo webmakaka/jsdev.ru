@@ -88,7 +88,7 @@ https://rs.school/
 
 <br/>
 
-### [Stephen Grider] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2021]
+### [Stephen Grider] A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2021]
 
 Вышел курс от топового автора. Нужно где-то выкроить время на изучение.
 
