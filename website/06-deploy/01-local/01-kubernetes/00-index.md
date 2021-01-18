@@ -21,5 +21,3 @@ permalink: /deploy/local/kubernetes/
 ### [Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [ENG, 2019]
 
 <a href="https://github.com/webmakaka/MERN-Stack-Front-To-Back-v2.0">Приложение</a>
-
-<a href="https://sysadm.ru/devops/containers/kubernetes/kubeadm/vagrant-centos7-3-node-kubernetes-cluster/">Инструкции для запуска в linux</a>
