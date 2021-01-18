@@ -22,7 +22,11 @@ permalink: /schools/rs-school/aws/
 
 Чувак, в чате написал, что он использовал свой аккаунт не Free Tier. Ему все это стоило $31.67, больше всего съел RDS.
 
+<br/>
+
 ![Node.js in Cloud AWS Course Money Result](/img/rs-school-nodejs-aws-money.png 'Node.js in Cloud AWS Course Money Result'){: .center-image }
+
+<br/>
 
 На модуль 10 сил у организаторов не хватило. Новый год и т.д.
 
@@ -172,7 +176,7 @@ https://www.youtube.com/watch?v=_B5n11Tq2Pc
 (Вопросы 9)  
 https://www.youtube.com/watch?v=NE6UPhRbnE8
 
-(Вопросы 10)  
+(Лекция 10)  
 https://www.youtube.com/watch?v=q0qlmSxOWCU
 
 <br/>
