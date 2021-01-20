@@ -94,6 +94,8 @@ https://rs.school/
 
 Кто будет смотреть и разбирать, присылайте ссылки на свои github репозитории.
 
+[Marley](https://github.com/webmakaka/React-and-Typescript-Build-a-Portfolio-Project)
+
 <br/>
 
 ### [NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]
