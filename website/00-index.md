@@ -88,13 +88,15 @@ https://rs.school/
 
 <br/>
 
-### [Stephen Grider] A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2021]
+### [nomadcoders.co] Uber Eats Clone [ENG, 2020]
 
-Вышел курс от топового автора. Нужно где-то выкроить время на изучение.
+https://www.youtube.com/watch?v=A8-Arx0ql68
 
-Кто будет смотреть и разбирать, присылайте ссылки на свои github репозитории.
+**Frontend:** ReactJS. GraphQL. Typescript. Apollo. TailwindCSS
 
-[Marley](https://github.com/webmakaka/React-and-Typescript-Build-a-Portfolio-Project)
+**Backend:** NestJS, Typescript, TypeORM, GraphQL
+
+[Marley](https://github.com/webmakaka/Uber-Eats-Clone)
 
 <br/>
 
