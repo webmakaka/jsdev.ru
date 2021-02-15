@@ -2,7 +2,7 @@
 layout: page
 title: RS School - Node.js in Cloud AWS Course
 description: RS School - Node.js in Cloud AWS Course
-keywords: RS School, Node.js, AWS, Lambdas, RDS, CloudFront, Serverless, CloudFormation, Elastic Beanstalk, Docker, Registry, React, TypeScript, NestJS
+keywords: schools, rs-school, node.js, AWS, Lambdas, RDS, CloudFront, Serverless, CloudFormation, Elastic Beanstalk, Docker, Registry, React, TypeScript, NestJS
 permalink: /schools/rs-school/aws/
 ---
 

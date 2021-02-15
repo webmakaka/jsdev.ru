@@ -2,7 +2,7 @@
 layout: page
 title: Бесплатные online курсы по JS от RS School
 description: Бесплатные online курсы по JS от RS School
-keywords: Бесплатные online курсы по JS от RS School
+keywords: schools, react, angular, node.js, aws
 permalink: /schools/rs-school/
 ---
 
@@ -27,6 +27,12 @@ https://app.rs.school
 https://app.rs.school/registry/student
 
 <br/>
+
+## 2021
+
+### [[Бесплатно] [Онлайн] [RS School] Разработка на React [RUS, 2021]](/schools/rs-school/react/)
+
+### [[Бесплатно] [Онлайн] [RS School] Разработка на Angular [RUS, 2021]](/schools/rs-school/angular/)
 
 ## 2020
 

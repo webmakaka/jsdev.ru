@@ -2,7 +2,7 @@
 layout: page
 title: RS School - Разработка на Node.js
 description: RS School - Разработка на Node.js
-keywords: RS School, Node.js
+keywords: schools, rs-school, node.js
 permalink: /schools/rs-school/nodejs/
 ---
 
