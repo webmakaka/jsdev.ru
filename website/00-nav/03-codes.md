@@ -21,6 +21,18 @@ https://github.com/EJIqpEP/koa-knex-realworld-example
 
 <br/>
 
+### [Udemy] The React practice course, learn by building projects [ENG, 2018]
+
+3 React проекта со скриптами для запуска и инструкциями по запуску в minikube
+
+<a href="https://github.com/webmakaka/The-React-Practice-Course-Learn-by-Building-Projects">Приложения</a>
+
+<br/>
+
+### [Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [ENG, 2019]
+
+<a href="https://github.com/webmakaka/MERN-Stack-Front-To-Back-v2.0">Приложение</a>
+
 ### Cezerin (ecommerce)
 
 https://github.com/cezerin2  
@@ -34,10 +46,6 @@ https://cezerin.ru/admin
 
 // Обсуждение  
 https://searchengines.guru/showthread.php?t=1010199
-
-<br/>
-
-### <a href="https://github.com/webmakaka/MERN-Stack-Front-To-Back-v2.0" rel="nofollow" target="_blank">[Brad Traversy] MERN Stack Front To Back: Full Stack React, Redux & Node.js [ENG, 2019]</a>
 
 <br/>
 

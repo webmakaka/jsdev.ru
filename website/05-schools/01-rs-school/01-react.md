@@ -34,3 +34,11 @@ https://github.com/klimenkomaksim/webpack-example
 https://slides.com/klmmm/webpack/fullscreen
 
 <br/>
+
+**02. React. Base**  
+https://www.youtube.com/watch?v=cJ9gGiH9UzA
+
+**Слайды**  
+https://docs.google.com/presentation/d/1Zl61lcoJPN81-jZhYTfjkPZkid7DLM0pGN3rK2N0ZZc/edit
+
+<br/>

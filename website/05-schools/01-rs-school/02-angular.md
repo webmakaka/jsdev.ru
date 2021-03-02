@@ -19,6 +19,21 @@ https://github.com/rolling-scopes-school/lectures/blob/master/Angular/angular-co
 
 <br/>
 
-**Кто выполнит все задания хорошо, получит сертификат!**
-
+**Кто выполнит все задания хорошо, получит сертификат!**  
 https://github.com/rolling-scopes-school/lectures/blob/master/Angular/angular-course.md
+
+<br/>
+
+**01. Intro**  
+https://www.youtube.com/watch?v=VeDh-lBCgh0
+
+**02. Angular 2021q1. Components**  
+https://www.youtube.com/watch?v=oOR3NpA02HI
+
+**03. Angular 2021q1. Modules, services, DI
+**  
+https://www.youtube.com/watch?v=3l8kUDM1naQ
+
+**03. Angular 2021q1. Modules, services, DI -p2
+**  
+https://www.youtube.com/watch?v=LS6HfpoCPhQ

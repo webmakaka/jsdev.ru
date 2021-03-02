@@ -104,6 +104,14 @@ https://rs.school/
 
 <br/>
 
+### [John Bura] Front-End Web-Dev Masterclass w/ React and Material-UI [ENG, 2021]
+
+Материал кажется интересным. Могу рекомендовать. Сам не шарю в дизайн от слова совсем.
+
+[Marley](https://github.com/webmakaka/Front-End-Web-Dev-Masterclass-with-React-and-Material-UI)
+
+<br/>
+
 ### [nomadcoders.co] Uber Eats Clone [ENG, 2020]
 
 https://www.youtube.com/watch?v=A8-Arx0ql68

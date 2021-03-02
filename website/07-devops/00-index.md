@@ -8,6 +8,8 @@ permalink: /devops/
 
 # DevOps
 
+[Docker / Kubernetes](/devops/containers/)
+
 [CI/CD](/devops/ci-cd/)
 
 [Deploy](/devops/deploy/)
