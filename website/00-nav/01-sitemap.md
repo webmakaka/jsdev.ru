@@ -12,8 +12,6 @@ permalink: /sitemap/
 
 ### [Изучаем основы](/basics/)
 
-### [Материалы](/materials/)
-
 ### [Видеокурсы](/courses/)
 
 ### [Книги](/books/)

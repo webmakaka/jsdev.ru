@@ -10,6 +10,8 @@ permalink: /devops/containers/
 
 <br/>
 
+Админ сайта активно пользуется docker / kubernetes и предлагает делиться проектами, работающими в них. Поэтому здесь и представлены ссылки на данные видео.
+
 ### Docker для начинающих и чайников + практический опыт
 
 https://www.youtube.com/watch?v=TI2eG_sjllg&list=PLxeQ-jZjcEf2HI9B0l1YuUy_-iAjlydwR
@@ -28,4 +30,4 @@ https://www.youtube.com/watch?v=71NVOjCTzq0&list=PLxeQ-jZjcEf1jQS_RpBwUy2OfFMGeR
 
 <br/>
 
-Автор в своем telegram чате раздает купоны на курсы, что продаются на udemy. Можно урвать халяву и изучать новинки бесплатно на Udemy.
+Автор в своем telegram чате раздает купоны на курсы, что продаются на udemy. Можно урвать халяву и изучать новинки бесплатно на Udemy. Название группы смотри на youtube.
