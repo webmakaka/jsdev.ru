@@ -104,6 +104,14 @@ https://rs.school/
 
 <br/>
 
+### [Bassir Jafarzadeh] Build Ecommerce Website Like Amazon [React & Node & MongoDB] [ENG, 2021]
+
+Индусятина, но проект кажется интересным для изучения.
+
+https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mongodb/
+
+<br/>
+
 ### [John Bura] Front-End Web-Dev Masterclass w/ React and Material-UI [ENG, 2021]
 
 Материал кажется интересным. Могу рекомендовать. Сам не шарю в дизайн от слова совсем.

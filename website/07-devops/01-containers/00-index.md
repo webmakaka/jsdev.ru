@@ -31,3 +31,9 @@ https://www.youtube.com/watch?v=71NVOjCTzq0&list=PLxeQ-jZjcEf1jQS_RpBwUy2OfFMGeR
 <br/>
 
 Автор в своем telegram чате раздает купоны на курсы, что продаются на udemy. Можно урвать халяву и изучать новинки бесплатно на Udemy. Название группы смотри на youtube.
+
+<br/>
+
+### Skaffold - How to Build and Deploy In Kubernetes
+
+https://www.youtube.com/watch?v=qS_4Qf8owc0
