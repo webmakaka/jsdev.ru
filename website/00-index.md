@@ -106,9 +106,17 @@ https://rs.school/
 
 ### [Bassir Jafarzadeh] Build Ecommerce Website Like Amazon [React & Node & MongoDB] [ENG, 2021]
 
-Индусятина, но проект кажется интересным для изучения.
+Индусятина, но проект кажется интересным для изучения. Особенно для начинающих.
 
 https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mongodb/
+
+<br/>
+
+[**Demo**](https://newamazona-final.herokuapp.com/)
+
+<br/>
+
+[**GitHub**](https://github.com/webmakaka/Build-Ecommerce-Website-Like-Amazon-React-Node-MongoDB)
 
 <br/>
 
