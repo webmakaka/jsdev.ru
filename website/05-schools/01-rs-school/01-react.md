@@ -42,3 +42,36 @@ https://www.youtube.com/watch?v=cJ9gGiH9UzA
 https://docs.google.com/presentation/d/1Zl61lcoJPN81-jZhYTfjkPZkid7DLM0pGN3rK2N0ZZc/edit
 
 <br/>
+
+**03. React. Advanced**  
+https://www.youtube.com/watch?v=whCKieG65KM
+
+<br/>
+
+**04. React. Hooks**  
+https://www.youtube.com/watch?v=3-Zh_DAzCi0
+
+<br/>
+
+**05. React. Routing**  
+https://www.youtube.com/watch?v=0TQpC8n-OHs
+
+<br/>
+
+**06. React. Redux**  
+https://www.youtube.com/watch?v=0TQpC8n-OHs
+
+<br/>
+
+**07. React. SSR**  
+https://www.youtube.com/watch?v=0TQpC8n-OHs
+
+<br/>
+
+**Code**  
+https://github.com/ToshaBely/react-lectures/
+
+<br/>
+
+**08. React. GraphQL**  
+https://www.youtube.com/watch?v=8yb9zpDia40
