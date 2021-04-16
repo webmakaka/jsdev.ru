@@ -25,11 +25,13 @@ Insert code from jsdev.ru.service
 
 http://localhost:4017
 
+<br/><br/>
+
 ---
+
+<br/>
 
 **Marley**
 
-<a href="https://jsdev.org">jsdev.org</a>
-
-Any questions on eng: https://t.me/jsdev_org  
-Любые вопросы на русском: https://t.me/jsdev_ru
+Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>  
+Любые вопросы на русском: <a href="https://jsdev.ru/chat/">Телеграм чат</a>
