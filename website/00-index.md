@@ -6,6 +6,33 @@ permalink: /
 
 # Изучаем, обсуждаем и делимся материалами для освоения современного JavaScript и JavaScript фреймворков на русском языке
 
+# [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев [RUS, предстоящее событие стартующее 3 мая 2021]
+
+Будет полезно тем, кто хочет освоить node.js.
+
+<br/>
+
+![RS School Node.js](/img/rs-school-nodejs.png 'RS School Node.js'){: .center-image }
+
+<br/>
+
+**Программа:**
+
+- Node.js basics
+- Debugging in Node.js
+- Typescript basics
+- REST + layered patterns
+- Logging & Error Handling
+- Docker (for Windows)
+- PostgreSQL + Typeorm
+- Authentication, JWT, Security, CORS
+- Nest.js
+- Microservices architecture
+
+<br/>
+
+[Подробнее](/schools/rs-school/)
+
 <br/>
 
 ### Совместное изучение материалов по современному javascript и javascript фреймворков
