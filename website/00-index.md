@@ -43,7 +43,7 @@ permalink: /
 
 <br/>
 
-### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев [RUS, Предстоящее событие, 2021]
+### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев [RUS, 2021]
 
 <br/>
 
@@ -104,6 +104,20 @@ https://rs.school/
 
 <br/>
 
+### [nomadcoders.co] Uber Eats Clone [ENG, 2020]
+
+Изучаю вот этот материал. Мне нравится. Осталось изучать 25 часов.
+
+https://www.youtube.com/watch?v=A8-Arx0ql68
+
+**Frontend:** ReactJS. GraphQL. Typescript. Apollo. TailwindCSS
+
+**Backend:** NestJS, Typescript, TypeORM, GraphQL
+
+[Marley](https://github.com/webmakaka/Uber-Eats-Clone)
+
+<br/>
+
 ### [Bassir Jafarzadeh] Build Ecommerce Website Like Amazon [React & Node & MongoDB] [ENG, 2021]
 
 Индусятина, но проект кажется интересным для изучения. Особенно для начинающих.
@@ -116,6 +130,8 @@ https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mong
 
 <br/>
 
+Смотреть не стал, проект запустил, оставил исходники.
+
 [**GitHub**](https://github.com/webmakaka/Build-Ecommerce-Website-Like-Amazon-React-Node-MongoDB)
 
 <br/>
@@ -125,18 +141,6 @@ https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mong
 Материал кажется интересным. Могу рекомендовать. Сам не шарю в дизайн от слова совсем.
 
 [Marley](https://github.com/webmakaka/Front-End-Web-Dev-Masterclass-with-React-and-Material-UI)
-
-<br/>
-
-### [nomadcoders.co] Uber Eats Clone [ENG, 2020]
-
-https://www.youtube.com/watch?v=A8-Arx0ql68
-
-**Frontend:** ReactJS. GraphQL. Typescript. Apollo. TailwindCSS
-
-**Backend:** NestJS, Typescript, TypeORM, GraphQL
-
-[Marley](https://github.com/webmakaka/Uber-Eats-Clone)
 
 <br/>
 
