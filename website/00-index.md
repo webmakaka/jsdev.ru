@@ -6,7 +6,9 @@ permalink: /
 
 # Изучаем, обсуждаем и делимся материалами для освоения современного JavaScript и JavaScript фреймворков на русском языке
 
-# [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев [RUS, предстоящее событие стартующее 3 мая 2021]
+<br/>
+
+### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев [RUS, предстоящее событие стартующее 3 мая 2021]
 
 Будет полезно тем, кто хочет освоить node.js.
 
@@ -16,7 +18,7 @@ permalink: /
 
 <br/>
 
-**Программа:**
+**Программа (взято из discord чата):**
 
 - Node.js basics
 - Debugging in Node.js
@@ -98,7 +100,7 @@ permalink: /
 
 ### [nomadcoders.co] Uber Eats Clone [ENG, 2020]
 
-Изучаю вот этот материал. Мне нравится. Осталось изучать 25 часов.
+Изучаю вот этот материал. Мне нравится. Осталось изучать ~ 24 часа.
 
 https://www.youtube.com/watch?v=A8-Arx0ql68
 
@@ -106,33 +108,7 @@ https://www.youtube.com/watch?v=A8-Arx0ql68
 
 **Backend:** NestJS, Typescript, TypeORM, GraphQL
 
-[Marley](https://github.com/webmakaka/Uber-Eats-Clone)
-
-<br/>
-
-### [Bassir Jafarzadeh] Build Ecommerce Website Like Amazon [React & Node & MongoDB] [ENG, 2021]
-
-Индусятина, но проект кажется интересным для изучения. Особенно для начинающих.
-
-https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mongodb/
-
-<br/>
-
-[**Demo**](https://newamazona-final.herokuapp.com/)
-
-<br/>
-
-Смотреть не стал, проект запустил, оставил исходники.
-
-[**GitHub**](https://github.com/webmakaka/Build-Ecommerce-Website-Like-Amazon-React-Node-MongoDB)
-
-<br/>
-
-### [John Bura] Front-End Web-Dev Masterclass w/ React and Material-UI [ENG, 2021]
-
-Материал кажется интересным. Могу рекомендовать. Сам не шарю в дизайн от слова совсем.
-
-[Marley](https://github.com/webmakaka/Front-End-Web-Dev-Masterclass-with-React-and-Material-UI)
+[GitHub Repo](https://github.com/webmakaka/Uber-Eats-Clone)
 
 <br/>
 
@@ -149,6 +125,22 @@ https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mong
 Взяты последние пакеты, в том числе и ApolloClient 3.X.X. Кому интересно, делайте параллельно.
 
 Мои исходные коды <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL">здесь</a>.
+
+<br/>
+
+### [Bassir Jafarzadeh] Build Ecommerce Website Like Amazon [React & Node & MongoDB] [ENG, 2021]
+
+Индусятина, но проект кажется интересным для изучения. Особенно для начинающих.
+
+https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mongodb/
+
+[**Demo**](https://newamazona-final.herokuapp.com/)
+
+<br/>
+
+Смотреть не стал, проект запустил, оставил исходники.
+
+[**GitHub**](https://github.com/webmakaka/Build-Ecommerce-Website-Like-Amazon-React-Node-MongoDB)
 
 <br/>
 
