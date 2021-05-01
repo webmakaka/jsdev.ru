@@ -100,13 +100,13 @@ permalink: /
 
 ### [nomadcoders.co] Uber Eats Clone [ENG, 2020]
 
-Изучаю вот этот материал. Мне нравится. Осталось изучать ~ 24 часа.
+Изучаю вот этот материал. Мне нравится. Осталось изучать ~ 12 часов.
 
 https://www.youtube.com/watch?v=A8-Arx0ql68
 
 **Frontend:** ReactJS. GraphQL. Typescript. Apollo. TailwindCSS
 
-**Backend:** NestJS, Typescript, TypeORM, GraphQL
+**Backend:** NestJS, Typescript, TypeORM, GraphQL, PostgreSQL, MailGun
 
 [GitHub Repo](https://github.com/webmakaka/Uber-Eats-Clone)
 

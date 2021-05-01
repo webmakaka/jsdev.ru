@@ -10,6 +10,8 @@ permalink: /sitemap/
 
 <br/>
 
+### [Git](/devtools/)
+
 ### [Изучаем основы](/basics/)
 
 ### [Видеокурсы](/courses/)
