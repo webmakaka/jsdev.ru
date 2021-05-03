@@ -55,16 +55,8 @@ https://app.rs.school
 **Регистрация:**  
 https://app.rs.school/registry/student
 
-<br/>
-
-## 2021
-
-### [[Бесплатно] [Онлайн] [RS School] Разработка на React [RUS, 2021]](/schools/rs-school/react/)
-
-### [[Бесплатно] [Онлайн] [RS School] Разработка на Angular [RUS, 2021]](/schools/rs-school/angular/)
-
 ## 2020
 
 ### [[Бесплатно] [Онлайн] [RS School] Разработка на Node.js [RUS, 2020]](/schools/rs-school/nodejs/)
 
-### [[Бесплатно] [Онлайн] [RS School] Node.js in Cloud AWS Course [RUS, 2020]](/schools/rs-school/aws/)
+### [[Бесплатно] [Онлайн] [RS School] Node.js in Cloud AWS Course [RUS, 2020]](/schools/rs-school/nodejs/aws/)
