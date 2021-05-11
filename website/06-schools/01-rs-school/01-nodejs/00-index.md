@@ -8,6 +8,8 @@ permalink: /schools/rs-school/nodejs/
 
 # Бесплатные online курсы по Node.js от RS School
 
+<br/>
+
 ## 2021
 
 ### [[Бесплатно] [Онлайн] [RS School] Разработка на Node.js [RUS, 2021]](/schools/rs-school/nodejs/2021/)

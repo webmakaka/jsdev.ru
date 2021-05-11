@@ -8,6 +8,8 @@ permalink: /basics/data-structures/
 
 # Data Structures
 
+<br/>
+
 https://www.youtube.com/watch?v=9WCuoy90fBM
 
 Слайды можно найти тут:

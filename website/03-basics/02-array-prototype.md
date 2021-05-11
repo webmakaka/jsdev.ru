@@ -8,6 +8,8 @@ permalink: /basics/array-prototype/
 
 # Array.prototype
 
+<br/>
+
 Лекция про работу с массивами в JS
 
 https://www.youtube.com/watch?v=5bSBT7aRLQ0

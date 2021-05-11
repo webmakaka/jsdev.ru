@@ -8,6 +8,8 @@ permalink: /basics/scope/
 
 # Scope
 
+<br/>
+
 https://www.youtube.com/watch?v=tCFjSMfoPTM
 
 Материалы, которые были по Scope: https://kirilknysh.github.io/js-scope-talk/#/

@@ -8,6 +8,8 @@ permalink: /basics/
 
 # Изучаем JavaScript
 
+<br/>
+
 ### [Git](/basics/git/)
 
 ### [Array.prototype](/basics/array-prototype/)

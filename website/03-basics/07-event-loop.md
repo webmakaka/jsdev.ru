@@ -8,6 +8,8 @@ permalink: /basics/event-loop/
 
 # Event Loop
 
+<br/>
+
 https://www.youtube.com/watch?v=w7wPSVB-S28
 
 <br/>
@@ -198,9 +200,9 @@ let fnWith3Params = tranformedPrint(1)(2)(3)(4);
 
 <br/>
 
-<div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/8cV4ZvHXQL4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Блин видео с переводом удалил. Осталось только в оригинале.
+
+https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 <br/>
 
