@@ -98,15 +98,31 @@ permalink: /
 
 <br/>
 
+### [Wes Bos] Advanced React and GraphQL [2021, ENG]
+
+Next.js, Node.js, Styled Components, Apollo Client, KeyStone.js, MongoDB
+
+<br/>
+
+[GitHub Repo](https://github.com/webmakaka/Advanced-React-and-GraphQL)
+
+<br/>
+
 ### [nomadcoders.co] Uber Eats Clone [ENG, 2020]
 
-Изучаю вот этот материал. Мне нравится. Осталось изучать ~ 12 часов.
+Отличный материал!
 
 https://www.youtube.com/watch?v=A8-Arx0ql68
 
 **Frontend:** ReactJS. GraphQL. Typescript. Apollo. TailwindCSS
 
 **Backend:** NestJS, Typescript, TypeORM, GraphQL, PostgreSQL, MailGun
+
+<br/>
+
+Под конец, поднадоедает и подключается библиотеки для работы с Google Maps, который требует аккаунта подвержденного кредитной картой (насколько помню).
+
+<br/>
 
 [GitHub Repo](https://github.com/webmakaka/Uber-Eats-Clone)
 
