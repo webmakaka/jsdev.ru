@@ -394,3 +394,28 @@ taggedUsers: [User!]!
 }
 
 ```
+
+<br/>
+
+### Настройка проекта
+
+<br/>
+
+https://github.com/moonhighway/learning-graphql
+
+<br/>
+
+**chapter-05**
+
+<br/>
+
+    $ npm init -y
+    $ npm install apollo-server graphql nodemon
+
+package.json
+
+```json
+"scripts": {
+"start": "nodemon·src/index.js·--ext·js,json,graphql"
+}
+```

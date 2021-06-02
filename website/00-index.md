@@ -98,6 +98,20 @@ permalink: /
 
 <br/>
 
+### [Ларичев Антон] React + Next.js - с нуля. TypeScript, Hooks, SSR и CSS Grid [2021, RUS]
+
+https://www.udemy.com/course/react-nextjs/
+
+Сначала, по хорошему, нужно разработать backend.
+
+<br/>
+
+### [Ларичев Антон] NestJS - с нуля, современный backend на TypeScript и Node JS [2021, RUS]
+
+https://www.udemy.com/course/nestjs-backend-typescript-node-js/
+
+<br/>
+
 ### [Wes Bos] Advanced React and GraphQL [2021, ENG]
 
 Next.js, Node.js, Styled Components, Apollo Client, KeyStone.js, MongoDB
@@ -136,9 +150,11 @@ https://www.youtube.com/watch?v=A8-Arx0ql68
 
 Здесь и TypeScript, и GraphQL, и React, и MongoDB присутствуют.
 
+UPD. В Бонусах MongoDB заменяется на PostgreSQL и лекции по тестированию с помощью Jest.
+
 Сам проект я завернул в kubernetes и разработка ведется сразу в нем с автоматическим обновлением проекта при сохранении.
 
-Взяты последние пакеты, в том числе и ApolloClient 3.X.X. Кому интересно, делайте параллельно.
+Взяты последние пакеты, в том числе и ApolloClient. Кому интересно, делайте параллельно.
 
 Мои исходные коды <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL">здесь</a>.
 
