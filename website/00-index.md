@@ -98,6 +98,10 @@ permalink: /
 
 <br/>
 
+## Из актуального:
+
+<br/>
+
 ### [Oleksandr Kocherhin] NestJS - пишем API для реального проекта с нуля [RUS, 2021]
 
 https://www.udemy.com/course/nestjs-writing-api-for-the-real-project-from-scratch/
