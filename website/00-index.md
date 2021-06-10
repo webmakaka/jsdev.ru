@@ -104,7 +104,15 @@ permalink: /
 
 ### [Oleksandr Kocherhin] NestJS - пишем API для реального проекта с нуля [RUS, 2021]
 
+NestJS, TypeORM, PostgreSQL
+
 https://www.udemy.com/course/nestjs-writing-api-for-the-real-project-from-scratch/
+
+[Приложение](https://github.com/webmakaka/NestJS-Building-Real-Project-API-From-Scratch)
+
+<br/>
+
+- к нему есть фронт на Angular, React, Vue в других курсах автора.
 
 <br/>
 
@@ -117,6 +125,8 @@ https://www.udemy.com/course/react-nextjs/
 <br/>
 
 ### [Ларичев Антон] NestJS - с нуля, современный backend на TypeScript и Node JS [RUS, 2021]
+
+База MongoDB
 
 https://www.udemy.com/course/nestjs-backend-typescript-node-js/
 
