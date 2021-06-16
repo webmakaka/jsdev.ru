@@ -166,3 +166,28 @@ $ curl \
     --request PUT http://localhost:4000/api/game/update/2 \
     | python -m json.tool
 ```
+
+<br/>
+
+### Загрузка файла на сервер с помощью curl
+
+<br/>
+
+```
+// UPLOAD FILE
+$ curl \
+    -F "files=@/home/marley/Pictures/rs.png" \
+    --header "Content-Type: multipart/form-data" \
+    --header "Authorization: Bearer ${TOKEN}" \
+    --request POST "http://localhost:3000/api/files/upload" \
+    | python -m json.tool
+```
+
+Есть и другие какие-то варианты.  
+Лучше скачать insomnia и посмотреть в ней.
+
+Обратить внимание на files - если назвать не так как ожидает сервер (в nestjs), будет приходить undefined.
+
+<br/>
+
+[Пример](https://github.com/webmakaka/WebProject)
