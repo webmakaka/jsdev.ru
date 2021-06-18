@@ -12,7 +12,7 @@ permalink: /sitemap/
 
 ### [Git](/devtools/)
 
-### [Изучаем основы](/basics/)
+### [Изучаем основы](/lang/js/basics/)
 
 ### [Видеокурсы](/courses/)
 

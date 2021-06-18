@@ -8,24 +8,6 @@ permalink: /curl/
 
 # Curl
 
-**Примеры:**
-
-**cookie, insecure**
-
-https://github.com/webmakaka/Microservices-with-Node-JS-and-React-Improved
-
-<br/>
-
-**Токен:**
-
-https://github.com/webmakaka/MERN-Stack-Front-To-Back-v2.0/blob/master/API.md
-
-<br/>
-
-**File Upload:**
-
-https://github.com/webmakaka/Node.js-API-Masterclass-With-Express-MongoDB/blob/master/Development.md
-
 <br/>
 
 ```
@@ -191,3 +173,25 @@ $ curl \
 <br/>
 
 [Пример](https://github.com/webmakaka/WebProject)
+
+<br/>
+
+### Примеры:
+
+<br/>
+
+**cookie, insecure**
+
+https://github.com/webmakaka/Microservices-with-Node-JS-and-React-Improved
+
+<br/>
+
+**Токен:**
+
+https://github.com/webmakaka/MERN-Stack-Front-To-Back-v2.0/blob/master/API.md
+
+<br/>
+
+**File Upload:**
+
+https://github.com/webmakaka/Node.js-API-Masterclass-With-Express-MongoDB/blob/master/Development.md

@@ -3,7 +3,7 @@ layout: page
 title: Data Structures
 description: Data Structures
 keywords: javascript, Data Structures
-permalink: /basics/data-structures/
+permalink: /lang/js/basics/data-structures/
 ---
 
 # Data Structures

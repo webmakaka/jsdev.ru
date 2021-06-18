@@ -3,7 +3,7 @@ layout: page
 title: Array.prototype
 description: Array.prototype
 keywords: javascript, Array.prototype
-permalink: /basics/array-prototype/
+permalink: /lang/js/basics/array-prototype/
 ---
 
 # Array.prototype

@@ -16,7 +16,12 @@ permalink: /codes/
 
 <br/>
 
-**Backend от Oleksandr:**  
+**Backend от Oleksandr на nest.js + typeorm:**
+
+<a href="https://github.com/webmakaka/NestJS-Building-Real-Project-API-From-Scratch">Nest + TypeOrm</a>
+
+и может быть тоже полезно:
+
 https://github.com/EJIqpEP/koa-knex-realworld-example
 
 <br/>

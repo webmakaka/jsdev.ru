@@ -3,7 +3,7 @@ layout: page
 title: This
 description: This
 keywords: javascript, This
-permalink: /basics/this/
+permalink: /lang/js/basics/this/
 ---
 
 # This

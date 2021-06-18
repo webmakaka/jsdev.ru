@@ -3,7 +3,7 @@ layout: page
 title: Functions
 description: Functions
 keywords: javascript, Functions
-permalink: /basics/functions/
+permalink: /lang/js/basics/functions/
 ---
 
 # Functions

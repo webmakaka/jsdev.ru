@@ -3,12 +3,12 @@ layout: page
 title: GraphQL
 description: GraphQL
 keywords: grqphql
-permalink: /grqphql/
+permalink: /api/grqphql/
 ---
 
 # GraphQL
 
-Есть:
+**Есть:**
 
 - Query
 - Mutation
@@ -21,6 +21,10 @@ permalink: /grqphql/
 
 <br/>
 
+Проще всего начать с того, чтобы [скачать](https://github.com/webmakaka/The-Modern-GraphQL-Bootcamp-2019) простой проект из папки 01-graphql-basics и позапускать его.
+
+<br/>
+
 ### Query
 
 ```
@@ -30,6 +34,8 @@ permalink: /grqphql/
   }
 }
 ```
+
+<br/>
 
 ```
 $ curl 'http://snowtooth.herokuapp.com/' \

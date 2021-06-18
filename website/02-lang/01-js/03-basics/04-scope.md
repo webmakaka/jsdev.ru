@@ -3,7 +3,7 @@ layout: page
 title: Scope
 description: Scope
 keywords: javascript, Scope
-permalink: /basics/scope/
+permalink: /lang/js/basics/scope/
 ---
 
 # Scope

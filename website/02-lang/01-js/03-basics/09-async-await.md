@@ -3,7 +3,7 @@ layout: page
 title: Async/Await
 description: Async/Await
 keywords: Async/Await
-permalink: /basics/async-await/
+permalink: /lang/js/basics/async-await/
 ---
 
 # Async/Await

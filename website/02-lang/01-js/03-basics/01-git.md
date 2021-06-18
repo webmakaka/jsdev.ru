@@ -3,7 +3,7 @@ layout: page
 title: Git
 description: Git
 keywords: javascript, Git
-permalink: /basics/git/
+permalink: /lang/js/basics/git/
 ---
 
 # Git
