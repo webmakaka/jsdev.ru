@@ -120,7 +120,13 @@ https://www.udemy.com/course/nestjs-writing-api-for-the-real-project-from-scratc
 
 https://www.udemy.com/course/react-nextjs/
 
-Сначала, по хорошему, нужно разработать backend.
+Неожиданно, материал оказался достаточно интересным для меня. Он достаточно сложный, но интересный.
+
+Осталось изучуть 11 часов видео контента.
+
+<br/>
+
+[Моя версия данного проекта на github](https://github.com/webmakaka/WebProject)
 
 <br/>
 
