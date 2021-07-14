@@ -8,9 +8,9 @@ permalink: /
 
 <br/>
 
-### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев [RUS, предстоящее событие стартующее 2 августа 2021]
+### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев [RUS, предстоящее событие, стартующее 2 августа 2021]
 
-Будет полезно тем, кто хочет освоить AWS. Будут изучать Lambda Functions, Serverless Framework.
+Будет полезно тем, кто хочет познакомиться с AWS. Будут изучать Lambda Functions, Serverless Framework.
 
 Придется работать с приложением на React, нужно знать на начальном уровне Node.js.
 
@@ -91,7 +91,7 @@ permalink: /
 
 ### [Oleksandr Kocherhin] NestJS - пишем API для реального проекта с нуля [RUS, 2021]
 
-NestJS, TypeORM, PostgreSQL
+**NestJS, TypeORM, PostgreSQL**
 
 https://www.udemy.com/course/nestjs-writing-api-for-the-real-project-from-scratch/
 
@@ -109,7 +109,7 @@ https://www.udemy.com/course/react-nextjs/
 
 Неожиданно, материал оказался достаточно интересным для меня. Он достаточно сложный, но интересный.
 
-Осталось изучуть 11 часов видео контента.
+Осталось изучуть 5 часов видео контента.
 
 <br/>
 
@@ -119,7 +119,7 @@ https://www.udemy.com/course/react-nextjs/
 
 ### [Ларичев Антон] NestJS - с нуля, современный backend на TypeScript и Node JS [RUS, 2021]
 
-База MongoDB
+**База MongoDB**
 
 https://www.udemy.com/course/nestjs-backend-typescript-node-js/
 
