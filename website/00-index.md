@@ -8,7 +8,13 @@ permalink: /
 
 <br/>
 
-### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев [RUS, предстоящее событие, стартующее 2 августа 2021]
+## [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев
+
+<br/>
+
+## NODE.JS IN CLOUD AWS [RUS, предстоящее событие, стартующее 2 августа 2021]
+
+https://rs.school/nodejs-aws/
 
 Будет полезно тем, кто хочет познакомиться с AWS. Будут изучать Lambda Functions, Serverless Framework.
 
@@ -17,6 +23,14 @@ permalink: /
 <br/>
 
 ![RS School Node.js](/img/rs-school-nodejs.png 'RS School Node.js'){: .center-image }
+
+<br/>
+
+### JS / FRONT-END [RUS, предстоящее событие, стартующее 5 сентября]
+
+<br/>
+
+https://rs.school/js/
 
 <br/>
 
