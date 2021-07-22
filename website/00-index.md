@@ -10,6 +10,27 @@ permalink: /
 
 ## [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев
 
+
+<br/>
+
+## REACT и ANGULAR [RUS, предстоящее событие, стартующее 27 июля 2021]
+
+**Ссылка на регистрацию:**
+
+https://app.rs.school/registry/student
+
+
+<br/>
+
+**Ссылка на вводное видео:**
+
+https://www.youtube.com/watch?v=x5yLoQvP64E
+
+
+Может пустят, может нет.
+
+
+
 <br/>
 
 ## NODE.JS IN CLOUD AWS [RUS, предстоящее событие, стартующее 2 августа 2021]
