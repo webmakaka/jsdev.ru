@@ -10,26 +10,19 @@ permalink: /
 
 ## [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев
 
-
 <br/>
 
-## REACT и ANGULAR [RUS, предстоящее событие, стартующее 27 июля 2021]
+## REACT и ANGULAR [RUS, стартовало 27 июля 2021]
 
 **Ссылка на регистрацию:**
 
 https://app.rs.school/registry/student
-
 
 <br/>
 
 **Ссылка на вводное видео:**
 
 https://www.youtube.com/watch?v=x5yLoQvP64E
-
-
-Может пустят, может нет.
-
-
 
 <br/>
 
@@ -56,6 +49,10 @@ https://rs.school/js/
 <br/>
 
 [Подробнее](/schools/rs-school/)
+
+<br/>
+
+![RS School](/img/rs-school.png 'RS School'){: .center-image }
 
 <br/>
 
