@@ -101,7 +101,7 @@ https://rs.school/js/
 
 **UPD. Вот здеь удалось подготовить "идеальный" пример, как это можно реализовать.**
 
-[Реопзиторий](https://github.com/webmakaka/Packaging-Applications-with-Helm-for-Kubernetes/)
+[Репозиторий](https://github.com/webmakaka/Packaging-Applications-with-Helm-for-Kubernetes/)
 
 Внутри простое angular + node + mongodb приложение.
 

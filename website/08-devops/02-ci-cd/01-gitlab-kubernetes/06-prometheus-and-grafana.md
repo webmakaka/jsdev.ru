@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 06. Prometheus & Grafaran
-description: 06. Prometheus & Grafaran
+title: 06. Prometheus & Grafana
+description: 06. Prometheus & Grafana
 keywords: devops, ci-cd, gitlab, kubernetes, docker, prometheus, grafana
 permalink: /devops/ci-cd/gitlab-kubernetes/prometheus-and-grafana/
 ---
 
-# 06. Prometheus & Grafaran
+# 06. Prometheus & Grafana
 
 ### [Запуск Prometheus (мониторинг) и Grafana (визуализация) в kuberntes cluster с помощью heml](//sysadm.ru/devops/devops/containers/kubernetes/monitoring/prometheus-and-grafana-test-only/)
 
@@ -114,8 +114,7 @@ http://localhost:9090/config
 
 <br/>
 
-Конфигурация Prometheus обновляется
-каждые три минуты.
+Конфигурация Prometheus обновляется каждые три минуты.
 
 Применилось ли обновление можно посмотреть командой:
 

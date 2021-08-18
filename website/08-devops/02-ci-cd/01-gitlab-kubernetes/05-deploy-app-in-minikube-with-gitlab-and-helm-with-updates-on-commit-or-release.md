@@ -8,6 +8,8 @@ permalink: /devops/ci-cd/gitlab-kubernetes/deploy-app-in-minikube-with-gitlab-an
 
 # 05. Deploy приложения с помощью GitLab и Helm в MiniKube, обновляющегося при коммите или релизе
 
+<br/>
+
 ### Устанавливаем динамические значения переменных в HelmChart
 
 <br/>
@@ -77,6 +79,8 @@ $ helm delete myguestbook
 ```
 $ export CI_COMMIT_TAG=15aee951
 ```
+
+<br/>
 
 ```
 $ helm upgrade myguestbook -i apps/v1/chart/guestbook --reuse-values --set-string frontend.image.tag=$CI_COMMIT_TAG --set-string backend.image.tag=$CI_COMMIT_TAG --dry-run --debug

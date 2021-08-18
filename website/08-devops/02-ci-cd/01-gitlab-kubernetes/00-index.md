@@ -42,6 +42,6 @@ permalink: /devops/ci-cd/gitlab-kubernetes/
 
 ### [05. Deploy приложения с помощью GitLab и Helm в MiniKube, обновляющегося при коммите или релизе](/devops/ci-cd/gitlab-kubernetes/deploy-app-in-minikube-with-gitlab-and-helm-with-updates-on-commit-or-release/)
 
-### [06. Prometheus & Grafaran](/devops/ci-cd/gitlab-kubernetes/prometheus-and-grafana/)
+### [06. Prometheus & Grafana](/devops/ci-cd/gitlab-kubernetes/prometheus-and-grafana/)
 
 ### [07. ELK & KIBANA](/devops/ci-cd/gitlab-kubernetes/elastic/)

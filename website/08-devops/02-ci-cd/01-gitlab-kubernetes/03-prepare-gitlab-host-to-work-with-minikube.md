@@ -32,6 +32,8 @@ ca.key	config	  logs		     proxy-client-ca.key
 
 Нужно скопировать на виртуалку с gitlab:
 
+<br/>
+
 ```
 .minikube/ca.crt
 .minikube/profiles/devops-app/client.crt
@@ -85,6 +87,8 @@ devops-app   Ready    control-plane,master   84m   v1.20.2
 <br/>
 
 Нужно заменить ссылки на сертификаты client-certificate и client-key на содержимое данных файлов. Для этого.
+
+<br/>
 
 ```
 $ kubectl config view --flatten=true  > /home/gitlab/.kube/config.txt
