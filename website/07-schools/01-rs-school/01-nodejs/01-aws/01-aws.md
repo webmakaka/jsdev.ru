@@ -140,8 +140,11 @@ https://www.youtube.com/watch?v=LTNDfy_td1w
 (Лекция 3)  
 https://www.youtube.com/watch?v=BJwx3XQ9ZqI
 
-(Вопросы 3)  
+(Вопросы 3)[2020]  
 https://www.youtube.com/watch?v=5ymuKq_RpZQ
+
+(Вопросы 3)[2021]  
+https://www.youtube.com/watch?v=Jr2_SrIlCV0
 
 (Лекция 4)  
 https://www.youtube.com/watch?v=dfD9jvAlaz4

@@ -8,9 +8,19 @@ permalink: /
 
 <br/>
 
-## [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев
+### [Timur Shemsedinov] Node.js и Back-end (КПИ 3 и 4 курс) [RUS, 2021]
 
 <br/>
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/xgB_1z1WuiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+## [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев
+
+<!-- <br/>
 
 ## REACT и ANGULAR [RUS, стартовало 27 июля 2021]
 
@@ -36,7 +46,7 @@ https://rs.school/nodejs-aws/
 
 <br/>
 
-![RS School Node.js](/img/rs-school-nodejs.png 'RS School Node.js'){: .center-image }
+![RS School Node.js](/img/rs-school-nodejs.png 'RS School Node.js'){: .center-image } -->
 
 <br/>
 

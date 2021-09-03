@@ -10,6 +10,10 @@ permalink: /curl/
 
 <br/>
 
+[Приложение](https://github.com/webmak1/Rolling-Scopes-School-Nodejs-Course-Task-3-broken-app)
+
+<br/>
+
 ```
 // SIGN UP
 $ curl \
@@ -20,7 +24,7 @@ $ curl \
       "email":"marley1@example.com"}' \
     --header "Content-Type: application/json" \
     --request POST http://localhost:4000/api/auth/signup \
-    | python -m json.tool
+    | jq
 ```
 
 <br/>
@@ -33,7 +37,7 @@ $ curl \
       "password":"123456789"}' \
     --header "Content-Type: application/json" \
     --request POST http://localhost:4000/api/auth/signin \
-    | python -m json.tool
+    | jq
 ```
 
 **returns**
@@ -47,7 +51,7 @@ $ curl \
 <br/>
 
 ```
-// GREATE THE GAME 1
+// CREATE THE GAME 1
 $ curl \
     --data '{
       "title":"Starcraft 2",
@@ -59,13 +63,13 @@ $ curl \
     --header "Content-Type: application/json" \
     --header "authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjIxMzc4OTkxLCJleHAiOjE2MjE0NjUzOTF9.EXHGuiebq97etqCFXTh9wVBNvFcTpK-fpwIAd7OlC0w" \
     --request POST http://localhost:4000/api/game/create \
-    | python -m json.tool
+    | jq
 ```
 
 <br/>
 
 ```
-// GREATE THE GAME 2
+// CREATE THE GAME 2
 $ curl \
     --data '{
       "title":"Quake 2",
@@ -77,13 +81,13 @@ $ curl \
     --header "Content-Type: application/json" \
     --header "authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjIxMzc4OTkxLCJleHAiOjE2MjE0NjUzOTF9.EXHGuiebq97etqCFXTh9wVBNvFcTpK-fpwIAd7OlC0w" \
     --request POST http://localhost:4000/api/game/create \
-    | python -m json.tool
+    | jq
 ```
 
 <br/>
 
 ```
-// GREATE THE GAME 3
+// CREATE THE GAME 3
 $ curl \
     --data '{
       "title":"Dead Space 3",
@@ -95,7 +99,7 @@ $ curl \
     --header "Content-Type: application/json" \
     --header "authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjIxMzc4OTkxLCJleHAiOjE2MjE0NjUzOTF9.EXHGuiebq97etqCFXTh9wVBNvFcTpK-fpwIAd7OlC0w" \
     --request POST http://localhost:4000/api/game/create \
-    | python -m json.tool
+    | jq
 ```
 
 <br/>
@@ -106,7 +110,7 @@ $ curl \
     --header "Content-Type: application/json" \
     --header "authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjIxMzc4OTkxLCJleHAiOjE2MjE0NjUzOTF9.EXHGuiebq97etqCFXTh9wVBNvFcTpK-fpwIAd7OlC0w" \
     --request GET http://localhost:4000/api/game/all \
-    | python -m json.tool
+    | jq
 ```
 
 <br/>
@@ -117,7 +121,7 @@ $ curl \
     --header "Content-Type: application/json" \
     --header "authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjIxMzc4OTkxLCJleHAiOjE2MjE0NjUzOTF9.EXHGuiebq97etqCFXTh9wVBNvFcTpK-fpwIAd7OlC0w" \
     --request DELETE http://localhost:4000/api/game/remove/3 \
-    | python -m json.tool
+    | jq
 ```
 
 <br/>
@@ -128,7 +132,7 @@ $ curl \
     --header "Content-Type: application/json" \
     --header "authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjIxMzc4OTkxLCJleHAiOjE2MjE0NjUzOTF9.EXHGuiebq97etqCFXTh9wVBNvFcTpK-fpwIAd7OlC0w" \
     --request GET http://localhost:4000/api/game/2 \
-    | python -m json.tool
+    | jq
 ```
 
 <br/>
@@ -146,7 +150,7 @@ $ curl \
     --header "Content-Type: application/json" \
     --header "authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjIxMzc4OTkxLCJleHAiOjE2MjE0NjUzOTF9.EXHGuiebq97etqCFXTh9wVBNvFcTpK-fpwIAd7OlC0w" \
     --request PUT http://localhost:4000/api/game/update/2 \
-    | python -m json.tool
+    | jq
 ```
 
 <br/>
@@ -162,7 +166,7 @@ $ curl \
     --header "Content-Type: multipart/form-data" \
     --header "Authorization: Bearer ${TOKEN}" \
     --request POST "http://localhost:3000/api/files/upload" \
-    | python -m json.tool
+    | jq
 ```
 
 Есть и другие какие-то варианты.  
