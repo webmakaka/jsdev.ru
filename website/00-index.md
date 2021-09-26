@@ -20,41 +20,13 @@ permalink: /
 
 ## [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев
 
-<!-- <br/>
-
-## REACT и ANGULAR [RUS, стартовало 27 июля 2021]
-
-**Ссылка на регистрацию:**
-
-https://app.rs.school/registry/student
-
-<br/>
-
-**Ссылка на вводное видео:**
-
-https://www.youtube.com/watch?v=x5yLoQvP64E
-
-<br/>
-
-## NODE.JS IN CLOUD AWS [RUS, предстоящее событие, стартующее 2 августа 2021]
-
-https://rs.school/nodejs-aws/
-
-Будет полезно тем, кто хочет познакомиться с AWS. Будут изучать Lambda Functions, Serverless Framework.
-
-Придется работать с приложением на React, нужно знать на начальном уровне Node.js.
-
-<br/>
-
-![RS School Node.js](/img/rs-school-nodejs.png 'RS School Node.js'){: .center-image } -->
-
-<br/>
-
-### JS / FRONT-END [RUS, предстоящее событие, стартующее 5 сентября]
-
-<br/>
-
 https://rs.school/js/
+
+<br/>
+
+Новый набор Node.js 2021Q4 стартует 1 ноября
+
+https://app.rs.school/registry/student?course=nodejs-2021-q4
 
 <br/>
 
