@@ -8,17 +8,19 @@ permalink: /
 
 <br/>
 
-### [Timur Shemsedinov] Node.js и Back-end (КПИ 3 и 4 курс) [RUS, 2021]
+### [Zero to Mastery] Complete Next.js Developer in 2022: Zero to Mastery [ENG, 2021]
 
 <br/>
 
-<div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/xgB_1z1WuiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+В интернетах появился курс. Качайте / Покупайте, если посчитаете интересным. Я приступаю. Можете поделиться своим репо. Советы по улучшению принимаются.
 
 <br/>
 
-## [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев
+[Подробнее](https://github.com/webmakaka/Complete-Next.js-Developer-in-2022-Zero-to-Mastery)
+
+<br/>
+
+### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев
 
 https://rs.school/js/
 
@@ -28,6 +30,12 @@ https://rs.school/js/
 
 https://app.rs.school/registry/student?course=nodejs-2021-q4
 
+Когда-то давно, рекомендовали следующие лекции для быстрого старта:
+
+Node.js https://youtu.be/CAvqa6Lj_Rg  
+Node.js #1 https://youtu.be/TEuDTl8SdZo  
+Node.js #2 https://youtu.be/3Pp0K_rgk8U
+
 <br/>
 
 [Подробнее](/schools/rs-school/)
@@ -35,6 +43,16 @@ https://app.rs.school/registry/student?course=nodejs-2021-q4
 <br/>
 
 ![RS School](/img/rs-school.png 'RS School'){: .center-image }
+
+<br/>
+
+### [Timur Shemsedinov] Node.js и Back-end (КПИ 3 и 4 курс) [RUS, 2021]
+
+<br/>
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/xgB_1z1WuiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br/>
 
