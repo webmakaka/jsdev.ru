@@ -8,6 +8,20 @@ permalink: /
 
 <br/>
 
+### [GitPod] Запуск приложений бесплатно в облаках для демонстрации
+
+<br/>
+
+Пока у меня работает только 1 приложение!
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/webmakaka/cats-app)
+
+<br/>
+
+Разумеется, для frontend можно такое же делать и с помощью gh-pages, pages.dev, netlify
+
+<br/>
+
 ### [Zero to Mastery] Complete Next.js Developer in 2022: Zero to Mastery [ENG, 2021]
 
 <br/>
