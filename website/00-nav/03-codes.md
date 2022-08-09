@@ -26,12 +26,6 @@ https://github.com/EJIqpEP/koa-knex-realworld-example
 
 <br/>
 
-### [Bassir Jafarzadeh] Build Ecommerce Website Like Amazon [React & Node & MongoDB] [ENG, 2021]
-
-<a href="https://github.com/webmakaka/Build-Ecommerce-Website-Like-Amazon-React-Node-MongoDB">Приложения</a>
-
-<br/>
-
 ### [Udemy] The React practice course, learn by building projects [ENG, 2018]
 
 3 React проекта со скриптами для запуска и инструкциями по запуску в minikube

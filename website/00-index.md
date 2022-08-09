@@ -22,18 +22,6 @@ permalink: /
 
 <br/>
 
-### [Zero to Mastery] Complete Next.js Developer in 2022: Zero to Mastery [ENG, 2021]
-
-<br/>
-
-В интернетах появился курс. Качайте / Покупайте, если посчитаете интересным. Я приступаю. Можете поделиться своим репо. Советы по улучшению принимаются.
-
-<br/>
-
-[Подробнее](https://github.com/webmakaka/Complete-Next.js-Developer-in-2022-Zero-to-Mastery)
-
-<br/>
-
 ### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев
 
 https://rs.school/js/
@@ -128,56 +116,6 @@ Node.js #2 https://youtu.be/3Pp0K_rgk8U
 Манифесты kubernetes хранятся в нужном формате, который используется для создания пакетов для быстрой установки приложений и могут быть размещены в хранилищах репозиториев.
 
 Подключив локальный <a href="//gitops.ru/ci-cd/gitlab/kubernetes/">GitLab</a>, можно сделать автоматическую сборку и deploy по коммиту или релизу на тестовый или боевой сервер kubernetes.
-
-<br/>
-
-## Из актуального:
-
-<br/>
-
-### [Oleksandr Kocherhin] NestJS - пишем API для реального проекта с нуля [RUS, 2021]
-
-**NestJS, TypeORM, PostgreSQL**
-
-https://www.udemy.com/course/nestjs-writing-api-for-the-real-project-from-scratch/
-
-[Приложение](https://github.com/webmakaka/NestJS-Building-Real-Project-API-From-Scratch)
-
-<br/>
-
-- к нему есть фронт на Angular, React, Vue в других курсах автора.
-
-<br/>
-
-### [Ларичев Антон] React + Next.js - с нуля. TypeScript, Hooks, SSR и CSS Grid [RUS, 2021]
-
-https://www.udemy.com/course/react-nextjs/
-
-Неожиданно, материал оказался достаточно интересным для меня. Он достаточно сложный, но интересный.
-
-По завершении, могу сказать следующее.
-
-Даже логин пользователя не реализовали, не говоря про отправку чего-либо на сервер.
-Зато 2.5 часа уделили оптимизации под нужды людей с ограниченными способностями.
-Для такого функционала, как-то слишком долго разрабатывали.
-
-Тяжелее смотрится, чем обычно.
-Осталось ощущение незавершенности проекта.
-(Блин, да даже стартовую страницу нормально не сделали).
-
-Но для для себя я узнал много нового и впервые попробовал Next + Typescript + CSS Grid
-
-<br/>
-
-[Моя версия данного проекта на github](https://github.com/webmakaka/WebProject)
-
-<br/>
-
-### [Ларичев Антон] NestJS - с нуля, современный backend на TypeScript и Node JS [RUS, 2021]
-
-**База MongoDB**
-
-https://www.udemy.com/course/nestjs-backend-typescript-node-js/
 
 <br/>
 <br/>

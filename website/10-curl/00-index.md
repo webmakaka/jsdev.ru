@@ -351,9 +351,17 @@ curl \
   --header "Authorization: Basic $AUTH" \
   --request POST \
   --data  '{"key1":"value1", "key2":"value2"}' \
-  https://example.com/
+  --url https://example.com/
 ```
 
 <br/>
 
 https://www.ibm.com/docs/en/connect-direct/6.0.0?topic=apis-example-1-submit-process-using-curl
+
+<br/>
+
+### Kubernetes
+
+```
+kubectl run -i --rm --restart=Never curl-client --image=curlimages/curl --command -- curl -s 'http://nginx-service:80'
+```
