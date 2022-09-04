@@ -8,6 +8,20 @@ permalink: /
 
 <br/>
 
+### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев [Сентябрь 2022]
+
+https://rs.school/js/
+
+<br/>
+
+[Подробнее](/schools/rs-school/)
+
+<br/>
+
+![RS School](/img/rs-school.png 'RS School'){: .center-image }
+
+<br/>
+
 ### [GitPod] Запуск приложений бесплатно в облаках для демонстрации
 
 <br/>
@@ -19,32 +33,6 @@ permalink: /
 <br/>
 
 Разумеется, для frontend можно такое же делать и с помощью gh-pages, pages.dev, netlify
-
-<br/>
-
-### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев
-
-https://rs.school/js/
-
-<br/>
-
-Новый набор Node.js 2021Q4 стартует 1 ноября
-
-https://app.rs.school/registry/student?course=nodejs-2021-q4
-
-Когда-то давно, рекомендовали следующие лекции для быстрого старта:
-
-Node.js https://youtu.be/CAvqa6Lj_Rg  
-Node.js #1 https://youtu.be/TEuDTl8SdZo  
-Node.js #2 https://youtu.be/3Pp0K_rgk8U
-
-<br/>
-
-[Подробнее](/schools/rs-school/)
-
-<br/>
-
-![RS School](/img/rs-school.png 'RS School'){: .center-image }
 
 <br/>
 
