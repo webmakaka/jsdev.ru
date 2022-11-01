@@ -43,7 +43,7 @@ permalink: /schools/rs-school/nodejs/aws/
 <br/>
 
 **Node.js in Cloud AWS Course**  
-https://community-z.com/events/nodejs-cloudaws-rs
+https://wearecommunity.io/events/nodejs-cloudaws-rs
 
 <br/>
 
