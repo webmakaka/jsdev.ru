@@ -42,7 +42,7 @@ https://rs.school/js/
 
 <br/>
 
-### [YouTube][timur shemsedinov] Node.js в 2023 Введение в технологию [RUS, 2023]
+### [YouTube][тимур шамсединов] Node.js в 2023 Введение в технологию [RUS, 2023]
 
 <br/>
 
