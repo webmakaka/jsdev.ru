@@ -22,7 +22,7 @@ permalink: /schools/rs-school/
 
 <br/>
 
-**Записываться здесь:**
+**Записываться здесь:**  
 https://rs.school/
 
 <br/>

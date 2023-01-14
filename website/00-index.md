@@ -8,7 +8,7 @@ permalink: /
 
 <br/>
 
-### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев [Сентябрь 2022]
+### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев [Январь, 2023]
 
 https://rs.school/js/
 
@@ -16,13 +16,19 @@ https://rs.school/js/
 
 [Подробнее](/schools/rs-school/)
 
+Записался на основы. Т.е. stage 0. Может смогу разобраться и с фигмами.
+
 <br/>
 
 ![RS School](/img/rs-school.png 'RS School'){: .center-image }
 
 <br/>
 
-### [GitPod] Запуск приложений бесплатно в облаках для демонстрации
+Наверняка, не хуже платных курсов. Но определенно тяжелее.
+
+<br/>
+
+### [GitPod] Запуск приложений бесплатно в облаках для демонстраций
 
 <br/>
 
@@ -36,12 +42,12 @@ https://rs.school/js/
 
 <br/>
 
-### [Timur Shemsedinov] Node.js и Back-end (КПИ 3 и 4 курс) [RUS, 2021]
+### [YouTube][timur shemsedinov] Node.js в 2023 Введение в технологию [RUS, 2023]
 
 <br/>
 
 <div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/xgB_1z1WuiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/mRvzgBGLVyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <br/>
