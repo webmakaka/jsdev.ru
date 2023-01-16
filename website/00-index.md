@@ -10,6 +10,12 @@ permalink: /
 
 ### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев [Январь, 2023]
 
+<br/>
+
+![RS School](/img/rs.png 'RS School'){: .center-image }
+
+<br/>
+
 https://rs.school/js/
 
 <br/>
