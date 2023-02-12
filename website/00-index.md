@@ -8,7 +8,7 @@ permalink: /
 
 <br/>
 
-### [Бесплатно] [Онлайн] [RS School] Online курсы по JS от Epam'оцев [Январь, 2023]
+### [Бесплатно] [Онлайн] [RS School] Online курс по JS [Март, 2023]
 
 <br/>
 
@@ -22,7 +22,9 @@ https://rs.school/js/
 
 [Подробнее](/schools/rs-school/)
 
-Записался на основы. Т.е. stage 0. Может смогу разобраться и с фигмами.
+Будет по основам.
+
+Собираюсь зайти на Angular.
 
 <br/>
 
@@ -34,17 +36,9 @@ https://rs.school/js/
 
 <br/>
 
-### [GitPod] Запуск приложений бесплатно в облаках для демонстраций
+### [Zero to Mastery] Complete Angular Developer in 2023 [ENG, 2022]
 
-<br/>
-
-Пока у меня работает только 1 приложение!
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/webmakaka/cats-app)
-
-<br/>
-
-Разумеется, для frontend можно такое же делать и с помощью gh-pages, pages.dev, netlify
+Предлагаю делать параллельно. При необходимости обсуждать в <a href="/chat/">телеграм чате</a>
 
 <br/>
 
