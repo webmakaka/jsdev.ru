@@ -38,7 +38,7 @@ https://rs.school/js/
 
 ### [Zero to Mastery] Complete Angular Developer in 2023 [ENG, 2022]
 
-Текущая версия автоматом деплоится <a href="https://complete-angular-developer.jsdev.org/">сюда</a>
+Текущая версия автоматом деплоится <a href="https://complete-angular-developer.vercel.app/">сюда</a>
 
 Предлагаю делать параллельно. При необходимости обсуждать в <a href="/chat/">телеграм чате</a>
 
